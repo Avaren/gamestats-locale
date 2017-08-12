@@ -1,42 +1,142 @@
-msgid "Set language for {guild_name} to {language}"
-msgstr "Mettre les paramètres locaux pour {guild_name} à {language}"
+# French translations for GameStats.
+# Copyright (C) 2017 GameStats
+# This file is distributed under the same license as the GameStats project.
+# https://github.com/Avaren, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GameStats 0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
+"POT-Creation-Date: 2017-08-12 12:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ☭ Joseph Staline ☭#4200\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
 
-msgid "{language} not in list of available languages: {languages}"
-msgstr "{language} n'est pas dans la liste des paramètres locaux disponibles: {languages}"
+msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+msgstr ""
+
+msgid "A {platforms} account is required to obtain {game} stats"
+msgstr ""
 
 msgid "Available languages: [{languages}]"
 msgstr "Paramètres locaux disponibles: [{languages}]"
 
-msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr "{language} a été ajouté à la liste des paramètres locaux disponibles, qui sont: [{languages}]"
+msgid "Check your DMs"
+msgstr ""
+
+msgid "Files for {language_key} not found"
+msgstr ""
+
+msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
+msgstr ""
 
 msgid "Languages reloaded"
 msgstr "Paramètres locaux rechargés"
 
-msgid "Please enter your {game} account name:"
-msgstr "Peux-tu mettre ton nom de compte de {game}:"
-
-msgid "No response from user."
-msgstr "Pas de réponse de l'utilisateur"
+msgid "Looking up {user} on {game} on {platform}..."
+msgstr "Je recherche {user} sur {game} sur {platform}..."
 
 msgid "Looking up {user} on {game}..."
 msgstr "Je recherche {user} sur {game}..."
 
-msgid "Looking up {user} on {game} on {platform}..."
-msgstr "Je recherche {user} sur {game} sur {platform}..."
+msgid "No response from user."
+msgstr "Pas de réponse de l'utilisateur"
 
-msgid "{game} account not found for {user}"
-msgstr "Pas de compte trouvé sur {game} pour {user}"
+msgid "No {game} players found on this server. Do {prefix}{game_key} first."
+msgstr ""
 
-msgid "What platform do you play {game} on? [{platforms}]"
-msgstr "Sur quelle plateforme jouez-vous {game}? [{platforms}]"
+msgid "Please enter your account name for {game}:"
+msgstr ""
+
+msgid "Please enter your {game} account name:"
+msgstr "Peux-tu mettre ton nom de compte de {game}:"
+
+msgid ""
+"Profile created. To add accounts use {prefix}add <account>\n"
+"Supported accounts: {accounts}"
+msgstr ""
+
+msgid "Set language for {guild_name} to {language}"
+msgstr "Mettre les paramètres locaux pour {guild_name} à {language}"
+
+msgid "Shows your stats from {game}"
+msgstr ""
+
+msgid "Sorry that account isn't on your profile."
+msgstr ""
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+
+msgid "Supported accounts: {accounts}"
+msgstr ""
+
+msgid ""
+"Supported games:\n"
+"{games}"
+msgstr ""
+
+msgid "That user hasn't added an account for {game}"
+msgstr "Cet utilisateur n'a pas ajouté un compte pour {game}"
+
+msgid "That was not a valid choice. You have {tries} more tries."
+msgstr ""
 
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Ce n'est pas une plateforme valide, les options sont : {platforms}"
 
+msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
+msgstr ""
+
+msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
+msgstr ""
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "Sur quelle plateforme jouez-vous {game}? [{platforms}]"
+
+msgid "You do not have permission to change the language on {guild}."
+msgstr ""
+
+msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
+msgstr ""
+
+msgid "You don't have any accounts on your profile, add some!"
+msgstr ""
+
+msgid "You have already registered {account}"
+msgstr ""
+
+msgid "You have not yet set up a profile, do {prefix}profile to get started."
+msgstr ""
+
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Tu dois ajouter un compte sur {game}, écris {prefix}add {game_key}"
 
-msgid "That user hasn't added an account for {game}"
-msgstr "Cet utilisateur n'a pas ajouté un compte pour {game}"
+msgid "{game} Leaderboard for {guild}"
+msgstr ""
+
+msgid "{game} account not found for {user}"
+msgstr "Pas de compte trouvé sur {game} pour {user}"
+
+msgid "{game} account not found for {user} on {platform}"
+msgstr ""
+
+msgid "{language_key} removed from available languages, which are: [{languages}]"
+msgstr ""
+
+msgid "{language} added to list of available languages, which are: [{languages}]"
+msgstr "{language} a été ajouté à la liste des paramètres locaux disponibles, qui sont: [{languages}]"
+
+msgid "{language} not in list of available languages: {languages}"
+msgstr "{language} n'est pas dans la liste des paramètres locaux disponibles: {languages}"
 

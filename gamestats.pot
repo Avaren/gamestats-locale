@@ -1,3 +1,22 @@
+# Translations template for GameStats.
+# Copyright (C) 2017 GameStats
+# This file is distributed under the same license as the GameStats project.
+# https://github.com/Avaren, 2017.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GameStats 0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
+"POT-Creation-Date: 2017-08-12 12:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Avaren#9383\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 msgstr ""
 
