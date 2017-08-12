@@ -1,0 +1,41 @@
+msgid "Set language for {guild_name} to {language}"
+msgstr "Setze Sprache für {guild_name} auf {language}"
+
+msgid "{language} not in list of available languages: {languages}"
+msgstr "{language} ist nicht in der Liste verfügbarer Sprachen: {languages}"
+
+msgid "Available languages: [{languages}]"
+msgstr "Verfügbare Sprachen: [{languages}]"
+
+msgid "{language} added to list of available languages, which are: [{languages}]"
+msgstr "{language} zur Liste verfügbarer Sprachen hinzugefügt: [{languages}]"
+
+msgid "Languages reloaded"
+msgstr "Sprachen aktualisiert"
+
+msgid "Please enter your {game} account name:"
+msgstr "Bitte gib deinen {game} Kontonamen ein:"
+
+msgid "No response from user."
+msgstr "Keine Antwort vom Benutzer."
+
+msgid "Looking up {user} on {game}..."
+msgstr "Suche {user} in {game}..."
+
+msgid "Looking up {user} on {game} on {platform}..."
+msgstr "Suche {user} in {game} in {platform}..."
+
+msgid "{game} account not found for {user}"
+msgstr "Kein {game} Konto gefunden für {user}"
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "Auf welcher Platform spielst du {game}? [{platforms}]"
+
+msgid "That's not a valid platform, the options are: {platforms}"
+msgstr "Das ist keine zulässige Platform, möglich sind: {platforms}"
+
+msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr "Du musst für {game} ein Konto hinzufügen, schreib {prefix}add {game_key}"
+
+msgid "That user hasn't added an account for {game}"
+msgstr "Dieser Benutzer hat für {game} kein Konto hinzugefügt"

@@ -1,0 +1,38 @@
+msgid "Set language for {guild_name} to {language}"
+msgstr "设定{guild_name}的语言到{language}"
+
+msgid "{language} not in list of available languages: {languages}"
+msgstr "{language}不是可用的语言: {languages}"
+
+msgid "Available languages: [{languages}]"
+msgstr "可用的语言[{languages}]"
+
+msgid "{language} added to list of available languages, which are: [{languages}]"
+msgstr "已加入{language}到可用的语言清单,清单：[{languages}]"
+
+msgid "Languages reloaded"
+msgstr "语言清单已更新"
+
+msgid "Please enter your {game} account name:"
+msgstr "请输入你的{game}帐号"
+
+msgid "No response from user."
+msgstr "此帐户没有回应"
+
+msgid "Looking up {user} on {game}..."
+msgstr "正在{game}寻找{user}..."
+
+msgid "{game} account not found for {user}"
+msgstr "在{game}找不到帐号{user}"
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "你在什么平台上玩{game}?[{platforms}]"
+
+msgid "That's not a valid platform, the options are: {platforms}"
+msgstr "这不是个有效的平台,你的选择有{platforms}"
+
+msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr "你需要一个{game}帐号,请输入{prefix}和{game_key}"
+
+msgid "That user hasn't added an account for {game}"
+msgstr "这个帐户没有加入{game}"
