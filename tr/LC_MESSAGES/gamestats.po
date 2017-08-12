@@ -19,57 +19,59 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr ""
+msgstr "**HATA**: Botun embed için yeterli izne sahip olması gerek, 'Gömülü Bağlantılar' izninin verilmiş olduğundan emin olun."
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr ""
+msgstr "{game} istatistiklerini elde etmek için {platforms} hesabı gereklidir"
 
 msgid "Available languages: [{languages}]"
-msgstr ""
+msgstr "Mevcut diller: [{languages}]"
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "Gelen mesajları kontrol et"
 
 msgid "Files for {language_key} not found"
-msgstr ""
+msgstr "{language_key} dosyaları bulunamadı"
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr ""
+msgstr "Sana Direkt Mesaj atmayı denedim {mention} fakat DM'leri kapatmışsın, lütfen bu komut için bana mesaj gönder."
 
 msgid "Languages reloaded"
-msgstr ""
+msgstr "Diller tekrar yüklendi"
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr ""
+msgstr "{platform} üzerinden {game} oyununun {user} kullanıcısına bakılıyor..."
 
 msgid "Looking up {user} on {game}..."
-msgstr ""
+msgstr "{game} oyununun {user} oyuncusuna bakılıyor..."
 
 msgid "No response from user."
-msgstr ""
+msgstr "Kullanıcıdan yanıt yok."
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr ""
+msgstr "Bu kanalda {game} oyuncusu bulunamadı. İlk olarak {prefix}{game_key} yap"
 
 msgid "Please enter your account name for {game}:"
-msgstr ""
+msgstr "Lütfen {game} için hesap adını gir:"
 
 msgid "Please enter your {game} account name:"
-msgstr ""
+msgstr "Lütfen {game} hesabının ismini gir:"
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
+"Profil oluşturuldu. hesap eklemek için {prefix}add <account> komutunu kullan\n"
+"Desteklenen hesaplar: {accounts}"
 
 msgid "Set language for {guild_name} to {language}"
-msgstr ""
+msgstr "{guild_name} kanalı için {language} dili belirlendi"
 
 msgid "Shows your stats from {game}"
-msgstr ""
+msgstr "{game} istatistiklerini gösterir"
 
 msgid "Sorry that account isn't on your profile."
-msgstr ""
+msgstr "Maalesef bu hesap, profilinde yok."
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -77,66 +79,72 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"Üzgünüm fakat henüz {account} hesabı desteklenmiyor.\n"
+"Desteklenen hesaplar {accounts}\n"
+"\n"
+"Örneğin şunu girin: **{prefix}add steam**"
 
 msgid "Supported accounts: {accounts}"
-msgstr ""
+msgstr "Desteklenen hesaplar: {accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"Desteklenen oyunlar:\n"
+"{games}"
 
 msgid "That user hasn't added an account for {game}"
-msgstr ""
+msgstr "Kullanıcı, {game} için bir hesap eklemedi"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr ""
+msgstr "Bu geçerli bir seçim değildi. {tries} deneme hakkın var."
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr ""
+msgstr "Bu geçerli bir platform değil, seçenekler: {platforms}"
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr ""
+msgstr "Birden fazla eşleşme var. Lütfen doğru seçeneğin numarasını yazarak netleştir?"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr ""
+msgstr "Uyarı: {game} için birden fazla hesabın var, bir tanesini {prefix}delete {game_key} komutunu kullanarak silebilir veya ana hesabını {prefix}primary {game_key} yazarak değiştirebilirsin"
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr ""
+msgstr "Hangi platformda {game} oynuyorsun? [{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr ""
+msgstr "{guild} kanalı üzerinde dil değiştirmeye yetkin yok."
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr ""
+msgstr "PC'de Siege oynadığın gözükmüyor. PSN/XBL platformlarından birini {prefix}add siege yazarak seçebilirsin."
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr ""
+msgstr "Profilinde herhangi bir hesap yok, birazını ekle!"
 
 msgid "You have already registered {account}"
-msgstr ""
+msgstr "{account} hesabını zaten kaydettin"
 
 msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr ""
+msgstr "Henüz bir profil oluştumadın, {prefix}profile yazarak başlayın."
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr ""
+msgstr "{game} için bir hesap eklemen gerekiyor, {prefix}add {game_key} yazmalısın"
 
 msgid "{game} Leaderboard for {guild}"
-msgstr ""
+msgstr "{guild} için {game} Lider listesi"
 
 msgid "{game} account not found for {user}"
-msgstr ""
+msgstr "{user} için {game} hesabı bulunamadı"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr ""
+msgstr "{platform} üzerinde {user} için {game} hesabı bulunamadı"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key} dili, içinde [{languages}] dillerini içeren mevcut dil listesinden silindi"
 
 msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language} dili, içinde [{languages}] dillerini içeren mevcut dil listesine eklendi"
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr ""
+msgstr "{language} dili, mevcut dil listesinde yer almıyor: {languages}"
 
