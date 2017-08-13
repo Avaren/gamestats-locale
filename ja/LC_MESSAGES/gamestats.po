@@ -25,7 +25,7 @@ msgid "A {platforms} account is required to obtain {game} stats"
 msgstr ""
 
 msgid "Available languages: [{languages}]"
-msgstr ""
+msgstr "使用可能な言語： [{languages}]"
 
 msgid "Check your DMs"
 msgstr ""
@@ -37,16 +37,16 @@ msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that 
 msgstr ""
 
 msgid "Languages reloaded"
-msgstr ""
+msgstr "使用可能な言語は再ロードされました。"
 
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr ""
 
 msgid "Looking up {user} on {game}..."
-msgstr ""
+msgstr "{game}で{user}と呼ばれたユーザーを検索中・・"
 
 msgid "No response from user."
-msgstr ""
+msgstr "ユーザーから返事なさそうです・・"
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
 msgstr ""
@@ -55,7 +55,7 @@ msgid "Please enter your account name for {game}:"
 msgstr ""
 
 msgid "Please enter your {game} account name:"
-msgstr ""
+msgstr "{game}のアカウント名を入力してください："
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
@@ -63,7 +63,7 @@ msgid ""
 msgstr ""
 
 msgid "Set language for {guild_name} to {language}"
-msgstr ""
+msgstr "{guild_name}の言語は{language}に設定されました。"
 
 msgid "Shows your stats from {game}"
 msgstr ""
@@ -87,13 +87,13 @@ msgid ""
 msgstr ""
 
 msgid "That user hasn't added an account for {game}"
-msgstr ""
+msgstr "そのユーザーは{game}のアカウントがまだ設定されていません。"
 
 msgid "That was not a valid choice. You have {tries} more tries."
 msgstr ""
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr ""
+msgstr "選択可能なプラットフォームではありません、この選択肢の中から選んでください： {platforms}"
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr ""
@@ -102,7 +102,7 @@ msgid "Warning: You have multiple accounts for {game} you might want to delete o
 msgstr ""
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr ""
+msgstr "どんなプラットフォームで{game}を遊びますか？ [{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
 msgstr ""
@@ -120,13 +120,13 @@ msgid "You have not yet set up a profile, do {prefix}profile to get started."
 msgstr ""
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr ""
+msgstr "{game}のアカウントはまだ設定されていません。アカウントを追加するにはこのコマンドを使用してください： {prefix}add {game_key}"
 
 msgid "{game} Leaderboard for {guild}"
 msgstr ""
 
 msgid "{game} account not found for {user}"
-msgstr ""
+msgstr "{game}で{user}と呼ばれたユーザーが見つかりませんでした。"
 
 msgid "{game} account not found for {user} on {platform}"
 msgstr ""
@@ -135,8 +135,8 @@ msgid "{language_key} removed from available languages, which are: [{languages}]
 msgstr ""
 
 msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr ""
+msgstr "使用可能な言語には{language}が追加して、[{languages}]になりました。"
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr ""
+msgstr "{language}は使用可能な言語ではありません。 {languages}"
 

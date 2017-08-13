@@ -25,7 +25,7 @@ msgid "A {platforms} account is required to obtain {game} stats"
 msgstr ""
 
 msgid "Available languages: [{languages}]"
-msgstr ""
+msgstr "可用的语言[{languages}]"
 
 msgid "Check your DMs"
 msgstr ""
@@ -37,16 +37,16 @@ msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that 
 msgstr ""
 
 msgid "Languages reloaded"
-msgstr ""
+msgstr "语言清单已更新"
 
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr ""
 
 msgid "Looking up {user} on {game}..."
-msgstr ""
+msgstr "正在{game}寻找{user}..."
 
 msgid "No response from user."
-msgstr ""
+msgstr "此帐户没有回应"
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
 msgstr ""
@@ -55,7 +55,7 @@ msgid "Please enter your account name for {game}:"
 msgstr ""
 
 msgid "Please enter your {game} account name:"
-msgstr ""
+msgstr "请输入你的{game}帐号"
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
@@ -63,7 +63,7 @@ msgid ""
 msgstr ""
 
 msgid "Set language for {guild_name} to {language}"
-msgstr ""
+msgstr "设定{guild_name}的语言到{language}"
 
 msgid "Shows your stats from {game}"
 msgstr ""
@@ -87,13 +87,13 @@ msgid ""
 msgstr ""
 
 msgid "That user hasn't added an account for {game}"
-msgstr ""
+msgstr "这个帐户没有加入{game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
 msgstr ""
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr ""
+msgstr "这不是个有效的平台,你的选择有{platforms}"
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr ""
@@ -102,7 +102,7 @@ msgid "Warning: You have multiple accounts for {game} you might want to delete o
 msgstr ""
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr ""
+msgstr "你在什么平台上玩{game}?[{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
 msgstr ""
@@ -120,13 +120,13 @@ msgid "You have not yet set up a profile, do {prefix}profile to get started."
 msgstr ""
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr ""
+msgstr "你需要一个{game}帐号,请输入{prefix}和{game_key}"
 
 msgid "{game} Leaderboard for {guild}"
 msgstr ""
 
 msgid "{game} account not found for {user}"
-msgstr ""
+msgstr "在{game}找不到帐号{user}"
 
 msgid "{game} account not found for {user} on {platform}"
 msgstr ""
@@ -135,8 +135,8 @@ msgid "{language_key} removed from available languages, which are: [{languages}]
 msgstr ""
 
 msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr ""
+msgstr "已加入{language}到可用的语言清单,清单：[{languages}]"
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr ""
+msgstr "{language}不是可用的语言: {languages}"
 
