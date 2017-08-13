@@ -148,3 +148,24 @@ msgstr "{language} dili, içinde [{languages}] dillerini içeren mevcut dil list
 msgid "{language} not in list of available languages: {languages}"
 msgstr "{language} dili, mevcut dil listesinde yer almıyor: {languages}"
 
+msgid "Do you play {game} on PC, PSN or XBL?"
+msgstr "{game} oyununu PC, PSN ve XBL platformlarının hangisinde oynuyorsun?"
+
+msgid "Added {game}: {platform}"
+msgstr "Eklendi {game}: {platform}"
+
+msgid "No account set as primary."
+msgstr "Herhangi birincil hesap seçilmedi."
+
+msgid "account_type is a required argument that is missing."
+msgstr "Eksik olan hesap_tipi argümanı gereklidir."
+
+msgid ""
+"There was an issue processing that command, please try again./n"
+"If the issue continues please seek help in the support server on the help menu."
+msgstr ""
+"Bu komutu işlerken bir hata meydana geldi, lütfen tekrar deneyin./n"
+"Eğer sorun devam ederse lütfen yardım menüsündeki destek sunucusundan yardım isteyin."
+
+msgid "Adding {account} for {user}"
+msgstr "{user} için {account} hesabı ekleniyor"
