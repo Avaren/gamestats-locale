@@ -18,13 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-Smsgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 msgstr "**ERROR**: Le bot requiert l'abilité d'intégrer des liens, sois sûr qu'il a la permission: 'Intégrer des Liens'."
 
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr "Un compte {platforms} est requis pour avoir les stats de {game}"
 
-Smsgid "Available languages: [{languages}]"
+msgid "Available languages: [{languages}]"
 msgstr "Langues disponibles: [{languages}]"
 
 msgid "Check your DMs"
