@@ -19,25 +19,25 @@ msgstr ""
 "Generated-By: Babel 2.4.0\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr ""
+msgstr "**ERROR**: Le bot requiert l'abilité d'intégrer des liens, sois sûr qu'il a la permission: 'Intégrer des Liens'."
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr ""
+msgstr "Un compte {platforms} est requis pour avoir les stats de {game}"
 
 msgid "Available languages: [{languages}]"
-msgstr "Paramètres locaux disponibles: [{languages}]"
+msgstr "Langues disponibles: [{languages}]"
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "Regardes tes MPs"
 
 msgid "Files for {language_key} not found"
-msgstr ""
+msgstr "Les fichiers pour {language_key} n'ont pas été trouvés"
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr ""
+msgstr "J'ai essayé de te MP {mention} mais tu les as désactivé, s'il te plaît MP moi donc la commande."
 
 msgid "Languages reloaded"
-msgstr "Paramètres locaux rechargés"
+msgstr "Langues rechargés"
 
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "Je recherche {user} sur {game} sur {platform}..."
@@ -46,13 +46,13 @@ msgid "Looking up {user} on {game}..."
 msgstr "Je recherche {user} sur {game}..."
 
 msgid "No response from user."
-msgstr "Pas de réponse de l'utilisateur"
+msgstr "Pas de réponse de l'utilisateur."
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr ""
+msgstr "Pas de joueur de {game} trouvé sur ce serveur. Fais d'abort {prefix}[game_key}"
 
 msgid "Please enter your account name for {game}:"
-msgstr ""
+msgstr "S'il te plaît, entre ton nom de compte pour {game}:"
 
 msgid "Please enter your {game} account name:"
 msgstr "Peux-tu mettre ton nom de compte de {game}:"
@@ -61,15 +61,17 @@ msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
+"Profil crée. Pour ajouter des comptes utilise {prefix}add <account>\n"
+"Comptes supportés: {accounts}"
 
 msgid "Set language for {guild_name} to {language}"
-msgstr "Mettre les paramètres locaux pour {guild_name} à {language}"
+msgstr "Mettre la langue pour {guild_name} sur {language}"
 
 msgid "Shows your stats from {game}"
-msgstr ""
+msgstr "Montre tes stats de {game}"
 
 msgid "Sorry that account isn't on your profile."
-msgstr ""
+msgstr "Désolé ce compte n'est pas sur votre profil."
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -77,69 +79,75 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"Désolé le compte {account} n'est pas encore supporté.\n"
+"Les comptes supportés sont {accounts}\n"
+"\n"
+"Par exemple, entre ça: **{prefix}add steam**"
 
 msgid "Supported accounts: {accounts}"
-msgstr ""
+msgstr "Comptes supportés: {accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"Jeux supportés:\n"
+"{games}"
 
 msgid "That user hasn't added an account for {game}"
-msgstr "Cet utilisateur n'a pas ajouté un compte pour {game}"
+msgstr "Cet utilisateur n'a pas ajouté de compte pour {game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr ""
+msgstr "Ce choix n'est pas valide. Tu as encore {tries} essais."
 
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Ce n'est pas une plateforme valide, les options sont : {platforms}"
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr ""
+msgstr "Il y a plusieurs correspondances. S'il te plaît, clarifie ton choix en répondant avec le bon nombre"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr ""
+msgstr "Top {top_count} des jeux actuellement joués sur {server_count} serveurs"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr ""
+msgstr "Attention: Tu as plusieurs comptes pour {game}, tu veux peut-être en supprimer un avec la commande: {prefix}delete {game_key} ou tu veux changer ton compte principal avec la commande: {prefix}primary {game_key}"
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr "Sur quelle plateforme jouez-vous {game}? [{platforms}]"
+msgstr "Sur quelle plateforme joues-tu {game}? [{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr ""
+msgstr "Tu n'as pas la permission de changer le language du bot sur {guild}."
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr ""
+msgstr "Tu ne parais pas jouer à Siege sur PC. Choisis PSN/XBL en faisant {prefix}add siege"
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr ""
+msgstr "Tu n'as même pas de comptes sur ton profil, ajoute-en!"
 
 msgid "You have already registered {account}"
-msgstr ""
+msgstr "Tu as déjà enregistré {account}"
 
 msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr ""
+msgstr "Tu n'as pas encore préparer ton profil, fais {prefix}profile pour commencer."
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr "Tu dois ajouter un compte sur {game}, écris {prefix}add {game_key}"
+msgstr "Tu dois ajouter un compte pour {game}, écris {prefix}add {game_key}"
 
 msgid "{game} Leaderboard for {guild}"
-msgstr ""
+msgstr "Classement de {game} pour {guild}"
 
 msgid "{game} account not found for {user}"
 msgstr "Pas de compte trouvé sur {game} pour {user}"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr ""
+msgstr "Pas de compte trouvé sur {platform} pour {user}"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key} a été enlevé des langues disponibles qui sont: [{languages}]"
 
 msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr "{language} a été ajouté à la liste des paramètres locaux disponibles, qui sont: [{languages}]"
+msgstr "{language} a été ajouté à la liste des langues disponibles qui sont: [{languages}]"
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr "{language} n'est pas dans la liste des paramètres locaux disponibles: {languages}"
+msgstr "{language} n'est pas dans la liste des langues disponibles: {languages}"
 
