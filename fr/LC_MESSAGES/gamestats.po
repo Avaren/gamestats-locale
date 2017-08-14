@@ -14,7 +14,8 @@ msgstr ""
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"MIME-Version: 1.0\n""Content-Type: text/plain; charset=utf-8\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
@@ -93,7 +94,7 @@ msgid ""
 "{games}"
 msgstr ""
 "Jeux supportés:\n"
-"{games}
+"{games}"
 
 msgid "That user hasn't added an account for {game}"
 msgstr "Cet utilisateur n'a pas ajouté de compte pour {game}"
