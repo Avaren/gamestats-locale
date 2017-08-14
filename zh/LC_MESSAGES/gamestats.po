@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-08-12 12:49+0100\n"
+"POT-Creation-Date: 2017-08-14 01:00+0100\n"
 "PO-Revision-Date: 2017-08-12 12:56+0100\n"
 "Last-Translator: Viola#5458\n"
 "Language: zh\n"
@@ -96,6 +96,9 @@ msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "这不是个有效的平台,你的选择有{platforms}"
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
+msgstr ""
+
+msgid "Top {top_count} games currently being played across {server_count} servers"
 msgstr ""
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
