@@ -107,7 +107,7 @@ msgid "There are multiple matches. Please clarify by replying with the number of
 msgstr "Birden fazla eşleşme var. Lütfen doğru seçeneğin numarasını yazarak netleştir?"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr ""
+msgstr "Şu anda {server_count} sunucu arasında oynanılan başlıca {top_count} oyun"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
 msgstr "Uyarı: {game} için birden fazla hesabın var, bir tanesini {prefix}delete {game_key} komutunu kullanarak silebilir veya ana hesabını {prefix}primary {game_key} yazarak değiştirebilirsin"
