@@ -1,0 +1,152 @@
+# Translations template for GameStats.
+# Copyright (C) 2017 GameStats
+# This file is distributed under the same license as the GameStats project.
+# https://github.com/Avaren, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GameStats 0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
+"POT-Creation-Date: 2017-08-14 01:00+0100\n"
+"PO-Revision-Date: 2017-08-17 02:54+0300\n"
+"Last-Translator: AsdewQ#0552\n"
+"Language: fi\n"
+"Language-Team: fi <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+msgstr "**VIRHE**: Tämä botti tarvitsee oikeuden lähettää upotuksia (embedejä), varmistathan että  tällä botilla on oikeus 'Embed Links'"
+
+msgid "A {platforms} account is required to obtain {game} stats"
+msgstr "{platforms}:n käyttäjä on vaadittu saadaksesi {game}:n tilastot"
+
+msgid "Available languages: [{languages}]"
+msgstr "Saatavilla olevat kielet: [{languages}]"
+
+msgid "Check your DMs"
+msgstr "Lue yksityisviestisi!"
+
+msgid "Files for {language_key} not found"
+msgstr "Tiedostoja {language_key}:lle ei löytynyt"
+
+msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
+msgstr "Yritin lähettää sinulle yksityisviestin, mutta sinulla on yksityisviestit pois päältä, lähetä minulle tuo komento."
+
+msgid "Languages reloaded"
+msgstr "Kielet ladattu"
+
+msgid "Looking up {user} on {game} on {platform}..."
+msgstr "Tarkistetaan {user} pelissä {game} {platform}:ssä..."
+
+msgid "Looking up {user} on {game}..."
+msgstr "Tarkistetaan {user} pelissä {game}..."
+
+msgid "No response from user."
+msgstr "Ei vastausta käyttäjältä."
+
+msgid "No {game} players found on this server. Do {prefix}{game_key} first."
+msgstr "{game} pelaajia ei löytynyt tällä palvelimella. Tee {prefix}{game_key} ensin."
+
+msgid "Please enter your account name for {game}:"
+msgstr "Kerro sinun pelinimesi pelissä {game}:"
+
+msgid "Please enter your {game} account name:"
+msgstr "Kerro sinun {game}:n käyttäjän nimi:"
+
+msgid ""
+"Profile created. To add accounts use {prefix}add <account>\n"
+"Supported accounts: {accounts}"
+msgstr ""
+"Profiili luotu. Lisää käyttäjiä ajamalla komento {prefix}add <käyttäjä>\n"
+"Tuetut käyttäjät: {accounts}"
+
+msgid "Set language for {guild_name} to {language}"
+msgstr "Aseta kieli {language} palvelimelle {guild_name}"
+
+msgid "Shows your stats from {game}"
+msgstr "Näytä tilastosi pelistä {game}"
+
+msgid "Sorry that account isn't on your profile."
+msgstr "Tuota käyttäjää ei ole profiilissasi"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+"Käyttäjää {account} ei vielä tueta.\n"
+"Tuetut käyttäjät ovat {accounts}\n"
+"\n"
+"Esimerkiksi aja komento **{prefix}add steam**"
+
+msgid "Supported accounts: {accounts}"
+msgstr "Tuetut käyttäjät: {accounts}"
+
+msgid ""
+"Supported games:\n"
+"{games}"
+msgstr ""
+"Tuetut pelit:\n"
+"{games}"
+
+msgid "That user hasn't added an account for {game}"
+msgstr "Tuo käyttäjä ei ole lisännyt käyttäjää pelille {game}"
+
+msgid "That was not a valid choice. You have {tries} more tries."
+msgstr "Tuo ei ole vaihtoehto. Sinulla on {tries} yritystä jäljellä."
+
+msgid "That's not a valid platform, the options are: {platforms}"
+msgstr "Tuo ei ole tuettu alusta, vaihtoehdot ovat: {platforms}"
+
+msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
+msgstr "Monia vaihtoehtoja löytyi. Tarkenna lähettämällä oikean numero"
+
+msgid "Top {top_count} games currently being played across {server_count} servers"
+msgstr "Top {top_count} pelit joita tällä hetkellä pelataan {server_count}:ssa palvelimessa"
+
+msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
+msgstr "Varoitus: Sinulla on monia käyttäjiä peliin {game}, haluat ehkä poistaa yhden {prefix}delete {game_key}:llä tai vaihtaa pääkäyttäjäsi {prefix}primary {game_key}:llä"
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "Millä alustalla pelaat peliä {game}? [{platforms}]"
+
+msgid "You do not have permission to change the language on {guild}."
+msgstr "Sinulla ei ole oikeutta vaihtaa kieltä palvelimessa {guild}"
+
+msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
+msgstr "Sinä et näytä pelaavan Siegeä PC:llä. Valitse PSN/XBL ajamalla komento {prefix}add siege"
+
+msgid "You don't have any accounts on your profile, add some!"
+msgstr "Sinulla ei ole käyttäjiä profiilissasi, lisää muutama!"
+
+msgid "You have already registered {account}"
+msgstr "Sinä olet jo rekisteröinyt käyttäjän {account}"
+
+msgid "You have not yet set up a profile, do {prefix}profile to get started."
+msgstr "Sinulla ei vielä ole profiilia, aja komento {prefix}profile aloittaaksesi."
+
+msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr "Sinun pitää listätä käyttäjä peliin {game}, aja komento {prefix}add {game_key}"
+
+msgid "{game} Leaderboard for {guild}"
+msgstr "{game} Parhaat pelaajat palvelimesa {guild}"
+
+msgid "{game} account not found for {user}"
+msgstr "{game}:n käyttäjää ei löydetty käyttäjälle {user}"
+
+msgid "{game} account not found for {user} on {platform}"
+msgstr "{game}:n käyttäjää ei löydetty käyttäjältä {user} alustalla {platform}"
+
+msgid "{language_key} removed from available languages, which are: [{languages}]"
+msgstr "{language_key} poistettu saatavilla olevista kielistä, jotka ovat: [{languages}]"
+
+msgid "{language} added to list of available languages, which are: [{languages}]"
+msgstr "{language} lisätty saatavilla oleviin kieliin, jotka ovat: [{languages}]"
+
+msgid "{language} not in list of available languages: {languages}"
+msgstr "{language} ei ole saatavilla olevissa kielissä: {languages}"
