@@ -21,6 +21,9 @@ msgstr ""
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 msgstr "**ERROR**: Le bot requiert l'abilité d'intégrer des liens, sois sûr qu'il a la permission: 'Intégrer des Liens'."
 
+msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
+msgstr ""
+
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr "Un compte {platforms} est requis pour avoir les stats de {game}"
 
@@ -29,6 +32,12 @@ msgstr "Langues disponibles: [{languages}]"
 
 msgid "Check your DMs"
 msgstr "Regardes tes MPs"
+
+msgid "Distance between {user1} and {user2}: {dist}ly"
+msgstr ""
+
+msgid "Distance to center"
+msgstr ""
 
 msgid "Files for {language_key} not found"
 msgstr "Les fichiers pour {language_key} n'ont pas été trouvés"
@@ -39,11 +48,17 @@ msgstr "J'ai essayé de te MP {mention} mais tu les as désactivé, s'il te pla�
 msgid "Languages reloaded"
 msgstr "Langues rechargés"
 
+msgid "Location"
+msgstr ""
+
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "Je recherche {user} sur {game} sur {platform}..."
 
 msgid "Looking up {user} on {game}..."
 msgstr "Je recherche {user} sur {game}..."
+
+msgid "No games currently being played."
+msgstr ""
 
 msgid "No response from user."
 msgstr "Pas de réponse de l'utilisateur."
@@ -56,6 +71,9 @@ msgstr "S'il te plaît, entre ton nom de compte pour {game}:"
 
 msgid "Please enter your {game} account name:"
 msgstr "Peux-tu mettre ton nom de compte de {game}:"
+
+msgid "Portal code"
+msgstr ""
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
@@ -103,14 +121,25 @@ msgstr "Ce choix n'est pas valide. Tu as encore {tries} essais."
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Ce n'est pas une plateforme valide, les options sont : {platforms}"
 
+msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr ""
+
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr "Il y a plusieurs correspondances. S'il te plaît, clarifie ton choix en répondant avec le bon nombre"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
 msgstr "Top {top_count} des jeux actuellement joués sur {server_count} serveurs"
 
+msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr ""
+
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
 msgstr "Attention: Tu as plusieurs comptes pour {game}, tu veux peut-être en supprimer un avec la commande: {prefix}delete {game_key} ou tu veux changer ton compte principal avec la commande: {prefix}primary {game_key}"
+
+msgid ""
+"What is the location of your NMS home base?\n"
+"To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
+msgstr ""
 
 msgid "What platform do you play {game} on? [{platforms}]"
 msgstr "Sur quelle plateforme joues-tu {game}? [{platforms}]"
@@ -133,6 +162,9 @@ msgstr "Tu n'as pas encore préparer ton profil, fais {prefix}profile pour comme
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Tu dois ajouter un compte pour {game}, écris {prefix}add {game_key}"
 
+msgid "{channel} in {guild} registered to receive live match updates."
+msgstr ""
+
 msgid "{game} Leaderboard for {guild}"
 msgstr "Classement de {game} pour {guild}"
 
@@ -142,6 +174,12 @@ msgstr "Pas de compte trouvé sur {game} pour {user}"
 msgid "{game} account not found for {user} on {platform}"
 msgstr "Pas de compte trouvé sur {platform} pour {user}"
 
+msgid "{game} live games for {guild}"
+msgstr ""
+
+msgid "{guild} unregistered from receiving live match updates."
+msgstr ""
+
 msgid "{language_key} removed from available languages, which are: [{languages}]"
 msgstr "{language_key} a été enlevé des langues disponibles qui sont: [{languages}]"
 
@@ -150,4 +188,7 @@ msgstr "{language} a été ajouté à la liste des langues disponibles qui sont:
 
 msgid "{language} not in list of available languages: {languages}"
 msgstr "{language} n'est pas dans la liste des langues disponibles: {languages}"
+
+msgid "{user}'s Home Base"
+msgstr ""
 

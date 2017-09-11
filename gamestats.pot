@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GameStats 0.1\n"
+"Project-Id-Version: GameStats 0.2\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
 "POT-Creation-Date: 2017-08-14 01:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -20,6 +20,9 @@ msgstr ""
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 msgstr ""
 
+msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
+msgstr ""
+
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr ""
 
@@ -27,6 +30,12 @@ msgid "Available languages: [{languages}]"
 msgstr ""
 
 msgid "Check your DMs"
+msgstr ""
+
+msgid "Distance between {user1} and {user2}: {dist}ly"
+msgstr ""
+
+msgid "Distance to center"
 msgstr ""
 
 msgid "Files for {language_key} not found"
@@ -38,10 +47,16 @@ msgstr ""
 msgid "Languages reloaded"
 msgstr ""
 
+msgid "Location"
+msgstr ""
+
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr ""
 
 msgid "Looking up {user} on {game}..."
+msgstr ""
+
+msgid "No games currently being played."
 msgstr ""
 
 msgid "No response from user."
@@ -54,6 +69,9 @@ msgid "Please enter your account name for {game}:"
 msgstr ""
 
 msgid "Please enter your {game} account name:"
+msgstr ""
+
+msgid "Portal code"
 msgstr ""
 
 msgid ""
@@ -94,13 +112,24 @@ msgstr ""
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr ""
 
+msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr ""
+
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr ""
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
 msgstr ""
 
+msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr ""
+
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
+msgstr ""
+
+msgid ""
+"What is the location of your NMS home base?\n"
+"To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
 
 msgid "What platform do you play {game} on? [{platforms}]"
@@ -124,6 +153,9 @@ msgstr ""
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr ""
 
+msgid "{channel} in {guild} registered to receive live match updates."
+msgstr ""
+
 msgid "{game} Leaderboard for {guild}"
 msgstr ""
 
@@ -133,6 +165,12 @@ msgstr ""
 msgid "{game} account not found for {user} on {platform}"
 msgstr ""
 
+msgid "{game} live games for {guild}"
+msgstr ""
+
+msgid "{guild} unregistered from receiving live match updates."
+msgstr ""
+
 msgid "{language_key} removed from available languages, which are: [{languages}]"
 msgstr ""
 
@@ -140,5 +178,8 @@ msgid "{language} added to list of available languages, which are: [{languages}]
 msgstr ""
 
 msgid "{language} not in list of available languages: {languages}"
+msgstr ""
+
+msgid "{user}'s Home Base"
 msgstr ""
 

@@ -21,6 +21,9 @@ msgstr ""
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 msgstr "**HATA**: Botun embed için yeterli izne sahip olması gerek, 'Gömülü Bağlantılar' izninin verilmiş olduğundan emin olun."
 
+msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
+msgstr ""
+
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr "{game} istatistiklerini elde etmek için {platforms} hesabı gereklidir"
 
@@ -29,6 +32,12 @@ msgstr "Mevcut diller: [{languages}]"
 
 msgid "Check your DMs"
 msgstr "Gelen mesajları kontrol et"
+
+msgid "Distance between {user1} and {user2}: {dist}ly"
+msgstr ""
+
+msgid "Distance to center"
+msgstr ""
 
 msgid "Files for {language_key} not found"
 msgstr "{language_key} dosyaları bulunamadı"
@@ -39,11 +48,17 @@ msgstr "Sana Direkt Mesaj atmayı denedim {mention} fakat DM'leri kapatmışsın
 msgid "Languages reloaded"
 msgstr "Diller tekrar yüklendi"
 
+msgid "Location"
+msgstr ""
+
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "{platform} üzerinden {game} oyununun {user} kullanıcısına bakılıyor..."
 
 msgid "Looking up {user} on {game}..."
 msgstr "{game} oyununun {user} oyuncusuna bakılıyor..."
+
+msgid "No games currently being played."
+msgstr ""
 
 msgid "No response from user."
 msgstr "Kullanıcıdan yanıt yok."
@@ -56,6 +71,9 @@ msgstr "Lütfen {game} için hesap adını gir:"
 
 msgid "Please enter your {game} account name:"
 msgstr "Lütfen {game} hesabının ismini gir:"
+
+msgid "Portal code"
+msgstr ""
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
@@ -103,14 +121,25 @@ msgstr "Bu geçerli bir seçim değildi. {tries} deneme hakkın var."
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Bu geçerli bir platform değil, seçenekler: {platforms}"
 
+msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr ""
+
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr "Birden fazla eşleşme var. Lütfen doğru seçeneğin numarasını yazarak netleştir?"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
 msgstr "Şu anda {server_count} sunucu arasında oynanılan başlıca {top_count} oyun"
 
+msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr ""
+
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
 msgstr "Uyarı: {game} için birden fazla hesabın var, bir tanesini {prefix}delete {game_key} komutunu kullanarak silebilir veya ana hesabını {prefix}primary {game_key} yazarak değiştirebilirsin"
+
+msgid ""
+"What is the location of your NMS home base?\n"
+"To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
+msgstr ""
 
 msgid "What platform do you play {game} on? [{platforms}]"
 msgstr "Hangi platformda {game} oynuyorsun? [{platforms}]"
@@ -133,6 +162,9 @@ msgstr "Henüz bir profil oluştumadın, {prefix}profile yazarak başlayın."
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "{game} için bir hesap eklemen gerekiyor, {prefix}add {game_key} yazmalısın"
 
+msgid "{channel} in {guild} registered to receive live match updates."
+msgstr ""
+
 msgid "{game} Leaderboard for {guild}"
 msgstr "{guild} için {game} Lider listesi"
 
@@ -142,6 +174,12 @@ msgstr "{user} için {game} hesabı bulunamadı"
 msgid "{game} account not found for {user} on {platform}"
 msgstr "{platform} üzerinde {user} için {game} hesabı bulunamadı"
 
+msgid "{game} live games for {guild}"
+msgstr ""
+
+msgid "{guild} unregistered from receiving live match updates."
+msgstr ""
+
 msgid "{language_key} removed from available languages, which are: [{languages}]"
 msgstr "{language_key} dili, içinde [{languages}] dillerini içeren mevcut dil listesinden silindi"
 
@@ -150,6 +188,9 @@ msgstr "{language} dili, içinde [{languages}] dillerini içeren mevcut dil list
 
 msgid "{language} not in list of available languages: {languages}"
 msgstr "{language} dili, mevcut dil listesinde yer almıyor: {languages}"
+
+msgid "{user}'s Home Base"
+msgstr ""
 
 #~ msgid "Do you play {game} on PC, PSN or XBL?"
 #~ msgstr "{game} oyununu PC, PSN ve XBL platformlarının hangisinde oynuyorsun?"
