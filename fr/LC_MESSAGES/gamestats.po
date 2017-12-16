@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-08-14 01:00+0100\n"
+"POT-Creation-Date: 2017-12-16 01:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: ☭ Joseph Staline ☭#4200\n"
 "Language: fr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.5.1\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 msgstr "**ERROR**: Le bot requiert l'abilité d'intégrer des liens, sois sûr qu'il a la permission: 'Intégrer des Liens'."
@@ -32,6 +32,12 @@ msgstr "Langues disponibles: [{languages}]"
 
 msgid "Check your DMs"
 msgstr "Regardes tes MPs"
+
+msgid ""
+"Click the below icons to join/leave that group:\n"
+"\n"
+"{groups}"
+msgstr ""
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr ""
@@ -60,14 +66,17 @@ msgstr "Je recherche {user} sur {game}..."
 msgid "No games currently being played."
 msgstr ""
 
+msgid "No groups defined on {server}, use {command}"
+msgstr ""
+
 msgid "No response from user."
 msgstr "Pas de réponse de l'utilisateur."
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
 msgstr "Pas de joueur de {game} trouvé sur ce serveur. Fais d'abort {prefix}[game_key}"
 
-msgid "Please enter your account name for {game}:"
-msgstr "S'il te plaît, entre ton nom de compte pour {game}:"
+msgid "No {game} stats found for {user} on {platform}"
+msgstr ""
 
 msgid "Please enter your {game} account name:"
 msgstr "Peux-tu mettre ton nom de compte de {game}:"
@@ -191,4 +200,7 @@ msgstr "{language} n'est pas dans la liste des langues disponibles: {languages}"
 
 msgid "{user}'s Home Base"
 msgstr ""
+
+#~ msgid "Please enter your account name for {game}:"
+#~ msgstr "S'il te plaît, entre ton nom de compte pour {game}:"
 

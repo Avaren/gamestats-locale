@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-08-14 01:00+0100\n"
+"POT-Creation-Date: 2017-12-16 01:07+0000\n"
 "PO-Revision-Date: 2017-08-12 12:53+0100\n"
 "Last-Translator: 🅐glaïs#2150nLanguage: tr\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.4.0\n"
+"Generated-By: Babel 2.5.1\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 msgstr "**HATA**: Botun embed için yeterli izne sahip olması gerek, 'Gömülü Bağlantılar' izninin verilmiş olduğundan emin olun."
@@ -32,6 +32,12 @@ msgstr "Mevcut diller: [{languages}]"
 
 msgid "Check your DMs"
 msgstr "Gelen mesajları kontrol et"
+
+msgid ""
+"Click the below icons to join/leave that group:\n"
+"\n"
+"{groups}"
+msgstr ""
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr ""
@@ -60,14 +66,17 @@ msgstr "{game} oyununun {user} oyuncusuna bakılıyor..."
 msgid "No games currently being played."
 msgstr ""
 
+msgid "No groups defined on {server}, use {command}"
+msgstr ""
+
 msgid "No response from user."
 msgstr "Kullanıcıdan yanıt yok."
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
 msgstr "Bu sunucuda {game} oyuncusu bulunamadı. İlk olarak {prefix}{game_key} yap"
 
-msgid "Please enter your account name for {game}:"
-msgstr "Lütfen {game} için hesap adını gir:"
+msgid "No {game} stats found for {user} on {platform}"
+msgstr ""
 
 msgid "Please enter your {game} account name:"
 msgstr "Lütfen {game} hesabının ismini gir:"
@@ -209,4 +218,7 @@ msgstr ""
 
 #~ msgid "Adding {account} for {user}"
 #~ msgstr "{user} için {account} hesabı ekleniyor"
+
+#~ msgid "Please enter your account name for {game}:"
+#~ msgstr "Lütfen {game} için hesap adını gir:"
 
