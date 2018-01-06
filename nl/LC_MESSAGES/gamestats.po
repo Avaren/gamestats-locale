@@ -1,7 +1,7 @@
 # Dutch translations for GameStats.
 # Copyright (C) 2017 GameStats
 # This file is distributed under the same license as the GameStats project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# https://github.com/Avaren, 2017.
 #
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
 "POT-Creation-Date: 2017-12-16 01:07+0000\n"
 "PO-Revision-Date: 2018-01-06 16:45+0000\n"
-"Last-Translator: Avaren#9383\n"
+"Last-Translator: Lesto#2003\n"
 "Language: nl\n"
 "Language-Team: nl <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -19,67 +19,70 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr ""
+msgstr "De bot heeft de mogelijk om ingesloten links to sturen nodig, zorg ervoor dat het de \"ingesloten links\" toestemming heeft."
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr ""
+msgstr "No Man's Sky Universe Map voor {guild}."
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr ""
+msgstr "Een {platforms} account is nodig om statistieken to krijgen voor {game}."
 
 msgid "Available languages: [{languages}]"
-msgstr ""
+msgstr "beschikbaren talen:[{languages}]"
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "Bekijk je PBs."
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
 "\n"
 "{groups}"
 msgstr ""
+"Klik op the iconen hieronder om de groep te betreden/verlaten:\n"
+"\n"
+"{groups}"
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
-msgstr ""
+msgstr "Afstand tussen {user1} en {user2}: {dist}M"
 
 msgid "Distance to center"
-msgstr ""
+msgstr "Afstand tot middelpunt."
 
 msgid "Files for {language_key} not found"
-msgstr ""
+msgstr "Bestanden voor {language_key} niet gevonden."
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr ""
+msgstr "Ik heb geprobeerd een bericht naar {mention} te sturen maar je hebt PBs uitstaan, Kunt u mij die opdracht doormiddel van PB sturen."
 
 msgid "Languages reloaded"
-msgstr ""
+msgstr "Talen herladen."
 
 msgid "Location"
-msgstr ""
+msgstr "Locatie"
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr ""
+msgstr "{user} aan het zoeken in {game} op {platform}..."
 
 msgid "Looking up {user} on {game}..."
-msgstr ""
+msgstr "{user} aan het zoeken in {game}..."
 
 msgid "No games currently being played."
-msgstr ""
+msgstr "Er worden momenteel geen spellen gespeeld."
 
 msgid "No groups defined on {server}, use {command}"
-msgstr ""
+msgstr "Geen groepen gedefinieerd op {server}, gebruik {command}."
 
 msgid "No response from user."
-msgstr ""
+msgstr "Geen antwoord gekregen van {user}"
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr ""
+msgstr "Geen {game} spelers gevonden op deze server, Doe {prefix}[game_key} eerst."
 
 msgid "No {game} stats found for {user} on {platform}"
-msgstr ""
+msgstr "Geen {game} statistieken gevonden voor {user} op {platform}"
 
 msgid "Please enter your {game} account name:"
-msgstr ""
+msgstr "Vul uw {game} gebruikersnaam alstublieft in:"
 
 msgid "Portal code"
 msgstr ""
@@ -88,15 +91,17 @@ msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
+"Profiel gemaakt. Om meer accounts toe te voegen gebruik {prefix}add <account>\n"
+"Ondersteunde accounts: {accounts}"
 
 msgid "Set language for {guild_name} to {language}"
-msgstr ""
+msgstr "taal instellen voor {guild_name} in {language}"
 
 msgid "Shows your stats from {game}"
-msgstr ""
+msgstr "Laat je statistieken zien van {game}"
 
 msgid "Sorry that account isn't on your profile."
-msgstr ""
+msgstr "Sorry dat account is niet op je profiel"
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -104,92 +109,98 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"Sorry het account {account} is nog niet ondersteund.\n"
+"De ondersteunde accounts zijn {accounts}\n"
+"\n"
+"Als voorbeeld vul het volgende in **{prefix}add steam**"
 
 msgid "Supported accounts: {accounts}"
-msgstr ""
+msgstr "Ondersteunde accounts: {accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"supported games:\n"
+"{games}"
 
 msgid "That user hasn't added an account for {game}"
-msgstr ""
+msgstr "Die gebruiker heeft nog geen account toegevoegd voor {game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr ""
+msgstr "Dat was geen geldige keus, Je hebt nog {tries} pogingen"
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr ""
+msgstr "Dat is geen geldige platform, De opties zijn: {platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr ""
+msgstr "De locatiecode moet de indeling HUKYA:XXXX:XXXX:XXXX:XXXX:XXXX Bekijk alstublieft uw code and probeer opnieuw."
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr ""
+msgstr "Er zijn meerdere overeenkomsten, beantwoord met het juiste nummer."
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr ""
+msgstr "De top {top_count} spellen die momenteel worden gespeeld door {server_count} servers"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
-msgstr ""
+msgstr "De top {top_count} spellen die momenteel worden gespeeld in {guild_name}"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr ""
+msgstr "Waarschuwing: Je hebt meerdere accounts voor {game}, Misschien wil je er een verwijderen met {prefix}delete {game_key} of verander je primaire account met {prefix}primary {game_key}"
 
 msgid ""
 "What is the location of your NMS home base?\n"
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
-msgstr ""
+msgstr "Wat is de locatie van je NMS thuisbasis?Om deze locatie the vinden, Plaats een SignaalVersterker en noteer de code die word weergegeven wanneer je in de buurt komt, in het formaat HUKYA:XXXX:XXXX:XXXX:XXXX"
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr ""
+msgstr "Op welk platform speel je {game} op? [{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr ""
+msgstr "Je hebt geen toestemming om the taal te veranderen van {guild}"
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr ""
+msgstr "Je lijkt geen Siege te spelen op PC, Selecteer PSN/XBL door middel van {prefix}add siege"
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr ""
+msgstr "Je hebt geen accounts op je profiel, voeg er één toe!"
 
 msgid "You have already registered {account}"
-msgstr ""
+msgstr "Je hebt al een account gemaakt {account}"
 
 msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr ""
+msgstr "Je hebt nog geen profiel gemaakt, Gebruik {prefix}profile om te starten."
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr ""
+msgstr "Je moet een account toevoegen voor {game}, gebruik {prefix}add {game_key}"
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr ""
+msgstr "{channel} in {guild_name} geregistreerd voor live wedstrijd updates"
 
 msgid "{game} Leaderboard for {guild}"
-msgstr ""
+msgstr "{game} Leaderboard voor {guild}"
 
 msgid "{game} account not found for {user}"
-msgstr ""
+msgstr "Geen {game} account gevonden voor {user}"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr ""
+msgstr "Geen {game} account gevonden voor {user} op {platform}"
 
 msgid "{game} live games for {guild}"
-msgstr ""
+msgstr "{game} Live spellen voor {guild}"
 
 msgid "{guild} unregistered from receiving live match updates."
-msgstr ""
+msgstr "{guild} niet ingeschreven voor het ontvangen van live wedstrijd updates"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key} verwijderd van beschikbaren talen, welke zijn: [{languages}]"
 
 msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language} toegevoegd aan lijst met beschikbaren talen, welke zijn: [{languages}]"
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr ""
+msgstr "{language} niet in de lijst met beschikbaren talen: {languages}"
 
 msgid "{user}'s Home Base"
-msgstr ""
+msgstr "{user}'s Thuis Basis"
 
