@@ -131,7 +131,7 @@ msgid "That was not a valid choice. You have {tries} more tries."
 msgstr "Dat was geen geldige keus, Je hebt nog {tries} pogingen"
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr "Dat is geen geldige platform, De opties zijn: {platforms}"
+msgstr "Dat is geen geldig platform, De opties zijn: {platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
 msgstr "De locatiecode moet de indeling HUKYA:XXXX:XXXX:XXXX:XXXX:XXXX Bekijk alstublieft uw code and probeer opnieuw."
@@ -157,7 +157,7 @@ msgid "What platform do you play {game} on? [{platforms}]"
 msgstr "Op welk platform speel je {game} op? [{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr "Je hebt geen toestemming om the taal te veranderen van {guild}"
+msgstr "Je hebt geen toestemming om de taal te veranderen van {guild}"
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
 msgstr "Je lijkt geen Siege te spelen op PC, Selecteer PSN/XBL door middel van {prefix}add siege"
