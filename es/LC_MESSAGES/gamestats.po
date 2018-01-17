@@ -1,7 +1,7 @@
 # Spanish translations for GameStats.
 # Copyright (C) 2017 GameStats
 # This file is distributed under the same license as the GameStats project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# FIRST AUTHOR <Desgrate>, 2017.
 #
 msgid ""
 msgstr ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
 "POT-Creation-Date: 2017-12-16 01:07+0000\n"
 "PO-Revision-Date: 2018-01-17 21:15+0000\n"
-"Last-Translator: Avaren#9383\n"
+"Last-Translator: Desgrate#9087\n"
 "Language: es\n"
 "Language-Team: es <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
@@ -19,84 +19,89 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr ""
+msgstr "**ERROR**: El bot requiere la abilidad de poder insertar, tengan en cuenta que el bot tenga el permiso de "insertar enlances" activado."
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr ""
+msgstr "<:nms: 346638509114784808>No Man's Sky Mapa Del Universo para {gremio}"
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr ""
+msgstr "Un cuenta de {plataforms} es requerida para obtener las estadisticas de {game}"
 
 msgid "Available languages: [{languages}]"
-msgstr ""
+msgstr "Lenguajes disponibles: [{languages}]"
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "Revisa tus mensajes directos"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
 "\n"
 "{groups}"
 msgstr ""
+"Dale click a los iconos de abajo para unirte/salirte del grupo:n"
+"\n"
+"{groups}"
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
-msgstr ""
+msgstr "Distancia entre {user1} y {user2}: {dist}ly"
 
 msgid "Distance to center"
-msgstr ""
+msgstr "Distancia hacia el centro"
 
 msgid "Files for {language_key} not found"
-msgstr ""
+msgstr "archivos para {language_key} no encontrados"
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr ""
+msgstr "Trate de mandarte un mensaje directo {mention} pero tus mensajes directos estan desabilitados, mandame tu {mention} el comando por mensaje directo."
 
 msgid "Languages reloaded"
-msgstr ""
+msgstr "Lenguajes recargados"
 
 msgid "Location"
-msgstr ""
+msgstr "Localizacion"
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr ""
+msgstr "Buscando a {user} en {game} en {platform}..."
 
 msgid "Looking up {user} on {game}..."
-msgstr ""
+msgstr "Buscando a {user} en {game}..."
 
 msgid "No games currently being played."
-msgstr ""
+msgstr "No hay juegos que estan siendo actualmente jugados."
 
 msgid "No groups defined on {server}, use {command}"
-msgstr ""
+msgstr "No hay grupos definidos en {server}, usa {command}"
 
 msgid "No response from user."
-msgstr ""
+msgstr "No hay respuesta del usuario"
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr ""
+msgstr "Ningun jugador de {game} encontrado en este servidor. Hagan {prefix}{game_key} primero."
 
 msgid "No {game} stats found for {user} on {platform}"
-msgstr ""
+msgstr "No hay estadisticas de {game} encontradas para {user} en {psn}"
 
 msgid "Please enter your {game} account name:"
-msgstr ""
+msgstr "Porfavor ingresa tu nombre de usuario de {game}"
 
 msgid "Portal code"
-msgstr ""
+msgstr "Codigo portal"
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
+"Perfil creado. Para agregar cuentas usar {prefix}add <account>\n"
+"Cuentas soportadas: {accounts}"
 
 msgid "Set language for {guild_name} to {language}"
-msgstr ""
+msgstr "Establecer lenguaje para {guild_name} a {language}"
 
 msgid "Shows your stats from {game}"
-msgstr ""
+msgstr "Muestra tus estadisticas de {game}"
 
 msgid "Sorry that account isn't on your profile."
-msgstr ""
+msgstr "Perdone pero esa cuenta no esta en su perfil."
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -104,92 +109,98 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"Disculpe, la cuenta {account} no es soportada aun.\n"
+"Las cuentas soportadas son {accounts}.\n"
+"\n"
 
 msgid "Supported accounts: {accounts}"
-msgstr ""
+msgstr "Cuentas soportadas: {accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"Juegos soportados:\n"
+"{games}
 
 msgid "That user hasn't added an account for {game}"
-msgstr ""
+msgstr "Ese usuario no ha añadido un cuenta para {game} aun"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr ""
+msgstr "Esa no fue una buena eleccion. Tienes {tries} intentos mas."
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr ""
+msgstr "Esa no es una plataforma valida, las opciones son: {platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr ""
+msgstr "El codigo de la localizacion debe ser en el formato HUKYA:XXXX:XXXX:XXXX:XXXX Porfavor revisa tu codigo y intenta otra vez."
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr ""
+msgstr "Hay multiples juegos en curso. Porfavor clarifica al responder con el numero de eleccion correcta"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr ""
+msgstr "Top {top_count} juegos estan actualmente siendo jugados atravez de {server_count} servers"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
-msgstr ""
+msgstr "Top {top_count} juegos actualmente siendo juguados en {guild_name}"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr ""
+msgstr "Cuidado: Tienes multiples cuentas de {game} deberias borrar una con {prefix} delete {game_key} o cambia tu cuenta primaria con {prefix}primary {game_key}"
 
 msgid ""
 "What is the location of your NMS home base?\n"
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
+"Cual es la localizacion de tu NMS base?\n"
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr ""
+msgstr "En que plataforma juegas {game} en? [{platforms}] "
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr ""
+msgstr "No tienes permiso para cambiar el lenguaje en {guild}"
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr ""
+msgstr "No parece que juegas Siege en PC. Seleccion PSN/XBL al hacer {prefix}añadir Siege"
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr ""
+msgstr "No tienes cuentas en tu perfil, añade cuentas!!"
 
 msgid "You have already registered {account}"
-msgstr ""
+msgstr "Ya registraste una cuenta {account}"
 
 msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr ""
+msgstr "No has activado tu perfil aun, has {prefix}perfil para iniciar."
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr ""
+msgstr "Necesitas añadir una cuenta para {game}, haz {prefix}añade {game_key}"
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr ""
+msgstr "{channel} en {guild} registrado para recivir partidas en tiempo real."
 
 msgid "{game} Leaderboard for {guild}"
-msgstr ""
+msgstr "{game} Leaderboard para {guild}"
 
 msgid "{game} account not found for {user}"
-msgstr ""
+msgstr "Cuenta de {game} no encontrada para {user}"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr ""
+msgstr "Cuenta de {game} no encontrada para {user} en {platform}"
 
 msgid "{game} live games for {guild}"
-msgstr ""
+msgstr "{game} juegos en linea para {guild}"
 
 msgid "{guild} unregistered from receiving live match updates."
-msgstr ""
+msgstr "{guild} no registrada para recibir actualizaciones de partidos en tiempo real."
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key} removida de lenguajes disponibles, que son: [{languages}]"
 
 msgid "{language} added to list of available languages, which are: [{languages}]"
 msgstr ""
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr ""
+msgstr "{language} no en la lista de lenguajes disponibles: {languages}"
 
 msgid "{user}'s Home Base"
-msgstr ""
+msgstr "{user}'s base casa"
 
