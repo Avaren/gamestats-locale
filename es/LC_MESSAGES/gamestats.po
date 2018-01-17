@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr "**ERROR**: El bot requiere la abilidad de poder insertar, tengan en cuenta que el bot tenga el permiso de "insertar enlances" activado."
+msgstr "**ERROR**: El bot requiere la abilidad de poder insertar, tengan en cuenta que el bot tenga el permiso de 'insertar enlances' activado."
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
 msgstr "<:nms: 346638509114784808>No Man's Sky Mapa Del Universo para {gremio}"
