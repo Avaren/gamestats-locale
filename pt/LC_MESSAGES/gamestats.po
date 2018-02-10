@@ -1,0 +1,195 @@
+# Portuguese translations for GameStats.
+# Copyright (C) 2017 GameStats
+# This file is distributed under the same license as the GameStats project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GameStats 0.2\n"
+"Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
+"POT-Creation-Date: 2017-12-16 01:07+0000\n"
+"PO-Revision-Date: 2018-03-04 03:54+0000\n"
+"Last-Translator: Avaren#9383\n"
+"Language: pt\n"
+"Language-Team: pt <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+msgstr ""
+
+msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
+msgstr ""
+
+msgid "A {platforms} account is required to obtain {game} stats"
+msgstr ""
+
+msgid "Available languages: [{languages}]"
+msgstr ""
+
+msgid "Check your DMs"
+msgstr ""
+
+msgid ""
+"Click the below icons to join/leave that group:\n"
+"\n"
+"{groups}"
+msgstr ""
+
+msgid "Distance between {user1} and {user2}: {dist}ly"
+msgstr ""
+
+msgid "Distance to center"
+msgstr ""
+
+msgid "Files for {language_key} not found"
+msgstr ""
+
+msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
+msgstr ""
+
+msgid "Languages reloaded"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Looking up {user} on {game} on {platform}..."
+msgstr ""
+
+msgid "Looking up {user} on {game}..."
+msgstr ""
+
+msgid "No games currently being played."
+msgstr ""
+
+msgid "No groups defined on {server}, use {command}"
+msgstr ""
+
+msgid "No response from user."
+msgstr ""
+
+msgid "No {game} players found on this server. Do {prefix}{game_key} first."
+msgstr ""
+
+msgid "No {game} stats found for {user} on {platform}"
+msgstr ""
+
+msgid "Please enter your {game} account name:"
+msgstr ""
+
+msgid "Portal code"
+msgstr ""
+
+msgid ""
+"Profile created. To add accounts use {prefix}add <account>\n"
+"Supported accounts: {accounts}"
+msgstr ""
+
+msgid "Set language for {guild_name} to {language}"
+msgstr ""
+
+msgid "Shows your stats from {game}"
+msgstr ""
+
+msgid "Sorry that account isn't on your profile."
+msgstr ""
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+
+msgid "Supported accounts: {accounts}"
+msgstr ""
+
+msgid ""
+"Supported games:\n"
+"{games}"
+msgstr ""
+
+msgid "That user hasn't added an account for {game}"
+msgstr ""
+
+msgid "That was not a valid choice. You have {tries} more tries."
+msgstr ""
+
+msgid "That's not a valid platform, the options are: {platforms}"
+msgstr ""
+
+msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr ""
+
+msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
+msgstr ""
+
+msgid "Top {top_count} games currently being played across {server_count} servers"
+msgstr ""
+
+msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr ""
+
+msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
+msgstr ""
+
+msgid ""
+"What is the location of your NMS home base?\n"
+"To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
+msgstr ""
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr ""
+
+msgid "You do not have permission to change the language on {guild}."
+msgstr ""
+
+msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
+msgstr ""
+
+msgid "You don't have any accounts on your profile, add some!"
+msgstr ""
+
+msgid "You have already registered {account}"
+msgstr ""
+
+msgid "You have not yet set up a profile, do {prefix}profile to get started."
+msgstr ""
+
+msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr ""
+
+msgid "{channel} in {guild} registered to receive live match updates."
+msgstr ""
+
+msgid "{game} Leaderboard for {guild}"
+msgstr ""
+
+msgid "{game} account not found for {user}"
+msgstr ""
+
+msgid "{game} account not found for {user} on {platform}"
+msgstr ""
+
+msgid "{game} live games for {guild}"
+msgstr ""
+
+msgid "{guild} unregistered from receiving live match updates."
+msgstr ""
+
+msgid "{language_key} removed from available languages, which are: [{languages}]"
+msgstr ""
+
+msgid "{language} added to list of available languages, which are: [{languages}]"
+msgstr ""
+
+msgid "{language} not in list of available languages: {languages}"
+msgstr ""
+
+msgid "{user}'s Home Base"
+msgstr ""
+
