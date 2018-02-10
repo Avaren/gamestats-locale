@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
 "POT-Creation-Date: 2018-04-01 14:09+0100\n"
 "PO-Revision-Date: 2017-12-16 01:18+0000\n"
-"Last-Translator: Avaren#9383\n"
+"Last-Translator: ViChyavIn#0299\n"
 "Language: ru_RU\n"
 "Language-Team: ru_RU <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
@@ -19,104 +19,111 @@ msgstr ""
 "Generated-By: Babel 2.5.3\n"
 
 msgid "*Warning*: Different spelling of {user}"
-msgstr ""
+msgstr "*Внимание*: никнейм , который вы ввели ({user}) может не совпадать с тем, что используется в игре"
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr ""
+msgstr "Карта Вселенной <:nms:346638509114785808>No Man's Sky для {guild}"
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr ""
+msgstr "Чтобы получить игровую статистику по {game}, вам нужно иметь аккаунт в {platforms}"
 
 msgid "Available languages: [{languages}]"
-msgstr ""
+msgstr "Доступные языки: [{languages}]"
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "Проверьте свои личные сообщения"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
 "\n"
 "{groups}"
 msgstr ""
+"Нажмите на иконку снизу, чтобы вступить или покинуть группу:\n"
+"\n"
+"{groups}"
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
-msgstr ""
+msgstr "Расстояние между {user1} и {user2}: {dist}"
 
 msgid "Distance to center"
-msgstr ""
+msgstr "Расстояние до центра"
 
 msgid "Files for {language_key} not found"
-msgstr ""
+msgstr "Файлы для {language_key} не найдены"
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr ""
+msgstr "{mention}, я не могу отправить вам личное сообщение, так как вы запретили это делать в своих настройках. Пожалуйста, введите ту команду мне  личные сообщения."
 
 msgid "Languages reloaded"
-msgstr ""
+msgstr "Языки обновлены"
 
 msgid "Location"
-msgstr ""
+msgstr "Расположение"
 
 msgid "Looking up {game} account for {user} on {platform}."
-msgstr ""
+msgstr "Ищу аккаунт {user} в {game} на {platform}..."
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr ""
+msgstr "Ищу {user} в {game} на {platform}..."
 
 msgid "Looking up {user} on {game}..."
-msgstr ""
+msgstr "Ищу {user} в {game}..."
 
 msgid "No games currently being played."
-msgstr ""
+msgstr "Никакая игра пока не запущена."
 
 msgid "No groups defined on {server}, use {command}"
-msgstr ""
+msgstr "На {server} не обнаружено ни одной группы; используйте {command}."
 
 msgid "No response from user."
-msgstr ""
+msgstr "Нет ответа от пользователя."
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr ""
+msgstr "Игроки {game} не найдены на сервере. Введите {prefix}{game_key}, чтобы начать."
 
 msgid "No {game} stats found for {user} on {platform}"
-msgstr ""
+msgstr "Игровоа статистика для {user} по {game} на {platform} не найдена"
 
 msgid "Please enter your {game} account name:"
-msgstr ""
+msgstr "Пожалуйста, введите имя своего {game} аккаунта:"
 
 msgid "Portal code"
-msgstr ""
+msgstr "Код портала"
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
+"Профиль создан успешно! Чтобы добавить аккаунт, введите {prefix}add <account>\n"
+"Поддерживаемые аккаунты: {accounts}"
 
 msgid "Request accepted"
-msgstr ""
+msgstr "Запрос принят"
 
 msgid "Request accepted. Adding to {name}"
-msgstr ""
+msgstr "Запрос принят. Идёт добавление к {name}..."
 
 msgid "Request declined"
-msgstr ""
+msgstr "Запрос отклонён."
 
 msgid "Requesting permission from {name}"
-msgstr ""
+msgstr "Запрос разрешения от {name}..."
 
 msgid "Set language for {guild_name} to {language}"
-msgstr ""
+msgstr "Установить язык для {guild_name} на {language}"
 
 msgid "Shows your stats from {game}"
-msgstr ""
+msgstr "Показать статистику по {game}"
 
 msgid "Sorry that account isn't on your profile."
-msgstr ""
+msgstr "Извините, этот аккаунт не подключён к вашему профилю."
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
 "The supported accounts are {accounts}"
 msgstr ""
+"Извините, аккаунт {account} пока не поддерживается.\n"
+"Взгляните на список поддерживаемых: {accounts}"
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -124,110 +131,116 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"Извините, аккаунт {account} пока не поддерживается.\n"
+"Взгляните на список поддерживаемых: {accounts}\n"
+"Или, например, введите следующее: **{prefix}add steam**"
 
 msgid "Supported accounts: {accounts}"
-msgstr ""
+msgstr "Поддерживаемые аккаунты: {accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"Поддерживаемые игры:\n"
+"{games}"
 
 msgid "That user hasn't added an account for {game}"
-msgstr ""
+msgstr "Этот пользователь пока не добавил аккаунт для {game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr ""
+msgstr "Неверный выбор! У вас осталось {tries} попыток."
 
 msgid "That wasn't a valid answer, please answer yes or no."
-msgstr ""
+msgstr "Неверный ответ! Пожалуйста, ответьте \"да\" или \"нет\"."
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr ""
+msgstr "Неверная платформа! Доступные платформы: {platforms}"
 
 msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
-msgstr ""
+msgstr "Имена введённых аккаунтов ({user} и {account}) не совпадают, что может привести к ошибке. Попробуйте проверить регистр букв"
 
 msgid "The available platforms are {platforms}"
-msgstr ""
+msgstr "Доступные платформы: {platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr ""
+msgstr "Код местонахождения должен быть записан в следующем формате: HUKYA:XXXX:XXXX:XXXX:XXXX. Пожалуйста, проверьте свой код и попробуйте снова."
 
 msgid "The user {user} does not have a {game} profile on {platform}."
-msgstr ""
+msgstr "У пользователя {user} нет в наличии {game} на {platform}."
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr ""
+msgstr "Обнаружено сразу несколько совпадений! Пожалуйста, уточните свой выбор, отправив правильный номер."
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr ""
+msgstr "Топ-{top_count} игр сейчас играют на {server_count} серверах"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
-msgstr ""
+msgstr "Топ-{top_count} игр сейчас играют в {guild_name}"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr ""
+msgstr "*Внимание*: кажется, у вас есть сразу несколько аккаунтов для {game}. Вы можете удалить аккаунт командой {prefix}delete {game_key} или сменить свой основной {prefix}primary {game_key}."
 
 msgid ""
 "What is the location of your NMS home base?\n"
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
+"Какого местопо��ожение вашей базы в No Man's Sky?\n"
+"Чтобы узнать своё местоположение, установите Усилитель Сигнала и запишите код, который он выдаёт при вашем приближении, в следующем формате: HUKYA:XXXX:XXXX:XXXX:XXXX."
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr ""
+msgstr "На какой платформе вы играете в {game}? [{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr ""
+msgstr "У вас не разрешения менять язык в {guild}."
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr ""
+msgstr "Кажется, вы не играете в Siege на ПК. Выберите PSN или XBL аккаунт командой {prefix}add siege."
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr ""
+msgstr "В вашем профиле нет аккаунтов. Так добавьте их!"
 
 msgid "You have already registered {account}"
-msgstr ""
+msgstr "Вы уже зарегистрировали {account}"
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr ""
+msgstr "Чтобы добавить аккаунт для {game}, введите {prefix}add {game_key}"
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr ""
+msgstr "{channel} в {guild}."
 
 msgid "{game} Leaderboard for {guild}"
-msgstr ""
+msgstr "Таблица Лидеров по {game} для {guild}"
 
 msgid "{game} account not found for {user}"
-msgstr ""
+msgstr "Аккаунта {user} по {game} не обнаружено"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr ""
+msgstr "Аккаунт {user} для {game} не обнаружен на {platform}"
 
 msgid "{game} live games for {guild}"
-msgstr ""
+msgstr "Игровые сеансы по {game} для {guild}"
 
 msgid "{guild} unregistered from receiving live match updates."
-msgstr ""
+msgstr "Теперь {guild} не будет получать обновления о матчах."
 
 msgid "{language_key} added to list of available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key} добавлен в список доступных языков: [{languages}]"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key} удалён из списка доступных языков: [{languages}]"
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr ""
+msgstr "{language} не найден в списке доступных языков. Взгляните на список доступных: {languages}"
 
 msgid "{name} declined"
-msgstr ""
+msgstr "{name} отменил запрос"
 
 msgid "{user}'s Home Base"
-msgstr ""
+msgstr "База {user}"
 
 #~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-#~ msgstr ""
+#~ msgstr "*Внимание*: бот требует разрешения на отправку ссылок! Удостоверьтесь, что данное разрешение установлено."
 
 #~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
-#~ msgstr ""
-
+#~ msgstr "Вы ещё не установили профиль. Установите его с помощью команды {prefix}profile."
