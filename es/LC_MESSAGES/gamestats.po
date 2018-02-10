@@ -121,7 +121,7 @@ msgid ""
 "{games}"
 msgstr ""
 "Juegos soportados:\n"
-"{games}
+"{games}"
 
 msgid "That user hasn't added an account for {game}"
 msgstr "Ese usuario no ha añadido un cuenta para {game} aun"
