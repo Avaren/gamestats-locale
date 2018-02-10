@@ -1,13 +1,13 @@
 # Japanese translations for GameStats.
-# Copyright (C) 2017 GameStats
+# Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-# https://github.com/Avaren, 2017.
+# devon#4089, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-12-16 01:07+0000\n"
+"POT-Creation-Date: 2018-04-01 14:09+0100\n"
 "PO-Revision-Date: 2017-08-12 12:56+0100\n"
 "Last-Translator: devon#4089\n"
 "Language: ja\n"
@@ -16,9 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.5.3\n"
 
-msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+msgid "*Warning*: Different spelling of {user}"
 msgstr ""
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
@@ -57,6 +57,9 @@ msgstr "使用可能な言語は再ロードされました。"
 msgid "Location"
 msgstr ""
 
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr ""
+
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr ""
 
@@ -89,6 +92,18 @@ msgid ""
 "Supported accounts: {accounts}"
 msgstr ""
 
+msgid "Request accepted"
+msgstr ""
+
+msgid "Request accepted. Adding to {name}"
+msgstr ""
+
+msgid "Request declined"
+msgstr ""
+
+msgid "Requesting permission from {name}"
+msgstr ""
+
 msgid "Set language for {guild_name} to {language}"
 msgstr "{guild_name}の言語は{language}に設定されました。"
 
@@ -96,6 +111,11 @@ msgid "Shows your stats from {game}"
 msgstr ""
 
 msgid "Sorry that account isn't on your profile."
+msgstr ""
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
 msgstr ""
 
 msgid ""
@@ -119,10 +139,22 @@ msgstr "そのユーザーは{game}のアカウントがまだ設定されてい
 msgid "That was not a valid choice. You have {tries} more tries."
 msgstr ""
 
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr ""
+
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "選択可能なプラットフォームではありません、この選択肢の中から選んでください： {platforms}"
 
+msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
+msgstr ""
+
+msgid "The available platforms are {platforms}"
+msgstr ""
+
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr ""
+
+msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr ""
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
@@ -157,9 +189,6 @@ msgstr ""
 msgid "You have already registered {account}"
 msgstr ""
 
-msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr ""
-
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "{game}のアカウントはまだ設定されていません。アカウントを追加するにはこのコマンドを使用してください： {prefix}add {game_key}"
 
@@ -181,18 +210,27 @@ msgstr ""
 msgid "{guild} unregistered from receiving live match updates."
 msgstr ""
 
+msgid "{language_key} added to list of available languages, which are: [{languages}]"
+msgstr "使用可能な言語には{language}が追加して、[{languages}]になりました。"
+
 msgid "{language_key} removed from available languages, which are: [{languages}]"
 msgstr ""
 
-msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr "使用可能な言語には{language}が追加して、[{languages}]になりました。"
-
 msgid "{language} not in list of available languages: {languages}"
 msgstr "{language}は使用可能な言語ではありません。 {languages}"
+
+msgid "{name} declined"
+msgstr ""
 
 msgid "{user}'s Home Base"
 msgstr ""
 
 #~ msgid "Please enter your account name for {game}:"
+#~ msgstr ""
+
+#~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+#~ msgstr ""
+
+#~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
 #~ msgstr ""
 

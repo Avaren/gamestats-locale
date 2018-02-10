@@ -1,25 +1,25 @@
 # Turkish translations for GameStats.
-# Copyright (C) 2017 GameStats
+# Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-# https://github.com/Avaren, 2017.
+# 🅐glaïs#2150, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-12-16 01:07+0000\n"
+"POT-Creation-Date: 2018-04-01 14:09+0100\n"
 "PO-Revision-Date: 2017-08-12 12:53+0100\n"
-"Last-Translator: 🅐glaïs#2150nLanguage: tr\n"
+"Last-Translator: 🅐glaïs#2150\n"
 "Language: tr\n"
 "Language-Team: tr <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.5.3\n"
 
-msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr "**HATA**: Botun embed için yeterli izne sahip olması gerek, 'Gömülü Bağlantılar' izninin verilmiş olduğundan emin olun."
+msgid "*Warning*: Different spelling of {user}"
+msgstr ""
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
 msgstr ""
@@ -57,6 +57,9 @@ msgstr "Diller tekrar yüklendi"
 msgid "Location"
 msgstr ""
 
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr ""
+
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "{platform} üzerinden {game} oyununun {user} kullanıcısına bakılıyor..."
 
@@ -91,6 +94,18 @@ msgstr ""
 "Profil oluşturuldu. hesap eklemek için {prefix}add <account> komutunu kullan\n"
 "Desteklenen hesaplar: {accounts}"
 
+msgid "Request accepted"
+msgstr ""
+
+msgid "Request accepted. Adding to {name}"
+msgstr ""
+
+msgid "Request declined"
+msgstr ""
+
+msgid "Requesting permission from {name}"
+msgstr ""
+
 msgid "Set language for {guild_name} to {language}"
 msgstr "{guild_name} sunucusu için {language} dili belirlendi"
 
@@ -99,6 +114,11 @@ msgstr "{game} istatistiklerini gösterir"
 
 msgid "Sorry that account isn't on your profile."
 msgstr "Maalesef bu hesap, profilinde yok."
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
+msgstr ""
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -127,10 +147,22 @@ msgstr "Kullanıcı, {game} için bir hesap eklemedi"
 msgid "That was not a valid choice. You have {tries} more tries."
 msgstr "Bu geçerli bir seçim değildi. {tries} deneme hakkın var."
 
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr ""
+
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Bu geçerli bir platform değil, seçenekler: {platforms}"
 
+msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
+msgstr ""
+
+msgid "The available platforms are {platforms}"
+msgstr ""
+
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr ""
+
+msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr ""
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
@@ -165,9 +197,6 @@ msgstr "Profilinde herhangi bir hesap yok, birazını ekle!"
 msgid "You have already registered {account}"
 msgstr "{account} hesabını zaten kaydettin"
 
-msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr "Henüz bir profil oluştumadın, {prefix}profile yazarak başlayın."
-
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "{game} için bir hesap eklemen gerekiyor, {prefix}add {game_key} yazmalısın"
 
@@ -189,14 +218,17 @@ msgstr ""
 msgid "{guild} unregistered from receiving live match updates."
 msgstr ""
 
+msgid "{language_key} added to list of available languages, which are: [{languages}]"
+msgstr "{language} dili, içinde [{languages}] dillerini içeren mevcut dil listesine eklendi"
+
 msgid "{language_key} removed from available languages, which are: [{languages}]"
 msgstr "{language_key} dili, içinde [{languages}] dillerini içeren mevcut dil listesinden silindi"
 
-msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr "{language} dili, içinde [{languages}] dillerini içeren mevcut dil listesine eklendi"
-
 msgid "{language} not in list of available languages: {languages}"
 msgstr "{language} dili, mevcut dil listesinde yer almıyor: {languages}"
+
+msgid "{name} declined"
+msgstr ""
 
 msgid "{user}'s Home Base"
 msgstr ""
@@ -221,4 +253,10 @@ msgstr ""
 
 #~ msgid "Please enter your account name for {game}:"
 #~ msgstr "Lütfen {game} için hesap adını gir:"
+
+#~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+#~ msgstr "**HATA**: Botun embed için yeterli izne sahip olması gerek, 'Gömülü Bağlantılar' izninin verilmiş olduğundan emin olun."
+
+#~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
+#~ msgstr "Henüz bir profil oluştumadın, {prefix}profile yazarak başlayın."
 

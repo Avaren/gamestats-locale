@@ -1,13 +1,13 @@
 # Dutch translations for GameStats.
-# Copyright (C) 2017 GameStats
+# Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-# https://github.com/Avaren, 2017.
+# Lesto#200, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.2\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-12-16 01:07+0000\n"
+"POT-Creation-Date: 2018-04-01 14:09+0100\n"
 "PO-Revision-Date: 2018-01-06 16:45+0000\n"
 "Last-Translator: Lesto#2003\n"
 "Language: nl\n"
@@ -16,10 +16,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.5.3\n"
 
-msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr "De bot heeft de mogelijk om ingesloten links to sturen nodig, zorg ervoor dat het de \"ingesloten links\" toestemming heeft."
+msgid "*Warning*: Different spelling of {user}"
+msgstr ""
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
 msgstr "No Man's Sky Universe Map voor {guild}."
@@ -60,6 +60,9 @@ msgstr "Talen herladen."
 msgid "Location"
 msgstr "Locatie"
 
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr ""
+
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "{user} aan het zoeken in {game} op {platform}..."
 
@@ -94,6 +97,18 @@ msgstr ""
 "Profiel gemaakt. Om meer accounts toe te voegen gebruik {prefix}add <account>\n"
 "Ondersteunde accounts: {accounts}"
 
+msgid "Request accepted"
+msgstr ""
+
+msgid "Request accepted. Adding to {name}"
+msgstr ""
+
+msgid "Request declined"
+msgstr ""
+
+msgid "Requesting permission from {name}"
+msgstr ""
+
 msgid "Set language for {guild_name} to {language}"
 msgstr "taal instellen voor {guild_name} in {language}"
 
@@ -102,6 +117,11 @@ msgstr "Laat je statistieken zien van {game}"
 
 msgid "Sorry that account isn't on your profile."
 msgstr "Sorry dat account is niet op je profiel"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
+msgstr ""
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -130,11 +150,23 @@ msgstr "Die gebruiker heeft nog geen account toegevoegd voor {game}"
 msgid "That was not a valid choice. You have {tries} more tries."
 msgstr "Dat was geen geldige keus, Je hebt nog {tries} pogingen"
 
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr ""
+
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Dat is geen geldig platform, De opties zijn: {platforms}"
 
+msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
+msgstr ""
+
+msgid "The available platforms are {platforms}"
+msgstr ""
+
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
 msgstr "De locatiecode moet de indeling HUKYA:XXXX:XXXX:XXXX:XXXX:XXXX Bekijk alstublieft uw code and probeer opnieuw."
+
+msgid "The user {user} does not have a {game} profile on {platform}."
+msgstr ""
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr "Er zijn meerdere overeenkomsten, beantwoord met het juiste nummer."
@@ -168,9 +200,6 @@ msgstr "Je hebt geen accounts op je profiel, voeg er één toe!"
 msgid "You have already registered {account}"
 msgstr "Je hebt al een account gemaakt {account}"
 
-msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr "Je hebt nog geen profiel gemaakt, Gebruik {prefix}profile om te starten."
-
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Je moet een account toevoegen voor {game}, gebruik {prefix}add {game_key}"
 
@@ -192,15 +221,24 @@ msgstr "{game} Live spellen voor {guild}"
 msgid "{guild} unregistered from receiving live match updates."
 msgstr "{guild} niet ingeschreven voor het ontvangen van live wedstrijd updates"
 
+msgid "{language_key} added to list of available languages, which are: [{languages}]"
+msgstr "{language} toegevoegd aan lijst met beschikbaren talen, welke zijn: [{languages}]"
+
 msgid "{language_key} removed from available languages, which are: [{languages}]"
 msgstr "{language_key} verwijderd van beschikbaren talen, welke zijn: [{languages}]"
-
-msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr "{language} toegevoegd aan lijst met beschikbaren talen, welke zijn: [{languages}]"
 
 msgid "{language} not in list of available languages: {languages}"
 msgstr "{language} niet in de lijst met beschikbaren talen: {languages}"
 
+msgid "{name} declined"
+msgstr ""
+
 msgid "{user}'s Home Base"
 msgstr "{user}'s Thuis Basis"
+
+#~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+#~ msgstr "De bot heeft de mogelijk om ingesloten links to sturen nodig, zorg ervoor dat het de \"ingesloten links\" toestemming heeft."
+
+#~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
+#~ msgstr "Je hebt nog geen profiel gemaakt, Gebruik {prefix}profile om te starten."
 

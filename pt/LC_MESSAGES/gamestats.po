@@ -1,16 +1,16 @@
-# Portuguese translations for GameStats.
-# Copyright (C) 2017 GameStats
+# Portuguese (Brazil) translations for GameStats.
+# Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-#Pedro Ricardo - PR <pedroricardorn@gmail.com>, 2018
+# PR#0001, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.2\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-12-16 01:07+0000\n"
+"POT-Creation-Date: 2018-04-01 14:09+0100\n"
 "PO-Revision-Date: 2018-03-09 03:54+0000\n"
-"Last-Translator:Pedro Ricardo | PR#0001\n"
-"Language: pt-br\n"
+"Last-Translator: Pedro Ricardo | PR#0001\n"
+"Language: pt_BR\n"
 "Language-Team: pt <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
@@ -18,8 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
 
-msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr "**Algo deu errado!**: O bot precisa da permissão de incorporação, certifique-se de liberar a permissão 'Incorporar Links'."
+msgid "*Warning*: Different spelling of {user}"
+msgstr ""
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
 msgstr "<:nms:346638509114785808>Nenhum Mapa do universo do céu do homem para {guild}"
@@ -60,6 +60,9 @@ msgstr "Idiomas recarregados"
 msgid "Location"
 msgstr "Localização"
 
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr ""
+
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "Olhando para {user} no {game} na {platform}..."
 
@@ -68,6 +71,9 @@ msgstr "Olhando para {user} no {game}.."
 
 msgid "No games currently being played."
 msgstr "Nenhum jogo em reprodução atualmente"
+
+msgid "No groups defined on {server}, use {command}"
+msgstr ""
 
 msgid "No response from user."
 msgstr "Não obtive nenhuma resposta do usuário"
@@ -91,6 +97,18 @@ msgstr ""
 "Perfil criado com sucesso! Para adicionar contas, use {prefixo}add <conta>\n"
 "Contas suportadas: {accounts}"
 
+msgid "Request accepted"
+msgstr ""
+
+msgid "Request accepted. Adding to {name}"
+msgstr ""
+
+msgid "Request declined"
+msgstr ""
+
+msgid "Requesting permission from {name}"
+msgstr ""
+
 msgid "Set language for {guild_name} to {language}"
 msgstr "Definir idioma de {guild_name} para {language}"
 
@@ -99,6 +117,11 @@ msgstr "Mostra suas estatísticas de {game}"
 
 msgid "Sorry that account isn't on your profile."
 msgstr "Desculpe, essa conta não está no seu perfil"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
+msgstr ""
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -120,17 +143,30 @@ msgid ""
 msgstr ""
 "Jogos suportados:\n"
 "{games}"
+
 msgid "That user hasn't added an account for {game}"
 msgstr "Esse usuário não adicionou uma conta para {game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
 msgstr "Essa não foi uma escolha válida. Você tem mais {tries} tentativas."
 
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr ""
+
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Essa não é uma plataforma válida, as opções são: {platforms}"
 
+msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
+msgstr ""
+
+msgid "The available platforms are {platforms}"
+msgstr ""
+
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
 msgstr "O código de localização deve estar no formato HUKYA:XXXX:XXXX:XXXX:XXXX Verifique o seu código e tente novamente."
+
+msgid "The user {user} does not have a {game} profile on {platform}."
+msgstr ""
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr "Existem várias combinações. Por favor, esclareça respondendo com o número correto da escolha?"
@@ -166,9 +202,6 @@ msgstr "Você não tem nenhuma conta no seu perfil, adicione alguns!"
 msgid "You have already registered {account}"
 msgstr "Você já registrou {account}"
 
-msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr "Ainda não configurou um perfil, faça o {prefix}profile para começar."
-
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Você precisa adicionar uma conta para o jogo {game}, usando o comando {prefix}add {game_key}"
 
@@ -190,14 +223,27 @@ msgstr "{game} jogos ao vivo para {guild}"
 msgid "{guild} unregistered from receiving live match updates."
 msgstr "{guild} não registrado de receber atualizações ao vivo"
 
-msgid "{guild}{language_key} removed from available languages, which are: [{languages}]"
-msgstr "{guild}{language_key} removido dos idiomas disponíveis, que são: [{languages}]"
-
-msgid "{language} added to list of available languages, which are: [{languages}]"
+msgid "{language_key} added to list of available languages, which are: [{languages}]"
 msgstr "{language} adicionado à lista de idiomas disponíveis, que são: [{languages}]"
+
+msgid "{language_key} removed from available languages, which are: [{languages}]"
+msgstr ""
 
 msgid "{language} not in list of available languages: {languages}"
 msgstr "{language} não na lista de idiomas disponíveis: {languages}"
 
+msgid "{name} declined"
+msgstr ""
+
 msgid "{user}'s Home Base"
 msgstr "{user}'s Home Base"
+
+#~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+#~ msgstr "**Algo deu errado!**: O bot precisa da permissão de incorporação, certifique-se de liberar a permissão 'Incorporar Links'."
+
+#~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
+#~ msgstr "Ainda não configurou um perfil, faça o {prefix}profile para começar."
+
+#~ msgid "{guild}{language_key} removed from available languages, which are: [{languages}]"
+#~ msgstr "{guild}{language_key} removido dos idiomas disponíveis, que são: [{languages}]"
+
