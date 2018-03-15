@@ -19,84 +19,89 @@ msgstr ""
 "Generated-By: Babel 2.5.1\n"
 
 msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr ""
+msgstr "**错误**：确保它具有“内嵌链接”权限。"
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr ""
+msgstr "{guild}的《无人深空》宇宙地图<:nms:346638509114785808>"
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr ""
+msgstr "要获得{game}统计，需要一个{platforms}帐户。"
 
 msgid "Available languages: [{languages}]"
 msgstr "可用的语言[{languages}]"
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "检查你的私信"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
 "\n"
 "{groups}"
 msgstr ""
+"点击下面的图标以加入/离开该组:\n"
+"\n"
+"{groups}"
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
-msgstr ""
+msgstr "{user1}跟{user2}之间的距离：{dist}"
 
 msgid "Distance to center"
-msgstr ""
+msgstr "到中心的距离"
 
 msgid "Files for {language_key} not found"
-msgstr ""
+msgstr "未找到{language_key}的文件。"
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr ""
+msgstr "我试图私信你{mention}，但是你的私信失效了，请私信把那个命令发给我。"
 
 msgid "Languages reloaded"
 msgstr "语言清单已更新"
 
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr ""
+msgstr "在{platform}上查找{user}的{game}。。。"
 
 msgid "Looking up {user} on {game}..."
 msgstr "正在{game}寻找{user}..."
 
 msgid "No games currently being played."
-msgstr ""
+msgstr "目前没有正在玩的游戏。"
 
 msgid "No groups defined on {server}, use {command}"
-msgstr ""
+msgstr "未在{server}上定义组，请使用{command}"
 
 msgid "No response from user."
 msgstr "此帐户没有回应"
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr ""
+msgstr "在此服务器上找不到{game}玩家。先做{prefix}{game_key}。"
 
 msgid "No {game} stats found for {user} on {platform}"
-msgstr ""
+msgstr "在{platform}上找不到{user}的{game}数据"
 
 msgid "Please enter your {game} account name:"
 msgstr "请输入你的{game}帐号"
 
 msgid "Portal code"
-msgstr ""
+msgstr "入口码"
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
+"创建个人资料。若要添加帐户，请使用{prefix}添加<account>\n"
+"支持的帐户：{accounts}"
 
 msgid "Set language for {guild_name} to {language}"
 msgstr "设定{guild_name}的语言到{language}"
 
 msgid "Shows your stats from {game}"
-msgstr ""
+msgstr "显示{game}的统计信息"
 
 msgid "Sorry that account isn't on your profile."
-msgstr ""
+msgstr "很抱歉,你的个人资料上没有那个账户。"
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -104,85 +109,93 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"对不起，暂不支持{account}帐户。\n"
+"支持的帐户是{accounts}\n"
+"\n"
+"例如，输入以下内容：**{prefix}add steam**"
 
 msgid "Supported accounts: {accounts}"
-msgstr ""
+msgstr "支持的帐户：{accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"支持的游戏：\n"
+"{games}"
 
 msgid "That user hasn't added an account for {game}"
 msgstr "这个帐户没有加入{game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr ""
+msgstr "那不是一个有效的选择。你有{tries}更多的尝试。"
 
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "这不是个有效的平台,你的选择有{platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr ""
+msgstr "位置代码的格式必须是HUKYA：XXXX：XXXX：XXXX：XXXX：XXXX 请检查你的代码，然后再试一次。"
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr ""
+msgstr "有多个匹配结果，请用正确选项的数量。"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr ""
+msgstr "当前在{server_count}服务器上玩的顶级{top_count}游戏"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
-msgstr ""
+msgstr "当前在{guild_name}中玩的顶级{top_count}游戏"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr ""
+msgstr "警告：你有多个{game}的帐户，你可能要删除一个带有{prefix}的帐户，删除{game_key}，或者用{prefix}主帐户{game_key}"
 
 msgid ""
 "What is the location of your NMS home base?\n"
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
+"NMS主基地的位置是什么？\n"
+"若要查找其位置，请放置一个信号助推器，并记下它在你接近时显示的代码，格式为HUKYA：XXXX：XXXX：XXXX：XXXX：XXXX"
 
 msgid "What platform do you play {game} on? [{platforms}]"
 msgstr "你在什么平台上玩{game}?[{platforms}]"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr ""
+msgstr "你没有权限更改{guild}的语言。"
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr ""
+msgstr "你似乎没有在PC上玩《彩虹六号：围攻》。通过执行{prefix}来选择添加 PSN/XBL 平台上的《彩虹六号：围攻》"
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr ""
+msgstr "你的个人资料里没有账号，请添加一些！"
 
 msgid "You have already registered {account}"
-msgstr ""
+msgstr "你已经注册了{account}"
 
 msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr ""
+msgstr "你还没有设置一个配置文件，使用{prefix}配置文件来开始。"
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "你需要一个{game}帐号,请输入{prefix}和{game_key}"
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr ""
+msgstr "{channel}已注册{guild}来接收实时匹配更新。"
 
 msgid "{game} Leaderboard for {guild}"
-msgstr ""
+msgstr "{guild}的{game}排行榜"
 
 msgid "{game} account not found for {user}"
 msgstr "在{game}找不到帐号{user}"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr ""
+msgstr "在{platform}上找不到{user}的{game}帐户"
 
 msgid "{game} live games for {guild}"
-msgstr ""
+msgstr "{guild}的游戏实况{game}"
 
 msgid "{guild} unregistered from receiving live match updates."
-msgstr ""
+msgstr "{guild}未注册，无法接收实时比赛更新。"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key}已从可用语言中删除，这些语言是：[{languages}]"
 
 msgid "{language} added to list of available languages, which are: [{languages}]"
 msgstr "已加入{language}到可用的语言清单,清单：[{languages}]"
@@ -191,8 +204,8 @@ msgid "{language} not in list of available languages: {languages}"
 msgstr "{language}不是可用的语言: {languages}"
 
 msgid "{user}'s Home Base"
-msgstr ""
+msgstr "{user}的主页"
 
 #~ msgid "Please enter your account name for {game}:"
-#~ msgstr ""
+#~ msgstr "请输入你{game}的帐户名称："
 
