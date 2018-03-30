@@ -60,7 +60,7 @@ msgstr "Idiomas recarregados"
 msgid "Location"
 msgstr "Localização"
 
-msgid "Looking up {user} on {game} on {platform}...
+msgid "Looking up {user} on {game} on {platform}..."
 msgstr "Olhando para {user} no {game} na {platform}..."
 
 msgid "Looking up {user} on {game}..."
@@ -92,7 +92,7 @@ msgstr ""
 "Contas suportadas: {accounts}"
 
 msgid "Set language for {guild_name} to {language}"
-msgstr ""Definir idioma de {guild_name} para {language}""
+msgstr "Definir idioma de {guild_name} para {language}"
 
 msgid "Shows your stats from {game}"
 msgstr "Mostra suas estatísticas de {game}"
@@ -130,7 +130,7 @@ msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Essa não é uma plataforma válida, as opções são: {platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr ""O código de localização deve estar no formato HUKYA:XXXX:XXXX:XXXX:XXXX Verifique o seu código e tente novamente."
+msgstr "O código de localização deve estar no formato HUKYA:XXXX:XXXX:XXXX:XXXX Verifique o seu código e tente novamente."
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr "Existem várias combinações. Por favor, esclareça respondendo com o número correto da escolha?"
