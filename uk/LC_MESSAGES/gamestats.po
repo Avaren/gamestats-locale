@@ -1,0 +1,240 @@
+# Ukrainian translation for GameStats.
+# Copyright (C) 2018 GameStats
+# This file is distributed under the same license as the GameStats project.
+# Dmytro aka Tenevyk <tenevyk@gmail.com>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GameStats 0.3\n"
+"Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
+"POT-Creation-Date: 2018-04-01 14:09+0100\n"
+"PO-Revision-Date: 2018-07-26 19:10+0300\n"
+"Last-Translator: Dmytro aka Tenevyk <tenevyk@gmail.com>\n"
+"Language-Team: uk_UA <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+msgid "*Warning*: Different spelling of {user}"
+msgstr "*Увага*: ваш псевдонім {user} відрізняється від ігрового!"
+
+msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
+msgstr "Мапа всесвіту No Man's Sky <:nms:346638509114785808> для {guild}"
+
+msgid "A {platforms} account is required to obtain {game} stats"
+msgstr "Для отримання статистики у {game} необхідно мати обліковий запис на {platforms}"
+
+msgid "Available languages: [{languages}]"
+msgstr "Доступні мови: [{languages}]"
+
+msgid "Check your DMs"
+msgstr "Перевірте свої особисті повідомлення"
+
+msgid ""
+"Click the below icons to join/leave that group:\n"
+"\n"
+"{groups}"
+msgstr ""
+"Клацніть на іконки нижче, щоб приєднатися до групи чи покинути її:\n"
+"\n"
+"{groups}"
+
+msgid "Distance between {user1} and {user2}: {dist}ly"
+msgstr "Відстань між {user1} та {user2}: {dist}"
+
+msgid "Distance to center"
+msgstr "Відстань до центру"
+
+msgid "Files for {language_key} not found"
+msgstr "Файли для {language_key} не знайдено"
+
+msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
+msgstr "{mention}, я намагався надіслати вам ОП, але вони у вас вимкнені, тож, будь ласка, напишіть мені в ОП цю команду"
+
+msgid "Languages reloaded"
+msgstr "Мови перезавантажено"
+
+msgid "Location"
+msgstr "Розташування"
+
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr "Шукаю обліковий запис {game} для {user} на {platform}."
+
+msgid "Looking up {user} on {game} on {platform}..."
+msgstr "Шукаю {user} у {game} на {platform}..."
+
+msgid "Looking up {user} on {game}..."
+msgstr "Шукаю {user} у {game}..."
+
+msgid "No games currently being played."
+msgstr "Зараз не грають у жодну гру"
+
+msgid "No groups defined on {server}, use {command}"
+msgstr "Жодної групи не визначено на {server}, використайте {command}"
+
+msgid "No response from user."
+msgstr "Немає відповіді від користувача."
+
+msgid "No {game} players found on this server. Do {prefix}{game_key} first."
+msgstr "На цьому сервері немає гравців у {game}. Напишіть {prefix}{game_key} "
+
+msgid "No {game} stats found for {user} on {platform}"
+msgstr "Статистику з {game} для {user} на {platform} не знайдено"
+
+msgid "Please enter your {game} account name:"
+msgstr "Будь ласка, введіть ім’я облікового запису у {game}:"
+
+msgid "Portal code"
+msgstr "Код порталу"
+
+msgid ""
+"Profile created. To add accounts use {prefix}add <account>\n"
+"Supported accounts: {accounts}"
+msgstr ""
+"Профіль створено. Для додавання облікових записів використайте {prefix}add <обліковий запис>\n"
+"Облікові записи, що підтримуються: {accounts}"
+
+msgid "Request accepted"
+msgstr "Запит прийнято"
+
+msgid "Request accepted. Adding to {name}"
+msgstr "Запит прийнято. Додаю до {name}..."
+
+msgid "Request declined"
+msgstr "Запит відхилено"
+
+msgid "Requesting permission from {name}"
+msgstr "Запитую дозволи у {name}..."
+
+msgid "Set language for {guild_name} to {language}"
+msgstr "Встановити мову для {guild_name} на {language}"
+
+msgid "Shows your stats from {game}"
+msgstr "Показує вашу статистику у {game}"
+
+msgid "Sorry that account isn't on your profile."
+msgstr "Вибачте, цей обліковий запис відсутній у вашому профілі."
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
+msgstr ""
+"Вибачте, цей обліковий запис ще не підтримується.\n"
+"Облікові записи, що підтримуються: {accounts}"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+"Вибачте, обліковий запис {account} ще не підтримується.\n"
+"Облікові записи, що підтримуються: {accounts}"
+"\n"
+"Наприклад, напишіть наступне: **{prefix}add steam**"
+
+msgid "Supported accounts: {accounts}"
+msgstr "Облікові записи, що підтримуються: {accounts}"
+
+msgid ""
+"Supported games:\n"
+"{games}"
+msgstr ""
+"Ігри, що підтримуються:\n"
+"{games}"
+
+msgid "That user hasn't added an account for {game}"
+msgstr "Цей користувач не додав обліковий запис для {game}"
+
+msgid "That was not a valid choice. You have {tries} more tries."
+msgstr "Некоректна відповідь. Залишилося спроб: {tries}"
+
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr "Некоректна відповідь, оберіть «так» чи «ні», будь ласка."
+
+msgid "That's not a valid platform, the options are: {platforms}"
+msgstr "Некоректна платформа, наявний вибір: {platforms}"
+
+msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
+msgstr "Імена облікових записів {user} та {account} не співпадають й можуть не працювати, перевірте регістр"
+
+msgid "The available platforms are {platforms}"
+msgstr "Доступні платформи: {platforms}"
+
+msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr "Код розташування має бути у форматі HUKYA:XXXX:XXXX:XXXX:XXXX . Будь ласка, перевірте ваш код й спробуйте знову."
+
+msgid "The user {user} does not have a {game} profile on {platform}."
+msgstr "Користувач {user} не має профілю на {platform} у {game}"
+
+msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
+msgstr "Є кілька збігів. Будь ласка, уточніть, відповівши цифрою правильної відповіді."
+
+msgid "Top {top_count} games currently being played across {server_count} servers"
+msgstr "Наразі у ТОП {top_count} ігор грають на {server_count} серверах"
+
+msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr "Наразі у {guild_name} грають у ТОП {top_count} ігор"
+
+msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
+msgstr "Увага: ви маєте кілька облікових записів у {game}. При бажанні можна видалити один, написавши {prefix}delete {game_key} або визначити головний за допомогою {prefix}primary {game_key}"
+
+msgid ""
+"What is the location of your NMS home base?\n"
+"To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
+msgstr ""
+"Де знаходиться ваша база у No Man's Sky?\n"
+"Аби знайти її розташування, розмістіть Посилювач Сигналу й запишіть код, який він показує при наближенні до нього, у форматі HUKYA:XXXX:XXXX:XXXX:XXXX"
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "На які платформі ви граєте у {game}? [{platforms}]"
+
+msgid "You do not have permission to change the language on {guild}."
+msgstr "Ви не маєте дозволів змінювати мову у {guild}."
+
+msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
+msgstr "Схоже, ви не граєте у Siege на PC. Оберіть PSN/XBL командою {prefix}add siege"
+
+msgid "You don't have any accounts on your profile, add some!"
+msgstr "У вас немає облікових записів у профілі, додайте кілька!"
+
+msgid "You have already registered {account}"
+msgstr "Ви вже зареєстрували {account}"
+
+msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr "Вам потрібно додати обліковий запис з {game}, напишіть {prefix}add {game_key}"
+
+msgid "{channel} in {guild} registered to receive live match updates."
+msgstr "{channel} у {guild} зареєстровано для отримання оновлень матчів наживо"
+
+msgid "{game} Leaderboard for {guild}"
+msgstr "Дошка лідерів {game} для {guild}"
+
+msgid "{game} account not found for {user}"
+msgstr "Обліковий запис для {user} у {game} не знайдено"
+
+msgid "{game} account not found for {user} on {platform}"
+msgstr "Обліковий запис для {user} на {platform} у {game} не знайдено"
+
+msgid "{game} live games for {guild}"
+msgstr "Ігри наживо у {game} для {guild}"
+
+msgid "{guild} unregistered from receiving live match updates."
+msgstr "{guild} відписана від отримання оновлень матчів наживо"
+
+msgid "{language_key} added to list of available languages, which are: [{languages}]"
+msgstr "{language_key} додано до списку доступних мов. Весь список: [{languages}]"
+
+msgid "{language_key} removed from available languages, which are: [{languages}]"
+msgstr "{language_key} прибрано зі списку доступних мов. Весь список: [{languages}]"
+
+msgid "{language} not in list of available languages: {languages}"
+msgstr "{language} немає у списку доступних мов: {languages}"
+
+msgid "{name} declined"
+msgstr "{name} відхилено"
+
+msgid "{user}'s Home Base"
+msgstr "База користувача {user}"
+
