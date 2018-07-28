@@ -1,5 +1,4 @@
 # Translations template for GameStats.
-# Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
@@ -9,6 +8,7 @@ msgstr ""
 "Project-Id-Version: GameStats 0.3\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
 "POT-Creation-Date: 2018-04-01 14:09+0100\n"
+"POT-Creation-Date: 2018-07-28 11:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
+"Generated-By: Babel 2.6.0\n"
 
 msgid "*Warning*: Different spelling of {user}"
 msgstr ""
@@ -29,6 +30,9 @@ msgstr ""
 msgid "Available languages: [{languages}]"
 msgstr ""
 
+msgid "Character not found."
+msgstr ""
+
 msgid "Check your DMs"
 msgstr ""
 
@@ -36,6 +40,9 @@ msgid ""
 "Click the below icons to join/leave that group:\n"
 "\n"
 "{groups}"
+msgstr ""
+
+msgid "Could not find {user} on {server}, please try again"
 msgstr ""
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
@@ -63,6 +70,9 @@ msgid "Looking up {user} on {game} on {platform}..."
 msgstr ""
 
 msgid "Looking up {user} on {game}..."
+msgstr ""
+
+msgid "No characters found on that account. Please confirm account and try again."
 msgstr ""
 
 msgid "No games currently being played."
@@ -156,6 +166,9 @@ msgstr ""
 msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr ""
 
+msgid "The user {} does not appear valid, please check your profile is not private and try again."
+msgstr ""
+
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr ""
 
@@ -173,7 +186,23 @@ msgid ""
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
 
+msgid "What is your character's name?"
+msgstr ""
+
+msgid ""
+"What is your steam account? Please reply below.\n"
+"It can be in the form of:\n"
+"Vanity URL (<https://steamcommunity.com/id/name>)\n"
+"Vanity name (name from url above)\n"
+"Profile URL (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+msgstr ""
+
 msgid "What platform do you play {game} on? [{platforms}]"
+msgstr ""
+
+msgid "What server is your character on?"
 msgstr ""
 
 msgid "You do not have permission to change the language on {guild}."
@@ -189,6 +218,9 @@ msgid "You have already registered {account}"
 msgstr ""
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr ""
+
+msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
 msgstr ""
 
 msgid "{channel} in {guild} registered to receive live match updates."
@@ -222,5 +254,8 @@ msgid "{name} declined"
 msgstr ""
 
 msgid "{user}'s Home Base"
+msgstr ""
+
+msgid "{user}'s profile set to private. This setting can be modified in Overwatch under Options – Social."
 msgstr ""
 
