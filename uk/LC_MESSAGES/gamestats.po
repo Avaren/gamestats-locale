@@ -7,26 +7,31 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.3\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2018-04-01 14:09+0100\n"
+"POT-Creation-Date: 2018-07-28 11:35+0100\n"
 "PO-Revision-Date: 2018-07-26 19:10+0300\n"
 "Last-Translator: Dmytro aka Tenevyk <tenevyk@gmail.com>\n"
+"Language: uk\n"
 "Language-Team: uk_UA <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
+"Generated-By: Babel 2.6.0\n"
 
 msgid "*Warning*: Different spelling of {user}"
-msgstr "*Увага*: ваш псевдонім {user} відрізняється від ігрового!"
+msgstr "*Увага*: ваш псевдонім, {user}, відрізняється від ігрового!"
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
 msgstr "Мапа всесвіту No Man's Sky <:nms:346638509114785808> для {guild}"
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr "Для отримання статистики у {game} необхідно мати обліковий запис на {platforms}"
+msgstr "Для отримання статистики {game} необхідно мати обліковий запис на {platforms}"
 
 msgid "Available languages: [{languages}]"
 msgstr "Доступні мови: [{languages}]"
+
+msgid "Character not found."
+msgstr "Персонажа не знайдено."
 
 msgid "Check your DMs"
 msgstr "Перевірте свої особисті повідомлення"
@@ -40,6 +45,9 @@ msgstr ""
 "\n"
 "{groups}"
 
+msgid "Could not find {user} on {server}, please try again"
+msgstr "{user} відсутній на сервері {server}, будь ласка, спробуйте знову"
+
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr "Відстань між {user1} та {user2}: {dist}"
 
@@ -50,7 +58,7 @@ msgid "Files for {language_key} not found"
 msgstr "Файли для {language_key} не знайдено"
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr "{mention}, я намагався надіслати вам ОП, але вони у вас вимкнені, тож, будь ласка, напишіть мені в ОП цю команду"
+msgstr "{mention}, я намагався надіслати вам ОП, але вони у вас вимкнені. Будь ласка, напишіть мені цю команду в ОП."
 
 msgid "Languages reloaded"
 msgstr "Мови перезавантажено"
@@ -62,28 +70,31 @@ msgid "Looking up {game} account for {user} on {platform}."
 msgstr "Шукаю обліковий запис {game} для {user} на {platform}."
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr "Шукаю {user} у {game} на {platform}..."
+msgstr "Шукаю користувача {user} у {game} на {platform}..."
 
 msgid "Looking up {user} on {game}..."
-msgstr "Шукаю {user} у {game}..."
+msgstr "Шукаю користувача {user} у {game}..."
+
+msgid "No characters found on that account. Please confirm account and try again."
+msgstr "Жодного персонажа не знайдено. Будь ласка, перевірте обліковий запис й спробуйте знову."
 
 msgid "No games currently being played."
-msgstr "Зараз не грають у жодну гру"
+msgstr "Наразі не грають у жодну гру."
 
 msgid "No groups defined on {server}, use {command}"
-msgstr "Жодної групи не визначено на {server}, використайте {command}"
+msgstr "Груп на {server} ще немає, використайте {command}"
 
 msgid "No response from user."
 msgstr "Немає відповіді від користувача."
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr "На цьому сервері немає гравців у {game}. Напишіть {prefix}{game_key} "
+msgstr "На цьому сервері ніхто не грає у {game}. Напишіть {prefix}{game_key} "
 
 msgid "No {game} stats found for {user} on {platform}"
-msgstr "Статистику з {game} для {user} на {platform} не знайдено"
+msgstr "Статистику {game} для користувача {user} на {platform} не знайдено"
 
 msgid "Please enter your {game} account name:"
-msgstr "Будь ласка, введіть ім’я облікового запису у {game}:"
+msgstr "Будь ласка, введіть ім’я облікового запису {game}:"
 
 msgid "Portal code"
 msgstr "Код порталу"
@@ -108,7 +119,7 @@ msgid "Requesting permission from {name}"
 msgstr "Запитую дозволи у {name}..."
 
 msgid "Set language for {guild_name} to {language}"
-msgstr "Встановити мову для {guild_name} на {language}"
+msgstr "Тепер мова бота для {guild_name} - {language}"
 
 msgid "Shows your stats from {game}"
 msgstr "Показує вашу статистику у {game}"
@@ -145,7 +156,7 @@ msgstr ""
 "{games}"
 
 msgid "That user hasn't added an account for {game}"
-msgstr "Цей користувач не додав обліковий запис для {game}"
+msgstr "Цей користувач не додав обліковий запис {game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
 msgstr "Некоректна відповідь. Залишилося спроб: {tries}"
@@ -163,22 +174,25 @@ msgid "The available platforms are {platforms}"
 msgstr "Доступні платформи: {platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr "Код розташування має бути у форматі HUKYA:XXXX:XXXX:XXXX:XXXX . Будь ласка, перевірте ваш код й спробуйте знову."
+msgstr "Код розташування має бути у форматі HUKYA:XXXX:XXXX:XXXX:XXXX. Будь ласка, перевірте ваш код й спробуйте знову."
 
 msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr "Користувач {user} не має профілю на {platform} у {game}"
 
+msgid "The user {user} does not appear valid, please check your profile is not private and try again."
+msgstr "Не вдалося додати користувача {user}. Будь ласка, впевніться, що ваш профіль не приватний й спробуйте знову."
+
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr "Є кілька збігів. Будь ласка, уточніть, відповівши цифрою правильної відповіді."
+msgstr "Є кілька збігів. Будь ласка, уточніть вибір, відповівши цифрою правильного варіанту."
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr "Наразі у ТОП {top_count} ігор грають на {server_count} серверах"
+msgstr "ТОП {top_count} ігор, у які зараз грають на {server_count} серверах"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
-msgstr "Наразі у {guild_name} грають у ТОП {top_count} ігор"
+msgstr "ТОП {top_count} ігор, у які зараз грають на {guild_name}"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr "Увага: ви маєте кілька облікових записів у {game}. При бажанні можна видалити один, написавши {prefix}delete {game_key} або визначити головний за допомогою {prefix}primary {game_key}"
+msgstr "Увага: ви маєте кілька облікових записів {game}. При бажанні можна видалити один, написавши {prefix}delete {game_key} або визначити головний за допомогою {prefix}primary {game_key}"
 
 msgid ""
 "What is the location of your NMS home base?\n"
@@ -188,25 +202,54 @@ msgstr ""
 "Аби знайти її розташування, розмістіть Посилювач Сигналу й запишіть код, який він показує при наближенні до нього, у форматі HUKYA:XXXX:XXXX:XXXX:XXXX"
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr "На які платформі ви граєте у {game}? [{platforms}]"
+msgstr "Яку платформу використовуєте для гри у {game}? [{platforms}]"
+
+msgid "What is your character's name?"
+msgstr "Яке ім’я у вашого персонажа?"
+
+msgid ""
+"What is your steam account? Please reply below.\n"
+"It can be in the form of:\n"
+"Vanity URL (<https://steamcommunity.com/id/name>)\n"
+"Vanity name (name from url above)\n"
+"Profile URL (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+msgstr ""
+"Вкажіть, будь ласка, ваш обліковий запис Steam нижче.\n"
+"Ви можете вказати у різні способи, як-от:\n"
+"Особисте посилання (<https://steamcommunity.com/id/псевдонім>)\n"
+"Особистий псевдонім (з посилання вгорі)\n"
+"Посилання на профіль (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"ID профілю Steam (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "Яку платформу ви використовуєте, граючи у {game}? [{platforms}]"
+
+msgid "What server is your character on?"
+msgstr "На якому сервері знаходиться ваш персонаж?"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr "Ви не маєте дозволів змінювати мову у {guild}."
+msgstr "Ви не маєте дозволу змінювати мову у {guild}."
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
 msgstr "Схоже, ви не граєте у Siege на PC. Оберіть PSN/XBL командою {prefix}add siege"
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr "У вас немає облікових записів у профілі, додайте кілька!"
+msgstr "У вас немає облікових записів у профілі, додайте якісь!"
 
 msgid "You have already registered {account}"
 msgstr "Ви вже зареєстрували {account}"
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr "Вам потрібно додати обліковий запис з {game}, напишіть {prefix}add {game_key}"
+msgstr "Вам потрібно додати обліковий запис {game}, напишіть {prefix}add {game_key}"
+
+msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
+msgstr "Ваш профіль приватний. Це налаштування може бути змінене в Overwatch через Options - Social."
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr "{channel} у {guild} зареєстровано для отримання оновлень матчів наживо"
+msgstr "Тепер {guild} буде наживо отримувати у {channel} оновлення матчів."
 
 msgid "{game} Leaderboard for {guild}"
 msgstr "Дошка лідерів {game} для {guild}"
@@ -233,8 +276,10 @@ msgid "{language} not in list of available languages: {languages}"
 msgstr "{language} немає у списку доступних мов: {languages}"
 
 msgid "{name} declined"
-msgstr "{name} відхилено"
+msgstr "Користувач {name} відмовився"
 
 msgid "{user}'s Home Base"
 msgstr "База користувача {user}"
 
+msgid "{user}'s profile set to private. This setting can be modified in Overwatch under Options – Social."
+msgstr "Профіль користувача {user} приватний. Це налаштування може бути змінене в Overwatch через Options - Social."
