@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.2\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2018-04-01 14:09+0100\n"
+"POT-Creation-Date: 2018-07-31 17:11+0100\n"
 "PO-Revision-Date: 2018-01-17 21:15+0000\n"
 "Last-Translator: Desgrate#9087\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
+"Generated-By: Babel 2.6.0\n"
 
 msgid "*Warning*: Different spelling of {user}"
 msgstr ""
@@ -27,8 +27,23 @@ msgstr "<:nms: 346638509114784808>No Man's Sky Mapa Del Universo para {gremio}"
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr "Un cuenta de {plataforms} es requerida para obtener las estadisticas de {game}"
 
+msgid "Added group category **{category_name}** to {role_count} roles"
+msgstr ""
+
+msgid "Added group category **{name}**: {description}"
+msgstr ""
+
+msgid "Added group {role}"
+msgstr ""
+
+msgid "Added {account}"
+msgstr ""
+
 msgid "Available languages: [{languages}]"
 msgstr "Lenguajes disponibles: [{languages}]"
+
+msgid "Character not found."
+msgstr ""
 
 msgid "Check your DMs"
 msgstr "Revisa tus mensajes directos"
@@ -41,6 +56,18 @@ msgstr ""
 "Dale click a los iconos de abajo para unirte/salirte del grupo:n\n"
 "{groups}"
 
+msgid "Compiling stats of {number} players..."
+msgstr ""
+
+msgid "Completed reset of {}, {}"
+msgstr ""
+
+msgid "Could not find {user} on {server}, please try again"
+msgstr ""
+
+msgid "Default FC for this server registered as {name} on {server}"
+msgstr ""
+
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr "Distancia entre {user1} y {user2}: {dist}ly"
 
@@ -50,8 +77,20 @@ msgstr "Distancia hacia el centro"
 msgid "Files for {language_key} not found"
 msgstr "archivos para {language_key} no encontrados"
 
+msgid ""
+"For this stat please reply with a list of number -> role - one on each line.\n"
+"For example:\n"
+"\n"
+"1000 @Best Rank\n"
+"500 Nearly Best\n"
+"100 Newbie"
+msgstr ""
+
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
 msgstr "Trate de mandarte un mensaje directo {mention} pero tus mensajes directos estan desabilitados, mandame tu {mention} el comando por mensaje directo."
+
+msgid "I'm missing permissions to grant the role {role} to {name}. Please check that I have the Manage Roles permission and {role} is below me in the role list."
+msgstr ""
 
 msgid "Languages reloaded"
 msgstr "Lenguajes recargados"
@@ -68,14 +107,47 @@ msgstr "Buscando a {user} en {game} en {platform}..."
 msgid "Looking up {user} on {game}..."
 msgstr "Buscando a {user} en {game}..."
 
+msgid "No ARK server registered for this server. Register with {prefix}ark register <ip> <port>"
+msgstr ""
+
+msgid "No Battlerite profile found for {profile}."
+msgstr ""
+
+msgid "No CSGO players found on this server. Do {prefix}steam first."
+msgstr ""
+
+msgid "No PUBG players found on this server. Do {prefix}pubg first."
+msgstr ""
+
+msgid "No Siege players found on this server. Do {prefix}siege first."
+msgstr ""
+
+msgid "No characters found on that account. Please confirm account and try again."
+msgstr ""
+
 msgid "No games currently being played."
 msgstr "No hay juegos que estan siendo actualmente jugados."
 
 msgid "No groups defined on {server}, use {command}"
 msgstr "No hay grupos definidos en {server}, usa {command}"
 
+msgid "No matches found. Submit some via {prefix}csgo match <share code>"
+msgstr ""
+
+msgid "No operator information found for {name} on {platform} {region}"
+msgstr ""
+
+msgid "No ranked CSGO players found on this server. Do {prefix}steam first."
+msgstr ""
+
+msgid "No recent matches found for {account}"
+msgstr ""
+
 msgid "No response from user."
 msgstr "No hay respuesta del usuario"
+
+msgid "No season information found for {name} on {platform} {region}"
+msgstr ""
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
 msgstr "Ningun jugador de {game} encontrado en este servidor. Hagan {prefix}{game_key} primero."
@@ -83,11 +155,29 @@ msgstr "Ningun jugador de {game} encontrado en este servidor. Hagan {prefix}{gam
 msgid "No {game} stats found for {user} on {platform}"
 msgstr "No hay estadisticas de {game} encontradas para {user} en {psn}"
 
+msgid "Player {account} not found"
+msgstr ""
+
+msgid "Player {user} (aka {nickname}) has no stats for season {season}."
+msgstr ""
+
 msgid "Please enter your {game} account name:"
 msgstr "Porfavor ingresa tu nombre de usuario de {game}"
 
 msgid "Portal code"
 msgstr "Codigo portal"
+
+msgid "Prestige role reset cancelled."
+msgstr ""
+
+msgid "Prestige roles not setup for {guild}, game: {game}, stat: {stat}"
+msgstr ""
+
+msgid "Prestige setup cancelled."
+msgstr ""
+
+msgid "Prestige setup complete."
+msgstr ""
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
@@ -95,6 +185,9 @@ msgid ""
 msgstr ""
 "Perfil creado. Para agregar cuentas usar {prefix}add <account>\n"
 "Cuentas soportadas: {accounts}"
+
+msgid "Removed prestige for {}, {}"
+msgstr ""
 
 msgid "Request accepted"
 msgstr ""
@@ -108,11 +201,26 @@ msgstr ""
 msgid "Requesting permission from {name}"
 msgstr ""
 
+msgid "Resetting Prestige roles..."
+msgstr ""
+
+msgid "Searching for FC {} on {}..."
+msgstr ""
+
+msgid ""
+"Select a stat to base rank on by replying with one from the below list:\n"
+"\n"
+"{}"
+msgstr ""
+
 msgid "Set language for {guild_name} to {language}"
 msgstr "Establecer lenguaje para {guild_name} a {language}"
 
 msgid "Shows your stats from {game}"
 msgstr "Muestra tus estadisticas de {game}"
+
+msgid "Sorry I can't find {name} on {server}, are you se that's correct?"
+msgstr ""
 
 msgid "Sorry that account isn't on your profile."
 msgstr "Perdone pero esa cuenta no esta en su perfil."
@@ -142,6 +250,9 @@ msgstr ""
 "Juegos soportados:\n"
 "{games}"
 
+msgid "That group category is already defined for this server."
+msgstr ""
+
 msgid "That user hasn't added an account for {game}"
 msgstr "Ese usuario no ha añadido un cuenta para {game} aun"
 
@@ -163,17 +274,44 @@ msgstr ""
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
 msgstr "El codigo de la localizacion debe ser en el formato HUKYA:XXXX:XXXX:XXXX:XXXX Porfavor revisa tu codigo y intenta otra vez."
 
+msgid "The roles format was incorrect, please try again. (Or cancel with x)"
+msgstr ""
+
+msgid "The user {user} does not appear valid, please check your profile is not private and try again."
+msgstr ""
+
 msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr ""
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr "Hay multiples juegos en curso. Porfavor clarifica al responder con el numero de eleccion correcta"
 
+msgid ""
+"There was an issue processing that command, please try again.\n"
+"If the issue continues please seek help in the support server on the help menu."
+msgstr ""
+
+msgid "There was an issue retrieving that players stats from the PUBG API. Please try again in a few minutes."
+msgstr ""
+
+msgid "There was an issue retrieving your profile from Uplay. Please try again in a few minutes."
+msgstr ""
+
+msgid ""
+"To set up rank roles do {prefix}prestige <game>\n"
+"\n"
+"Supported games:\n"
+"{games}"
+msgstr ""
+
 msgid "Top {top_count} games currently being played across {server_count} servers"
 msgstr "Top {top_count} juegos estan actualmente siendo jugados atravez de {server_count} servers"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
 msgstr "Top {top_count} juegos actualmente siendo juguados en {guild_name}"
+
+msgid "WARNING: This will attempt to remove Discord roles related to this Prestige role, are you sure you want to continue?"
+msgstr ""
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
 msgstr "Cuidado: Tienes multiples cuentas de {game} deberias borrar una con {prefix} delete {game_key} o cambia tu cuenta primaria con {prefix}primary {game_key}"
@@ -183,8 +321,24 @@ msgid ""
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr "Cual es la localizacion de tu NMS base?\n"
 
+msgid "What is your character's name?"
+msgstr ""
+
+msgid ""
+"What is your steam account? Please reply below.\n"
+"It can be in the form of:\n"
+"Vanity URL (<https://steamcommunity.com/id/name>)\n"
+"Vanity name (name from url above)\n"
+"Profile URL (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+msgstr ""
+
 msgid "What platform do you play {game} on? [{platforms}]"
 msgstr "En que plataforma juegas {game} en? [{platforms}] "
+
+msgid "What server is your character on?"
+msgstr ""
 
 msgid "You do not have permission to change the language on {guild}."
 msgstr "No tienes permiso para cambiar el lenguaje en {guild}"
@@ -201,6 +355,21 @@ msgstr "Ya registraste una cuenta {account}"
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Necesitas añadir una cuenta para {game}, haz {prefix}añade {game_key}"
 
+msgid "You need to add some games, DM me with {prefix}add <account>. See {prefix}accounts for supported accounts."
+msgstr ""
+
+msgid "You took too long to respond, Prestige setup cancelled."
+msgstr ""
+
+msgid "You took too long to respond, prestige setup cancelled."
+msgstr ""
+
+msgid "Your character is not part of any FC."
+msgstr ""
+
+msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
+msgstr ""
+
 msgid "{channel} in {guild} registered to receive live match updates."
 msgstr "{channel} en {guild} registrado para recivir partidas en tiempo real."
 
@@ -212,6 +381,9 @@ msgstr "Cuenta de {game} no encontrada para {user}"
 
 msgid "{game} account not found for {user} on {platform}"
 msgstr "Cuenta de {game} no encontrada para {user} en {platform}"
+
+msgid "{game} is not currently supported, check back soon."
+msgstr ""
 
 msgid "{game} live games for {guild}"
 msgstr "{game} juegos en linea para {guild}"
@@ -231,8 +403,17 @@ msgstr "{language} no en la lista de lenguajes disponibles: {languages}"
 msgid "{name} declined"
 msgstr ""
 
+msgid "{name} does not appear to have any stats available."
+msgstr ""
+
+msgid "{user} does not does not appear to be a valid Z8Games user."
+msgstr ""
+
 msgid "{user}'s Home Base"
 msgstr "{user}'s base casa"
+
+msgid "{user}'s profile set to private. This setting can be modified in Overwatch under Options – Social."
+msgstr ""
 
 #~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
 #~ msgstr "**ERROR**: El bot requiere la abilidad de poder insertar, tengan en cuenta que el bot tenga el permiso de 'insertar enlances' activado."

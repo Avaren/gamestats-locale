@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.3\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2018-07-28 11:35+0100\n"
+"POT-Creation-Date: 2018-07-31 17:11+0100\n"
 "PO-Revision-Date: 2018-07-26 19:10+0300\n"
 "Last-Translator: Dmytro aka Tenevyk <tenevyk@gmail.com>\n"
 "Language: uk\n"
@@ -27,6 +27,18 @@ msgstr "Мапа всесвіту No Man's Sky <:nms:346638509114785808> для 
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr "Для отримання статистики {game} необхідно мати обліковий запис на {platforms}"
 
+msgid "Added group category **{category_name}** to {role_count} roles"
+msgstr ""
+
+msgid "Added group category **{name}**: {description}"
+msgstr ""
+
+msgid "Added group {role}"
+msgstr ""
+
+msgid "Added {account}"
+msgstr ""
+
 msgid "Available languages: [{languages}]"
 msgstr "Доступні мови: [{languages}]"
 
@@ -45,8 +57,17 @@ msgstr ""
 "\n"
 "{groups}"
 
+msgid "Compiling stats of {number} players..."
+msgstr ""
+
+msgid "Completed reset of {}, {}"
+msgstr ""
+
 msgid "Could not find {user} on {server}, please try again"
 msgstr "{user} відсутній на сервері {server}, будь ласка, спробуйте знову"
+
+msgid "Default FC for this server registered as {name} on {server}"
+msgstr ""
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr "Відстань між {user1} та {user2}: {dist}"
@@ -57,8 +78,20 @@ msgstr "Відстань до центру"
 msgid "Files for {language_key} not found"
 msgstr "Файли для {language_key} не знайдено"
 
+msgid ""
+"For this stat please reply with a list of number -> role - one on each line.\n"
+"For example:\n"
+"\n"
+"1000 @Best Rank\n"
+"500 Nearly Best\n"
+"100 Newbie"
+msgstr ""
+
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
 msgstr "{mention}, я намагався надіслати вам ОП, але вони у вас вимкнені. Будь ласка, напишіть мені цю команду в ОП."
+
+msgid "I'm missing permissions to grant the role {role} to {name}. Please check that I have the Manage Roles permission and {role} is below me in the role list."
+msgstr ""
 
 msgid "Languages reloaded"
 msgstr "Мови перезавантажено"
@@ -75,6 +108,21 @@ msgstr "Шукаю користувача {user} у {game} на {platform}..."
 msgid "Looking up {user} on {game}..."
 msgstr "Шукаю користувача {user} у {game}..."
 
+msgid "No ARK server registered for this server. Register with {prefix}ark register <ip> <port>"
+msgstr ""
+
+msgid "No Battlerite profile found for {profile}."
+msgstr ""
+
+msgid "No CSGO players found on this server. Do {prefix}steam first."
+msgstr ""
+
+msgid "No PUBG players found on this server. Do {prefix}pubg first."
+msgstr ""
+
+msgid "No Siege players found on this server. Do {prefix}siege first."
+msgstr ""
+
 msgid "No characters found on that account. Please confirm account and try again."
 msgstr "Жодного персонажа не знайдено. Будь ласка, перевірте обліковий запис й спробуйте знову."
 
@@ -84,8 +132,23 @@ msgstr "Наразі не грають у жодну гру."
 msgid "No groups defined on {server}, use {command}"
 msgstr "Груп на {server} ще немає, використайте {command}"
 
+msgid "No matches found. Submit some via {prefix}csgo match <share code>"
+msgstr ""
+
+msgid "No operator information found for {name} on {platform} {region}"
+msgstr ""
+
+msgid "No ranked CSGO players found on this server. Do {prefix}steam first."
+msgstr ""
+
+msgid "No recent matches found for {account}"
+msgstr ""
+
 msgid "No response from user."
 msgstr "Немає відповіді від користувача."
+
+msgid "No season information found for {name} on {platform} {region}"
+msgstr ""
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
 msgstr "На цьому сервері ніхто не грає у {game}. Напишіть {prefix}{game_key} "
@@ -93,11 +156,29 @@ msgstr "На цьому сервері ніхто не грає у {game}. На�
 msgid "No {game} stats found for {user} on {platform}"
 msgstr "Статистику {game} для користувача {user} на {platform} не знайдено"
 
+msgid "Player {account} not found"
+msgstr ""
+
+msgid "Player {user} (aka {nickname}) has no stats for season {season}."
+msgstr ""
+
 msgid "Please enter your {game} account name:"
 msgstr "Будь ласка, введіть ім’я облікового запису {game}:"
 
 msgid "Portal code"
 msgstr "Код порталу"
+
+msgid "Prestige role reset cancelled."
+msgstr ""
+
+msgid "Prestige roles not setup for {guild}, game: {game}, stat: {stat}"
+msgstr ""
+
+msgid "Prestige setup cancelled."
+msgstr ""
+
+msgid "Prestige setup complete."
+msgstr ""
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
@@ -105,6 +186,9 @@ msgid ""
 msgstr ""
 "Профіль створено. Для додавання облікових записів використайте {prefix}add <обліковий запис>\n"
 "Облікові записи, що підтримуються: {accounts}"
+
+msgid "Removed prestige for {}, {}"
+msgstr ""
 
 msgid "Request accepted"
 msgstr "Запит прийнято"
@@ -118,11 +202,26 @@ msgstr "Запит відхилено"
 msgid "Requesting permission from {name}"
 msgstr "Запитую дозволи у {name}..."
 
+msgid "Resetting Prestige roles..."
+msgstr ""
+
+msgid "Searching for FC {} on {}..."
+msgstr ""
+
+msgid ""
+"Select a stat to base rank on by replying with one from the below list:\n"
+"\n"
+"{}"
+msgstr ""
+
 msgid "Set language for {guild_name} to {language}"
 msgstr "Тепер мова бота для {guild_name} - {language}"
 
 msgid "Shows your stats from {game}"
 msgstr "Показує вашу статистику у {game}"
+
+msgid "Sorry I can't find {name} on {server}, are you se that's correct?"
+msgstr ""
 
 msgid "Sorry that account isn't on your profile."
 msgstr "Вибачте, цей обліковий запис відсутній у вашому профілі."
@@ -141,8 +240,7 @@ msgid ""
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
 "Вибачте, обліковий запис {account} ще не підтримується.\n"
-"Облікові записи, що підтримуються: {accounts}"
-"\n"
+"Облікові записи, що підтримуються: {accounts}\n"
 "Наприклад, напишіть наступне: **{prefix}add steam**"
 
 msgid "Supported accounts: {accounts}"
@@ -154,6 +252,9 @@ msgid ""
 msgstr ""
 "Ігри, що підтримуються:\n"
 "{games}"
+
+msgid "That group category is already defined for this server."
+msgstr ""
 
 msgid "That user hasn't added an account for {game}"
 msgstr "Цей користувач не додав обліковий запис {game}"
@@ -176,20 +277,44 @@ msgstr "Доступні платформи: {platforms}"
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
 msgstr "Код розташування має бути у форматі HUKYA:XXXX:XXXX:XXXX:XXXX. Будь ласка, перевірте ваш код й спробуйте знову."
 
-msgid "The user {user} does not have a {game} profile on {platform}."
-msgstr "Користувач {user} не має профілю на {platform} у {game}"
+msgid "The roles format was incorrect, please try again. (Or cancel with x)"
+msgstr ""
 
 msgid "The user {user} does not appear valid, please check your profile is not private and try again."
 msgstr "Не вдалося додати користувача {user}. Будь ласка, впевніться, що ваш профіль не приватний й спробуйте знову."
 
+msgid "The user {user} does not have a {game} profile on {platform}."
+msgstr "Користувач {user} не має профілю на {platform} у {game}"
+
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
 msgstr "Є кілька збігів. Будь ласка, уточніть вибір, відповівши цифрою правильного варіанту."
+
+msgid ""
+"There was an issue processing that command, please try again.\n"
+"If the issue continues please seek help in the support server on the help menu."
+msgstr ""
+
+msgid "There was an issue retrieving that players stats from the PUBG API. Please try again in a few minutes."
+msgstr ""
+
+msgid "There was an issue retrieving your profile from Uplay. Please try again in a few minutes."
+msgstr ""
+
+msgid ""
+"To set up rank roles do {prefix}prestige <game>\n"
+"\n"
+"Supported games:\n"
+"{games}"
+msgstr ""
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
 msgstr "ТОП {top_count} ігор, у які зараз грають на {server_count} серверах"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
 msgstr "ТОП {top_count} ігор, у які зараз грають на {guild_name}"
+
+msgid "WARNING: This will attempt to remove Discord roles related to this Prestige role, are you sure you want to continue?"
+msgstr ""
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
 msgstr "Увага: ви маєте кілька облікових записів {game}. При бажанні можна видалити один, написавши {prefix}delete {game_key} або визначити головний за допомогою {prefix}primary {game_key}"
@@ -200,9 +325,6 @@ msgid ""
 msgstr ""
 "Де знаходиться ваша база у No Man's Sky?\n"
 "Аби знайти її розташування, розмістіть Посилювач Сигналу й запишіть код, який він показує при наближенні до нього, у форматі HUKYA:XXXX:XXXX:XXXX:XXXX"
-
-msgid "What platform do you play {game} on? [{platforms}]"
-msgstr "Яку платформу використовуєте для гри у {game}? [{platforms}]"
 
 msgid "What is your character's name?"
 msgstr "Яке ім’я у вашого персонажа?"
@@ -225,7 +347,7 @@ msgstr ""
 "Steam ID (STEAM_0:0:0123456)"
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr "Яку платформу ви використовуєте, граючи у {game}? [{platforms}]"
+msgstr "Яку платформу використовуєте для гри у {game}? [{platforms}]"
 
 msgid "What server is your character on?"
 msgstr "На якому сервері знаходиться ваш персонаж?"
@@ -245,6 +367,18 @@ msgstr "Ви вже зареєстрували {account}"
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Вам потрібно додати обліковий запис {game}, напишіть {prefix}add {game_key}"
 
+msgid "You need to add some games, DM me with {prefix}add <account>. See {prefix}accounts for supported accounts."
+msgstr ""
+
+msgid "You took too long to respond, Prestige setup cancelled."
+msgstr ""
+
+msgid "You took too long to respond, prestige setup cancelled."
+msgstr ""
+
+msgid "Your character is not part of any FC."
+msgstr ""
+
 msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
 msgstr "Ваш профіль приватний. Це налаштування може бути змінене в Overwatch через Options - Social."
 
@@ -259,6 +393,9 @@ msgstr "Обліковий запис для {user} у {game} не знайде�
 
 msgid "{game} account not found for {user} on {platform}"
 msgstr "Обліковий запис для {user} на {platform} у {game} не знайдено"
+
+msgid "{game} is not currently supported, check back soon."
+msgstr ""
 
 msgid "{game} live games for {guild}"
 msgstr "Ігри наживо у {game} для {guild}"
@@ -278,8 +415,15 @@ msgstr "{language} немає у списку доступних мов: {langua
 msgid "{name} declined"
 msgstr "Користувач {name} відмовився"
 
+msgid "{name} does not appear to have any stats available."
+msgstr ""
+
+msgid "{user} does not does not appear to be a valid Z8Games user."
+msgstr ""
+
 msgid "{user}'s Home Base"
 msgstr "База користувача {user}"
 
 msgid "{user}'s profile set to private. This setting can be modified in Overwatch under Options – Social."
 msgstr "Профіль користувача {user} приватний. Це налаштування може бути змінене в Overwatch через Options - Social."
+
