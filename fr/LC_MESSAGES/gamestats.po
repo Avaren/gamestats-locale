@@ -57,7 +57,7 @@ msgstr ""
 msgid "Compiling stats of {number} players..."
 msgstr ""
 
-msgid "Completed reset of {}, {}"
+msgid "Completed reset of {game}, {stat_name}"
 msgstr ""
 
 msgid "Could not find {user} on {server}, please try again"
@@ -184,7 +184,7 @@ msgstr ""
 "Profil crée. Pour ajouter des comptes utilise {prefix}add <account>\n"
 "Comptes supportés: {accounts}"
 
-msgid "Removed prestige for {}, {}"
+msgid "Removed prestige for {game}, {stat_name}"
 msgstr ""
 
 msgid "Request accepted"
@@ -202,13 +202,13 @@ msgstr ""
 msgid "Resetting Prestige roles..."
 msgstr ""
 
-msgid "Searching for FC {} on {}..."
+msgid "Searching for FC {name} on {server}..."
 msgstr ""
 
 msgid ""
 "Select a stat to base rank on by replying with one from the below list:\n"
 "\n"
-"{}"
+"{games}"
 msgstr ""
 
 msgid "Set language for {guild_name} to {language}"
