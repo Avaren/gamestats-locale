@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2018-07-31 17:11+0100\n"
+"POT-Creation-Date: 2018-08-06 22:44+0100\n"
 "PO-Revision-Date: 2017-08-12 12:55+0100\n"
 "Last-Translator: Vincio#3562\n"
 "Language: de\n"
@@ -39,8 +39,26 @@ msgstr ""
 msgid "Added {account}"
 msgstr ""
 
+msgid "Adding ARK chat"
+msgstr ""
+
+msgid "Adding you to group {role}"
+msgstr ""
+
+msgid "Adding {account} for {name}"
+msgstr ""
+
+msgid "Are you sure you want to cancel the event {event_name}? (yes or no)"
+msgstr ""
+
+msgid "Are you sure you want to delete your profile?"
+msgstr ""
+
 msgid "Available languages: [{languages}]"
 msgstr "Verfügbare Sprachen: [{languages}]"
+
+msgid "Card {card_name} not found."
+msgstr ""
 
 msgid "Character not found."
 msgstr ""
@@ -66,10 +84,37 @@ msgstr ""
 msgid "Default FC for this server registered as {name} on {server}"
 msgstr ""
 
+msgid "Describe your event in more detail: (Optional, enter x to skip)"
+msgstr ""
+
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr ""
 
 msgid "Distance to center"
+msgstr ""
+
+msgid "Event can't end before it starts, try again."
+msgstr ""
+
+msgid "Event can't start before now, try again."
+msgstr ""
+
+msgid "Event creation cancelled."
+msgstr ""
+
+msgid "Event creation continuing via DM."
+msgstr ""
+
+msgid "Event name limited to 64 characters, try again."
+msgstr ""
+
+msgid "Event not cancelled."
+msgstr ""
+
+msgid "Event not found on this server."
+msgstr ""
+
+msgid "Event {event_name} cancelled"
 msgstr ""
 
 msgid "Files for {language_key} not found"
@@ -82,6 +127,17 @@ msgid ""
 "1000 @Best Rank\n"
 "500 Nearly Best\n"
 "100 Newbie"
+msgstr ""
+
+msgid ""
+"For this stat please reply with a list of roles - one on each line.\n"
+"You need one role for each of these: {roles}"
+msgstr ""
+
+msgid "Hero {hero_name} not found."
+msgstr ""
+
+msgid "I attempted to DM you further questions to create your event but failed. Try sending me a DM first."
 msgstr ""
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
@@ -105,13 +161,34 @@ msgstr "Suche {user} in {game} in {platform}..."
 msgid "Looking up {user} on {game}..."
 msgstr "Suche {user} in {game}..."
 
+msgid "Name your event: (Enter x to cancel)"
+msgstr ""
+
+msgid "No ARK server registered for this server"
+msgstr ""
+
 msgid "No ARK server registered for this server. Register with {prefix}ark register <ip> <port>"
 msgstr ""
 
 msgid "No Battlerite profile found for {profile}."
 msgstr ""
 
-msgid "No CSGO players found on this server. Do {prefix}steam first."
+msgid "No CSGO players found on this server. Do {prefix}csgo first."
+msgstr ""
+
+msgid "No Crucible history found for {name}"
+msgstr ""
+
+msgid "No Destiny 2 characters found."
+msgstr ""
+
+msgid "No Destiny 2 clan found."
+msgstr ""
+
+msgid "No Destiny 2 players on {platform} found."
+msgstr ""
+
+msgid "No Destiny 2 profile found on {platform}."
 msgstr ""
 
 msgid "No PUBG players found on this server. Do {prefix}pubg first."
@@ -123,22 +200,58 @@ msgstr ""
 msgid "No characters found on that account. Please confirm account and try again."
 msgstr ""
 
+msgid "No completed raids found for {name}"
+msgstr ""
+
+msgid "No data for {name}"
+msgstr ""
+
+msgid "No events for this server."
+msgstr ""
+
 msgid "No games currently being played."
+msgstr ""
+
+msgid "No group categories defined for this server."
+msgstr ""
+
+msgid "No group found for {role}"
+msgstr ""
+
+msgid "No groups defined for this server."
 msgstr ""
 
 msgid "No groups defined on {server}, use {command}"
 msgstr ""
 
+msgid "No guilds registered for live Paragon matches"
+msgstr ""
+
 msgid "No matches found. Submit some via {prefix}csgo match <share code>"
+msgstr ""
+
+msgid "No matches recorded."
 msgstr ""
 
 msgid "No operator information found for {name} on {platform} {region}"
 msgstr ""
 
-msgid "No ranked CSGO players found on this server. Do {prefix}steam first."
+msgid "No raid history found for {name}"
+msgstr ""
+
+msgid "No ranked CSGO players found on this server. Do {prefix}csgo first."
+msgstr ""
+
+msgid "No rare trophies found for {account}"
+msgstr ""
+
+msgid "No recent matches could be found."
 msgstr ""
 
 msgid "No recent matches found for {account}"
+msgstr ""
+
+msgid "No recent trophies found for {account}"
 msgstr ""
 
 msgid "No response from user."
@@ -147,16 +260,34 @@ msgstr "Keine Antwort vom Benutzer."
 msgid "No season information found for {name} on {platform} {region}"
 msgstr ""
 
+msgid "No trophy cabinet found for {account}"
+msgstr ""
+
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
 msgstr ""
 
 msgid "No {game} stats found for {user} on {platform}"
 msgstr ""
 
+msgid "Not tagging any groups in this event."
+msgstr ""
+
+msgid "Only the event owner ({owner_name}) can cancel this event."
+msgstr ""
+
+msgid "Platform invalid, valid platforms: {platforms}"
+msgstr ""
+
 msgid "Player {account} not found"
 msgstr ""
 
 msgid "Player {user} (aka {nickname}) has no stats for season {season}."
+msgstr ""
+
+msgid "Please answer the following questions:"
+msgstr ""
+
+msgid "Please enter your account name for {class_name}:"
 msgstr ""
 
 msgid "Please enter your {game} account name:"
@@ -177,9 +308,24 @@ msgstr ""
 msgid "Prestige setup complete."
 msgstr ""
 
+msgid "Profile NOT removed."
+msgstr ""
+
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
+msgstr ""
+
+msgid "Profile not found."
+msgstr ""
+
+msgid "Profile successfully deleted."
+msgstr ""
+
+msgid "Registering Ark server {ip}:{port} for this server"
+msgstr ""
+
+msgid "Removed group {role}"
 msgstr ""
 
 msgid "Removed prestige for {game}, {stat_name}"
@@ -215,7 +361,7 @@ msgstr "Setze Sprache für {guild_name} auf {language}"
 msgid "Shows your stats from {game}"
 msgstr ""
 
-msgid "Sorry I can't find {name} on {server}, are you se that's correct?"
+msgid "Sorry I can't find {name} on {server}, are you sure that's correct?"
 msgstr ""
 
 msgid "Sorry that account isn't on your profile."
@@ -233,6 +379,16 @@ msgid ""
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
 
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {supported_accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+
+msgid "Sorry, I didn't get that. Please try again"
+msgstr ""
+
 msgid "Supported accounts: {accounts}"
 msgstr ""
 
@@ -241,7 +397,37 @@ msgid ""
 "{games}"
 msgstr ""
 
+msgid "Tagging the following groups in your event: {groups}"
+msgstr ""
+
+msgid "That emoji was not found. Use your own or pick from {prefix}lfg emojis"
+msgstr ""
+
+msgid "That event was not found on this server."
+msgstr ""
+
 msgid "That group category is already defined for this server."
+msgstr ""
+
+msgid "That group is already defined for this server."
+msgstr ""
+
+msgid "That is not a valid stat type for {game}."
+msgstr ""
+
+msgid "That leaderboard was not found, please try again."
+msgstr ""
+
+msgid "That match ID does not look valid, please try again."
+msgstr ""
+
+msgid "That time isn't valid, try again."
+msgstr ""
+
+msgid "That timezone isn't valid, try again."
+msgstr ""
+
+msgid "That user can no longer be found."
 msgstr ""
 
 msgid "That user hasn't added an account for {game}"
@@ -288,6 +474,9 @@ msgstr ""
 msgid "There was an issue retrieving your profile from Uplay. Please try again in a few minutes."
 msgstr ""
 
+msgid "To attend send: {prefix}lfg join {key}"
+msgstr ""
+
 msgid ""
 "To set up rank roles do {prefix}prestige <game>\n"
 "\n"
@@ -299,6 +488,21 @@ msgid "Top {top_count} games currently being played across {server_count} server
 msgstr ""
 
 msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr ""
+
+msgid "Tournament number {tournament_number} not found."
+msgstr ""
+
+msgid "Un-registering Ark server {}:{} for this server"
+msgstr ""
+
+msgid "Unable to add emoji, duplicate name: {details}"
+msgstr ""
+
+msgid "Updating {csgo_players_count} steam users found on this server."
+msgstr ""
+
+msgid "User {name} not found."
 msgstr ""
 
 msgid "WARNING: This will attempt to remove Discord roles related to this Prestige role, are you sure you want to continue?"
@@ -331,6 +535,21 @@ msgstr "Auf welcher Platform spielst du {game}? [{platforms}]"
 msgid "What server is your character on?"
 msgstr ""
 
+msgid "What time will the event start? (Format: YYYY-MM-DD HH:MM or x to cancel)"
+msgstr ""
+
+msgid "What timezone is the event in (e.g. UTC, America/New_York, Europe/London, Asia/Tokyo, Etc/GMT-7)? (x will use the default UTC)"
+msgstr ""
+
+msgid "Which groups would you like to tag with this event? Select as many as you want then select the tick."
+msgstr ""
+
+msgid "You are already attending this event."
+msgstr ""
+
+msgid "You can't add a profile to {name} because it's a bot"
+msgstr ""
+
 msgid "You do not have permission to change the language on {guild}."
 msgstr ""
 
@@ -343,22 +562,49 @@ msgstr ""
 msgid "You have already registered {account}"
 msgstr ""
 
+msgid "You have been removed from {key}."
+msgstr ""
+
+msgid "You have no groups to tag in your events. Add some with {prefix}lfg groups add"
+msgstr ""
+
+msgid "You have successfully signed up for {key}."
+msgstr ""
+
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Du musst für {game} ein Konto hinzufügen, schreib {prefix}add {game_key}"
 
 msgid "You need to add some games, DM me with {prefix}add <account>. See {prefix}accounts for supported accounts."
 msgstr ""
 
+msgid "You need {roles} roles, please try again. (Or cancel with x)"
+msgstr ""
+
 msgid "You took too long to respond, Prestige setup cancelled."
 msgstr ""
 
+msgid "You took too long to respond, event creation cancelled."
+msgstr ""
+
 msgid "You took too long to respond, prestige setup cancelled."
+msgstr ""
+
+msgid "You were not attending this event."
 msgstr ""
 
 msgid "Your character is not part of any FC."
 msgstr ""
 
 msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
+msgstr ""
+
+msgid "f disabled on {guild_name}"
+msgstr ""
+
+msgid "f enabled in {guild_name}"
+msgstr ""
+
+msgid "f enabled on {guild_name}"
 msgstr ""
 
 msgid "{channel} in {guild} registered to receive live match updates."
@@ -379,6 +625,9 @@ msgstr ""
 msgid "{game} live games for {guild}"
 msgstr ""
 
+msgid "{game} stats not found for {user} on {platform}"
+msgstr ""
+
 msgid "{guild} unregistered from receiving live match updates."
 msgstr ""
 
@@ -397,7 +646,16 @@ msgstr ""
 msgid "{name} does not appear to have any stats available."
 msgstr ""
 
+msgid "{steam_user}'s has no stats available for CSGO"
+msgstr ""
+
+msgid "{steam_user}'s profile is private, no stats could be retrieved."
+msgstr ""
+
 msgid "{user} does not does not appear to be a valid Z8Games user."
+msgstr ""
+
+msgid "{user} does not does not appear to be a valid osu! user."
 msgstr ""
 
 msgid "{user}'s Home Base"
@@ -413,5 +671,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
+#~ msgstr ""
+
+#~ msgid "No CSGO players found on this server. Do {prefix}steam first."
+#~ msgstr ""
+
+#~ msgid "No ranked CSGO players found on this server. Do {prefix}steam first."
+#~ msgstr ""
+
+#~ msgid "Sorry I can't find {name} on {server}, are you se that's correct?"
 #~ msgstr ""
 
