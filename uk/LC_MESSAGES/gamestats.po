@@ -1,7 +1,7 @@
-# Ukrainian translations for GameStats.
+# Ukrainian translation for GameStats.
 # Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-# Dmytro aka Tenevyk <tenevyk@gmail.com>, 2018.
+# Dmytro aka Tenevyk, https://twitch.tv/tenevyk, 2018.
 #
 msgid ""
 msgstr ""
@@ -22,49 +22,49 @@ msgid "*Warning*: Different spelling of {user}"
 msgstr "*Увага*: ваш псевдонім, {user}, відрізняється від ігрового!"
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr "Мапа всесвіту No Man's Sky <:nms:346638509114785808> для {guild}"
+msgstr "Мапа всесвіту No Man's Sky <:nms:346638509114785808> для сервера {guild}"
 
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr "Для отримання статистики {game} необхідно мати обліковий запис на {platforms}"
 
 msgid "Added group category **{category_name}** to {role_count} roles"
-msgstr ""
+msgstr "Додано категорію груп **{category_name}**"
 
 msgid "Added group category **{name}**: {description}"
-msgstr ""
+msgstr "Додано групову категорію **{name}**"
 
 msgid "Added group {role}"
-msgstr ""
+msgstr "Додано групу {role}"
 
 msgid "Added {account}"
-msgstr ""
+msgstr "{account} додано"
 
 msgid "Adding ARK chat"
-msgstr ""
+msgstr "Додаю чат ARK"
 
 msgid "Adding you to group {role}"
-msgstr ""
+msgstr "Додаю вас до групи {role}"
 
 msgid "Adding {account} for {name}"
-msgstr ""
+msgstr "Додавання облікового запису {account} для користувача {name}..."
 
 msgid "Are you sure you want to cancel the event {event_name}? (yes or no)"
-msgstr ""
+msgstr "Ви впевнені, що хочете скасувати подію «{event_name}»? (yes або no)"
 
 msgid "Are you sure you want to delete your profile?"
-msgstr ""
+msgstr "Ви впевнені, що хочете видалити свій профіль?"
 
 msgid "Available languages: [{languages}]"
 msgstr "Доступні мови: [{languages}]"
 
 msgid "Card {card_name} not found."
-msgstr ""
+msgstr "Карта {card_name} не знайдена."
 
 msgid "Character not found."
 msgstr "Персонажа не знайдено."
 
 msgid "Check your DMs"
-msgstr "Перевірте свої особисті повідомлення"
+msgstr "Перевірте свої особисті повідомлення (ОП)"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
@@ -76,19 +76,19 @@ msgstr ""
 "{groups}"
 
 msgid "Compiling stats of {number} players..."
-msgstr ""
+msgstr "Складаю статистику {number} гравця(ів)..."
 
 msgid "Completed reset of {game}, {stat_name}"
-msgstr ""
+msgstr "Завершено видалення ролей, створених для {stat_name} у {game}"
 
 msgid "Could not find {user} on {server}, please try again"
 msgstr "{user} відсутній на сервері {server}, будь ласка, спробуйте знову"
 
 msgid "Default FC for this server registered as {name} on {server}"
-msgstr ""
+msgstr "Типова FC для цього серверу зареєстрована як {name} на сервері {server}"
 
 msgid "Describe your event in more detail: (Optional, enter x to skip)"
-msgstr ""
+msgstr "Опишіть вашу подію детальніше: (опціонально, введіть x, аби пропустити)"
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr "Відстань між {user1} та {user2}: {dist}"
@@ -97,28 +97,28 @@ msgid "Distance to center"
 msgstr "Відстань до центру"
 
 msgid "Event can't end before it starts, try again."
-msgstr ""
+msgstr "Подія не може розпочатися раніше ніж почнеться, спробуйте знову."
 
 msgid "Event can't start before now, try again."
-msgstr ""
+msgstr "Подія не може розпочатися раніше ніж зараз, спробуйте знову."
 
 msgid "Event creation cancelled."
-msgstr ""
+msgstr "Створення події скасоване."
 
 msgid "Event creation continuing via DM."
-msgstr ""
+msgstr "Створення події продовжується через ОП."
 
 msgid "Event name limited to 64 characters, try again."
-msgstr ""
+msgstr "Назва події обмежена до 64 символів, спробуйте знову."
 
 msgid "Event not cancelled."
-msgstr ""
+msgstr "Подію не скасовано."
 
 msgid "Event not found on this server."
-msgstr ""
+msgstr "Подію не знайдено на цьому сервері."
 
 msgid "Event {event_name} cancelled"
-msgstr ""
+msgstr "Подію «{event_name}» скасовано"
 
 msgid "Files for {language_key} not found"
 msgstr "Файли для {language_key} не знайдено"
@@ -131,23 +131,31 @@ msgid ""
 "500 Nearly Best\n"
 "100 Newbie"
 msgstr ""
+"Будь ласка, для цієї статистики дайте відповідь списком цифр -> ролей - кожна пара з нового рядка.\n"
+"Наприклад:\n"
+"\n"
+"1000 @Найкращий ранг\n"
+"500 Майже найкращий\n"
+"100 Новачок"
 
 msgid ""
 "For this stat please reply with a list of roles - one on each line.\n"
 "You need one role for each of these: {roles}"
 msgstr ""
+"Для цієї статистики, будь ласка, надайте відповідь списком ролей - кожну з нового рядка.\n"
+"Вам потрібна одна роль для кожної статистики: {roles}"
 
 msgid "Hero {hero_name} not found."
-msgstr ""
+msgstr "Героя {hero_name} не знайдено."
 
 msgid "I attempted to DM you further questions to create your event but failed. Try sending me a DM first."
-msgstr ""
+msgstr "Я намагався надіслати ОП з додатковими питаннями для створення вашої події, але зазнав невдачі. Напишіть мені ОП перші."
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
 msgstr "{mention}, я намагався надіслати вам ОП, але вони у вас вимкнені. Будь ласка, напишіть мені цю команду в ОП."
 
 msgid "I'm missing permissions to grant the role {role} to {name}. Please check that I have the Manage Roles permission and {role} is below me in the role list."
-msgstr ""
+msgstr "Я не маю дозволів надати роль {role} користувачеві {name}. Будь ласка, перевірте, що я маю дозвіл «Керувати ролями» й тому, що {role} нижче мене у списку ролей."
 
 msgid "Languages reloaded"
 msgstr "Мови перезавантажено"
@@ -165,133 +173,133 @@ msgid "Looking up {user} on {game}..."
 msgstr "Шукаю користувача {user} у {game}..."
 
 msgid "Name your event: (Enter x to cancel)"
-msgstr ""
+msgstr "Назвіть вашу подію: (введіть x, аби пропустити)"
 
 msgid "No ARK server registered for this server"
-msgstr ""
+msgstr "Жодного серверу ARK не зареєстровано для цього серверу"
 
 msgid "No ARK server registered for this server. Register with {prefix}ark register <ip> <port>"
-msgstr ""
+msgstr "Жодного ARK серверу не зареєстровано для цього серверу. Як зареєструвати: {prefix}ark register <ip> <port>"
 
 msgid "No Battlerite profile found for {profile}."
-msgstr ""
+msgstr "Жодного Battlerite профілю не знайдено для {profile}"
 
 msgid "No CSGO players found on this server. Do {prefix}csgo first."
-msgstr ""
+msgstr "Гравців у CS:GO на цьому сервері не знайдено. Станьте першим, написавши {prefix)csgo."
 
 msgid "No Crucible history found for {name}"
-msgstr ""
+msgstr "Жодної історії участі у Crucible для користувача {name} не знайдено"
 
 msgid "No Destiny 2 characters found."
-msgstr ""
+msgstr "Жодного персонажа Destiny 2 не знайдено."
 
 msgid "No Destiny 2 clan found."
-msgstr ""
+msgstr "Жодного клану Destiny 2 не знайдено."
 
 msgid "No Destiny 2 players on {platform} found."
-msgstr ""
+msgstr "Жодних гравців Destiny 2 на {platform} не знайдено."
 
 msgid "No Destiny 2 profile found on {platform}."
-msgstr ""
+msgstr "Жодного профілю Destiny 2 на {platform} не знайдено."
 
 msgid "No PUBG players found on this server. Do {prefix}pubg first."
-msgstr ""
+msgstr "Гравців у PUBG на цьому сервері не знайдено. Станьте першим, написавши {prefix)pubg."
 
 msgid "No Siege players found on this server. Do {prefix}siege first."
-msgstr ""
+msgstr "Гравців у Siege на цьому сервері не знайдено. Станьте першим, написавши {prefix)siege."
 
 msgid "No characters found on that account. Please confirm account and try again."
 msgstr "Жодного персонажа не знайдено. Будь ласка, перевірте обліковий запис й спробуйте знову."
 
 msgid "No completed raids found for {name}"
-msgstr ""
+msgstr "Жодного завершеного рейду для користувача {name} не знайдено"
 
 msgid "No data for {name}"
-msgstr ""
+msgstr "Немає даних для користувача {name}"
 
 msgid "No events for this server."
-msgstr ""
+msgstr "Подій на цьому сервері немає."
 
 msgid "No games currently being played."
 msgstr "Наразі не грають у жодну гру."
 
 msgid "No group categories defined for this server."
-msgstr ""
+msgstr "Немає визначених групових категорій для цього сервера."
 
 msgid "No group found for {role}"
-msgstr ""
+msgstr "Немає груп для ролі {role}"
 
 msgid "No groups defined for this server."
-msgstr ""
+msgstr "Визначені групи для цього сервера відсутні."
 
 msgid "No groups defined on {server}, use {command}"
-msgstr "Груп на {server} ще немає, використайте {command}"
+msgstr "Групи на сервері {server} відсутні, скористайтеся командою {command}"
 
 msgid "No guilds registered for live Paragon matches"
-msgstr ""
+msgstr "Немає ґільдій, зареєстрованих для матчів Paragon наживо"
 
 msgid "No matches found. Submit some via {prefix}csgo match <share code>"
-msgstr ""
+msgstr "Жодного матчу не знайдено. Додайте якісь через {prefix}csgo match <код для поширення>"
 
 msgid "No matches recorded."
-msgstr ""
+msgstr "Записані матчі відсутні."
 
 msgid "No operator information found for {name} on {platform} {region}"
-msgstr ""
+msgstr "Не знайдено ніякої інформації про оперативників для {name} на {platform} {region}"
 
 msgid "No raid history found for {name}"
-msgstr ""
+msgstr "Жодної історії рейдів для користувача {name} не знайдено"
 
 msgid "No ranked CSGO players found on this server. Do {prefix}csgo first."
-msgstr ""
+msgstr "Не зайдено жодного рангово гравця у CS:GO на цьому сервері. Станьте першим, написавши {prefix}csgo ."
 
 msgid "No rare trophies found for {account}"
-msgstr ""
+msgstr "Жодних рідкісних нагород для облікового запису {account} не знайдено"
 
 msgid "No recent matches could be found."
-msgstr ""
+msgstr "Жодних нещодавніх матчів не знайдено."
 
 msgid "No recent matches found for {account}"
-msgstr ""
+msgstr "Нещодавних матчів для облікового запису {account} не знайдено"
 
 msgid "No recent trophies found for {account}"
-msgstr ""
+msgstr "Жодних нещодавних нагород для облікового запису {account} не знайдено"
 
 msgid "No response from user."
 msgstr "Немає відповіді від користувача."
 
 msgid "No season information found for {name} on {platform} {region}"
-msgstr ""
+msgstr "Не знайдено інформацію про цей період для {name} на {platform} {region}"
 
 msgid "No trophy cabinet found for {account}"
-msgstr ""
+msgstr "Жодного кабінету нагород для облікового запису {account} не знайдено"
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr "На цьому сервері ніхто не грає у {game}. Напишіть {prefix}{game_key} "
+msgstr "На цьому сервері ніхто не грає у {game}. Станьте першим, написавши {prefix}{game_key}."
 
 msgid "No {game} stats found for {user} on {platform}"
 msgstr "Статистику {game} для користувача {user} на {platform} не знайдено"
 
 msgid "Not tagging any groups in this event."
-msgstr ""
+msgstr "Не позначено жодної групи у цій події."
 
 msgid "Only the event owner ({owner_name}) can cancel this event."
-msgstr ""
+msgstr "Лише власник події ({owner_name}) може скасувати її."
 
 msgid "Platform invalid, valid platforms: {platforms}"
-msgstr ""
+msgstr "Некоректна платформа, коректними є: {platforms}"
 
 msgid "Player {account} not found"
-msgstr ""
+msgstr "Гравця {account} не знайдено"
 
 msgid "Player {user} (aka {nickname}) has no stats for season {season}."
-msgstr ""
+msgstr "Користувач {user} (aka {nickname}) не має статистики за період {season}."
 
 msgid "Please answer the following questions:"
-msgstr ""
+msgstr "Будь ласка, дайте відповідь на наступні питання:"
 
 msgid "Please enter your account name for {class_name}:"
-msgstr ""
+msgstr "Будь ласка, введіть ім’я вашого облікового запису для {class_name}:"
 
 msgid "Please enter your {game} account name:"
 msgstr "Будь ласка, введіть ім’я облікового запису {game}:"
@@ -300,19 +308,19 @@ msgid "Portal code"
 msgstr "Код порталу"
 
 msgid "Prestige role reset cancelled."
-msgstr ""
+msgstr "Видалення ролі Престижу скасовано."
 
 msgid "Prestige roles not setup for {guild}, game: {game}, stat: {stat}"
-msgstr ""
+msgstr "Ролі Престижу не задані для сервера {guild}, "
 
 msgid "Prestige setup cancelled."
-msgstr ""
+msgstr "Налаштування Престижу скасовано."
 
 msgid "Prestige setup complete."
-msgstr ""
+msgstr "Налаштування Престижу завершено."
 
 msgid "Profile NOT removed."
-msgstr ""
+msgstr "Профіль НЕ видалено."
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
@@ -322,19 +330,19 @@ msgstr ""
 "Облікові записи, що підтримуються: {accounts}"
 
 msgid "Profile not found."
-msgstr ""
+msgstr "Профіль не знайдено."
 
 msgid "Profile successfully deleted."
-msgstr ""
+msgstr "Профіль успішно видалено."
 
-msgid "Registering Ark server {ip}:{port} for this server"
-msgstr ""
+msgid "Registering ARK server {ip}:{port} for this server"
+msgstr "Реєструю сервер ARK {ip}:{port} для цього сервера"
 
 msgid "Removed group {role}"
-msgstr ""
+msgstr "Видалено групу {role}"
 
 msgid "Removed prestige for {game}, {stat_name}"
-msgstr ""
+msgstr "Видалено Престиж для {game}, {stat_name}"
 
 msgid "Request accepted"
 msgstr "Запит прийнято"
@@ -349,16 +357,19 @@ msgid "Requesting permission from {name}"
 msgstr "Запитую дозволи у {name}..."
 
 msgid "Resetting Prestige roles..."
-msgstr ""
+msgstr "Очищую ролі Престижу..."
 
 msgid "Searching for FC {name} on {server}..."
-msgstr ""
+msgstr "Шукаю FC {name} на сервері {server}..."
 
 msgid ""
 "Select a stat to base rank on by replying with one from the below list:\n"
 "\n"
 "{games}"
 msgstr ""
+"Оберіть статистику для базового рангу, відповівши одним з запропонованих варіантів:\n"
+"\n"
+"{games}"
 
 msgid "Set language for {guild_name} to {language}"
 msgstr "Тепер мова бота для {guild_name} - {language}"
@@ -367,7 +378,7 @@ msgid "Shows your stats from {game}"
 msgstr "Показує вашу статистику у {game}"
 
 msgid "Sorry I can't find {name} on {server}, are you sure that's correct?"
-msgstr ""
+msgstr "Вибачте, не можу знайти користувача {name} на сервері {server}, ви впевнені у правильності написаного?"
 
 msgid "Sorry that account isn't on your profile."
 msgstr "Вибачте, цей обліковий запис відсутній у вашому профілі."
@@ -387,6 +398,7 @@ msgid ""
 msgstr ""
 "Вибачте, обліковий запис {account} ще не підтримується.\n"
 "Облікові записи, що підтримуються: {accounts}\n"
+"\n"
 "Наприклад, напишіть наступне: **{prefix}add steam**"
 
 msgid ""
@@ -395,9 +407,13 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"Вибачте, обліковий запис {account} ще не підтримується.\n"
+"Облікові записи, що підтримуються: {supported_accounts}\n"
+"\n"
+"Наприклад, напишіть наступне: **{prefix}add steam**"
 
 msgid "Sorry, I didn't get that. Please try again"
-msgstr ""
+msgstr "Вибачте, не второпав. Спробуйте ще раз"
 
 msgid "Supported accounts: {accounts}"
 msgstr "Облікові записи, що підтримуються: {accounts}"
@@ -410,37 +426,37 @@ msgstr ""
 "{games}"
 
 msgid "Tagging the following groups in your event: {groups}"
-msgstr ""
+msgstr "Позначаю наступні групи у вашій події: {groups}"
 
 msgid "That emoji was not found. Use your own or pick from {prefix}lfg emojis"
-msgstr ""
+msgstr "Цей емоджі не був знайдений. Використайте ваш власний або оберіть з {prefix}lfg emojis"
 
 msgid "That event was not found on this server."
-msgstr ""
+msgstr "Таку подію не знайдено на цьому сервері."
 
 msgid "That group category is already defined for this server."
-msgstr ""
+msgstr "Таку групову категорію вже визначено для цього сервера."
 
 msgid "That group is already defined for this server."
-msgstr ""
+msgstr "Таку групу вже визначено для цього сервера."
 
 msgid "That is not a valid stat type for {game}."
-msgstr ""
+msgstr "Некоректний тип статистики для {game}."
 
 msgid "That leaderboard was not found, please try again."
-msgstr ""
+msgstr "Дошка лідерів не знайдена, будь ласка, спробуйте знову."
 
 msgid "That match ID does not look valid, please try again."
-msgstr ""
+msgstr "Схоже, ID цього матчу некоректний, будь ласка, спробуйте знову."
 
 msgid "That time isn't valid, try again."
-msgstr ""
+msgstr "Некоректний час, спробуйте знову."
 
 msgid "That timezone isn't valid, try again."
-msgstr ""
+msgstr "Некоректний часовий пояс, спробуйте знову."
 
 msgid "That user can no longer be found."
-msgstr ""
+msgstr "Цього користувача неможливо більше знайти."
 
 msgid "That user hasn't added an account for {game}"
 msgstr "Цей користувач не додав обліковий запис {game}"
@@ -464,7 +480,7 @@ msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please 
 msgstr "Код розташування має бути у форматі HUKYA:XXXX:XXXX:XXXX:XXXX. Будь ласка, перевірте ваш код й спробуйте знову."
 
 msgid "The roles format was incorrect, please try again. (Or cancel with x)"
-msgstr ""
+msgstr "Формат ролей неправильний, будь ласка, спробуйте знову. (Або скасуйте через x)"
 
 msgid "The user {user} does not appear valid, please check your profile is not private and try again."
 msgstr "Не вдалося додати користувача {user}. Будь ласка, впевніться, що ваш профіль не приватний й спробуйте знову."
@@ -479,15 +495,17 @@ msgid ""
 "There was an issue processing that command, please try again.\n"
 "If the issue continues please seek help in the support server on the help menu."
 msgstr ""
+"Виникла якась проблема з виконанням цієї команди, будь ласка, спробуйте знову.\n"
+"Якщо помилка продовжуватиме з’являтися, будь ласка, пошукайте поради на сервері підтримки у каналі help."
 
 msgid "There was an issue retrieving that players stats from the PUBG API. Please try again in a few minutes."
-msgstr ""
+msgstr "Виникла проблема з отримування статистики гравців з PUBG API. Будь ласка, спробуйте знову через кілька хвилин."
 
 msgid "There was an issue retrieving your profile from Uplay. Please try again in a few minutes."
-msgstr ""
+msgstr "Виникла проблема з отриманням вашого профілю з Uplay. Будь ласка, спробуйте знову через кілька хвилин."
 
 msgid "To attend send: {prefix}lfg join {key}"
-msgstr ""
+msgstr "Аби приєднатися, напишіть: {prefix}lfg join {key}"
 
 msgid ""
 "To set up rank roles do {prefix}prestige <game>\n"
@@ -495,6 +513,10 @@ msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"Для встановлення рангових ролей напишіть {prefix}prestige <гра>\n"
+"\n"
+"Ігри, що підтримуються:\n"
+"{games}"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
 msgstr "ТОП {top_count} ігор, у які зараз грають на {server_count} серверах"
@@ -503,22 +525,22 @@ msgid "Top {top_count} games currently being played in {guild_name}"
 msgstr "ТОП {top_count} ігор, у які зараз грають на {guild_name}"
 
 msgid "Tournament number {tournament_number} not found."
-msgstr ""
+msgstr "Змагання номер {tournament_number} не знайдено."
 
-msgid "Un-registering Ark server {}:{} for this server"
-msgstr ""
+msgid "Un-registering ARK server {}:{} for this server"
+msgstr "Від’єдную сервер ARK {}:{} від цього сервера"
 
 msgid "Unable to add emoji, duplicate name: {details}"
-msgstr ""
+msgstr "Не можу додати емоджі, ім’я вже існує: {details}"
 
 msgid "Updating {csgo_players_count} steam users found on this server."
-msgstr ""
+msgstr "Знайдено користувачів steam на цьому сервері: {csgo_players_count}. Йде оновлення..."
 
 msgid "User {name} not found."
-msgstr ""
+msgstr "Користувача {name} не знайдено."
 
 msgid "WARNING: This will attempt to remove Discord roles related to this Prestige role, are you sure you want to continue?"
-msgstr ""
+msgstr "УВАГА: це призведе до видалення пов’язаних з цією роллю Престижу ролей Дискорду. Ви впевнені, що хочете продовжити?"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
 msgstr "Увага: ви маєте кілька облікових записів {game}. При бажанні можна видалити один, написавши {prefix}delete {game_key} або визначити головний за допомогою {prefix}primary {game_key}"
@@ -557,22 +579,22 @@ msgid "What server is your character on?"
 msgstr "На якому сервері знаходиться ваш персонаж?"
 
 msgid "What time will the event start? (Format: YYYY-MM-DD HH:MM or x to cancel)"
-msgstr ""
+msgstr "О котрій розпочнеться подія? (Формат: РРРР-ММ-ДД ГГ:ХХ або x щоб пропустити)"
 
 msgid "What timezone is the event in (e.g. UTC, America/New_York, Europe/London, Asia/Tokyo, Etc/GMT-7)? (x will use the default UTC)"
-msgstr ""
+msgstr "Який часовий пояс події? Наприклад: UTC,  America/New_York, Europe/Kiev, Asia/Tokyo, Etc/GMT-7. Напишіть x, аби використати пояс UTC."
 
 msgid "Which groups would you like to tag with this event? Select as many as you want then select the tick."
-msgstr ""
+msgstr "Які групи ви бажаєте позначити учасниками цієї події? Оберіть скільки бажаєте, а потім оберіть галочку."
 
 msgid "You are already attending this event."
-msgstr ""
+msgstr "Ви вже учасник цієї події."
 
 msgid "You can't add a profile to {name} because it's a bot"
-msgstr ""
+msgstr "Ви не можете додати профіль користувачеві {name}, бо це бот. Біп-боп. "
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr "Ви не маєте дозволу змінювати мову у {guild}."
+msgstr "Ви не маєте дозволу змінювати мову на сервері {guild}."
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
 msgstr "Схоже, ви не граєте у Siege на PC. Оберіть PSN/XBL командою {prefix}add siege"
@@ -584,55 +606,55 @@ msgid "You have already registered {account}"
 msgstr "Ви вже зареєстрували {account}"
 
 msgid "You have been removed from {key}."
-msgstr ""
+msgstr "Ви були видалені з події «{key}»."
 
 msgid "You have no groups to tag in your events. Add some with {prefix}lfg groups add"
-msgstr ""
+msgstr "Ви немаєте груп для позначання у ваших подіях. Додайте якісь через команду {prefix}lfg groups add"
 
 msgid "You have successfully signed up for {key}."
-msgstr ""
+msgstr "Ви успішно зареєструвалися у події «{key}»"
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Вам потрібно додати обліковий запис {game}, напишіть {prefix}add {game_key}"
 
 msgid "You need to add some games, DM me with {prefix}add <account>. See {prefix}accounts for supported accounts."
-msgstr ""
+msgstr "Вам потрібно додати якісь ігри, напишіть мені ОП з командою {prefix}add <обліковий запис>. Напишіть {prefix}accounts для отримання списку доступних облікових записів."
 
 msgid "You need {roles} roles, please try again. (Or cancel with x)"
-msgstr ""
+msgstr "Будь ласка, спробуйте знову, вам потрібно ролей: {roles}. (Або скасуйте через x) "
 
 msgid "You took too long to respond, Prestige setup cancelled."
-msgstr ""
+msgstr "Ви надто довго не відповідали, встановлення Престижу скасовано."
 
 msgid "You took too long to respond, event creation cancelled."
-msgstr ""
+msgstr "Ви надто довго не відповідали, створення події скасовано."
 
 msgid "You took too long to respond, prestige setup cancelled."
-msgstr ""
+msgstr "Ви надто довго не відповідали, встановлення Престижу скасовано."
 
 msgid "You were not attending this event."
-msgstr ""
+msgstr "Ви не берете участь у цій події."
 
 msgid "Your character is not part of any FC."
-msgstr ""
+msgstr "Ваш персонаж не є учасником жодної FC"
 
 msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
 msgstr "Ваш профіль приватний. Це налаштування може бути змінене в Overwatch через Options - Social."
 
 msgid "f disabled on {guild_name}"
-msgstr ""
+msgstr "f вимкнено на сервері {guild_name}"
 
 msgid "f enabled in {guild_name}"
-msgstr ""
+msgstr "f увімкнено на сервері {guild_name}"
 
 msgid "f enabled on {guild_name}"
-msgstr ""
+msgstr "f увімкнено на сервері {guild_name}"
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr "Тепер {guild} буде наживо отримувати у {channel} оновлення матчів."
+msgstr "Тепер сервер {guild} буде наживо отримувати у {channel} оновлення матчів."
 
 msgid "{game} Leaderboard for {guild}"
-msgstr "Дошка лідерів {game} для {guild}"
+msgstr "Дошка лідерів {game} для сервера {guild}"
 
 msgid "{game} account not found for {user}"
 msgstr "Обліковий запис для {user} у {game} не знайдено"
@@ -641,16 +663,16 @@ msgid "{game} account not found for {user} on {platform}"
 msgstr "Обліковий запис для {user} на {platform} у {game} не знайдено"
 
 msgid "{game} is not currently supported, check back soon."
-msgstr ""
+msgstr "{game} наразі не підтримується, перевірте згодом."
 
 msgid "{game} live games for {guild}"
-msgstr "Ігри наживо у {game} для {guild}"
+msgstr "Ігри наживо у {game} для сервера{guild}"
 
 msgid "{game} stats not found for {user} on {platform}"
-msgstr ""
+msgstr "Відсутня статистика {game} для користувача {user} на {platform}"
 
 msgid "{guild} unregistered from receiving live match updates."
-msgstr "{guild} відписана від отримання оновлень матчів наживо"
+msgstr "Сервер {guild} відписаний від отримання оновлень матчів наживо"
 
 msgid "{language_key} added to list of available languages, which are: [{languages}]"
 msgstr "{language_key} додано до списку доступних мов. Весь список: [{languages}]"
@@ -665,19 +687,19 @@ msgid "{name} declined"
 msgstr "Користувач {name} відмовився"
 
 msgid "{name} does not appear to have any stats available."
-msgstr ""
+msgstr "{name}, схоже, не має жодної доступної статистики"
 
 msgid "{steam_user}'s has no stats available for CSGO"
-msgstr ""
+msgstr "Користувач {steam_user} немає доступної статистики для CS:GO."
 
 msgid "{steam_user}'s profile is private, no stats could be retrieved."
-msgstr ""
+msgstr "Не можу отримати статистику, бо профіль користувача {steam_user} приватний."
 
 msgid "{user} does not does not appear to be a valid Z8Games user."
-msgstr ""
+msgstr "Користувач {user}, схоже, незареєстрований у Z8Games."
 
 msgid "{user} does not does not appear to be a valid osu! user."
-msgstr ""
+msgstr "Користувач {user}, схоже, незареєстрований в osu!."
 
 msgid "{user}'s Home Base"
 msgstr "База користувача {user}"
@@ -693,4 +715,3 @@ msgstr "Профіль користувача {user} приватний. Це н
 
 #~ msgid "Sorry I can't find {name} on {server}, are you se that's correct?"
 #~ msgstr ""
-
