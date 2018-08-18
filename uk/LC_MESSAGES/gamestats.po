@@ -25,10 +25,10 @@ msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
 msgstr "Мапа всесвіту No Man's Sky <:nms:346638509114785808> для сервера {guild}"
 
 msgid "A PSN or Epic account is required to obtain Paragon stats"
-msgstr ""
+msgstr "Обліковий запис PSN або Epic необхідні для отримання статистики Paragon"
 
 msgid "A PSN or XBL account is required to obtain Destiny stats"
-msgstr ""
+msgstr "Обліковий запис PSN або XBL необхідні для отримання статистики Destiny"
 
 msgid "A {platforms} account is required to obtain {game} stats"
 msgstr "Для отримання статистики {game} необхідно мати обліковий запис на {platforms}"
@@ -94,6 +94,8 @@ msgid ""
 "Currently setup Prestige roles for {guild}:\n"
 "{games_n_stats}"
 msgstr ""
+"Поточне налаштування ролей Престижу для {guild}:\n"
+"{games_n_stats}"
 
 msgid "Default FC for this server registered as {name} on {server}"
 msgstr "Типова FC для цього серверу зареєстрована як {name} на сервері {server}"
@@ -108,31 +110,31 @@ msgid "Distance to center"
 msgstr "Відстань до центру"
 
 msgid "Do you play Paladins on PC, PSN or XBL?"
-msgstr ""
+msgstr "Ви граєте у Paladins на PC, PSN чи XBL?"
 
 msgid "Do you play Paragon on PSN or PC?"
-msgstr ""
+msgstr "Ви граєте у Paragon на PC, PSN чи XBL?"
 
 msgid "Do you play Smite on PC, PSN or XBL?"
-msgstr ""
+msgstr "Ви граєте у Smite на PC, PSN чи XBL?"
 
 msgid "Do you play destiny on PC, PSN or XBL?"
-msgstr ""
+msgstr "Ви граєте у Destiny на PC, PSN чи XBL?"
 
 msgid "Do you play destiny on PSN or XBL?"
-msgstr ""
+msgstr "Ви граєте у Destiny на PC, PSN чи XBL?"
 
 msgid "Do you play on PC, PSN or XBL?"
-msgstr ""
+msgstr "Ви граєте на PC, PSN чи XBL?"
 
 msgid "ERROR! Unable to DM {user} as they have them disabled. Cancelling account request."
-msgstr ""
+msgstr "ПОМИЛКА! Неможливо ОП користувача {user}, оскільки вони у нього вимкнені. Скасування запиту облікового запису."
 
 msgid "End Time"
-msgstr ""
+msgstr "Час закінчення"
 
 msgid "Enter your account name:"
-msgstr ""
+msgstr "Введіть ім’я вашого облікового запису:"
 
 msgid "Event can't end before it starts, try again."
 msgstr "Подія не може розпочатися раніше ніж почнеться, спробуйте знову."
@@ -162,7 +164,7 @@ msgid "Files for {language_key} not found"
 msgstr "Файли для {language_key} не знайдено"
 
 msgid "Following characters found, if you are expecting a character and it's not here trying logging into it:"
-msgstr ""
+msgstr "Якщо ви не бачите потрібного вам персонажа, спробуйте зайти на нього. Знайдені такі персонажі:"
 
 msgid ""
 "For this stat please reply with a list of number -> role - one on each line.\n"
@@ -187,10 +189,10 @@ msgstr ""
 "Вам потрібна одна роль для кожної статистики: {roles}"
 
 msgid "Group {role} not found. See {prefix}lfg groups."
-msgstr ""
+msgstr "Групу {role} не знайдено. Гляньте у {prefix}lfg groups."
 
 msgid "Groups"
-msgstr ""
+msgstr "Групи"
 
 msgid "Hero {hero_name} not found."
 msgstr "Героя {hero_name} не знайдено."
@@ -199,7 +201,7 @@ msgid "I attempted to DM you further questions to create your event but failed. 
 msgstr "Я намагався надіслати ОП з додатковими питаннями для створення вашої події, але зазнав невдачі. Напишіть мені ОП перші."
 
 msgid "I can't assign you {role} as it's higher than my role."
-msgstr ""
+msgstr "Я не можу назначити вам роль {role}, оскільки вона вища за мою."
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
 msgstr "{mention}, я намагався надіслати вам ОП, але вони у вас вимкнені. Будь ласка, напишіть мені цю команду в ОП."
@@ -211,43 +213,43 @@ msgid "Languages reloaded"
 msgstr "Мови перезавантажено"
 
 msgid "Link not clicked, request cancelled."
-msgstr ""
+msgstr "Ланка не була активована, тож запит скасовано."
 
 msgid "Location"
 msgstr "Розташування"
 
 msgid "Looking up Destiny 2 account for {account} on {platform}.."
-msgstr ""
+msgstr "Шукаю обліковий запис {account) у Destiny 2 на {platform}.. "
 
 msgid "Looking up Destiny account for {account} on {platform}.."
-msgstr ""
+msgstr "Шукаю обліковий запис {account) у Destiny на {platform}.. "
 
 msgid "Looking up Paragon account for {account} on {platform}.."
-msgstr ""
+msgstr "Шукаю обліковий запис {account) у Paragon на {platform}.. "
 
 msgid "Looking up Wargaming.net account for {user} on {platform} in {region}.."
-msgstr ""
+msgstr "Шукаю обліковий запис {account) у Wargaming.net на {platform} у регіоні {region}.. "
 
 msgid "Looking up {game} account for {user} on {platform}."
 msgstr "Шукаю обліковий запис {game} для {user} на {platform}."
 
 msgid "Looking up {user} in LoL region {region}..."
-msgstr ""
+msgstr "Шукаю у LoL користувача {user}, регіон {region}... "
 
 msgid "Looking up {user} on Hi-Rez!..."
-msgstr ""
+msgstr "Шукаю на Hi-Rez! користувача {user}..."
 
 msgid "Looking up {user} on PSN..."
-msgstr ""
+msgstr "Шукаю на PSN користувача {user}..."
 
 msgid "Looking up {user} on XBL..."
-msgstr ""
+msgstr "Шукаю на XBL користувача {user}..."
 
 msgid "Looking up {user} on Z8Games!..."
-msgstr ""
+msgstr "Шукаю на Z8Games! користувача {user}..."
 
 msgid "Looking up {user} on osu!..."
-msgstr ""
+msgstr "Шукаю у osu! користувача {user}..."
 
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "Шукаю користувача {user} у {game} на {platform}..."
@@ -259,7 +261,7 @@ msgid "Name your event: (Enter x to cancel)"
 msgstr "Назвіть вашу подію: (введіть x, аби пропустити)"
 
 msgid "New event for {groups} - '{name}' with key {key}"
-msgstr ""
+msgstr "Нова подія для груп {groups} - '{name}' з ключем {key}"
 
 msgid "No ARK server registered for this server"
 msgstr "Жодного серверу ARK не зареєстровано для цього серверу"
@@ -295,19 +297,19 @@ msgid "No Siege players found on this server. Do {prefix}siege first."
 msgstr "Гравців у Siege на цьому сервері не знайдено. Станьте першим, написавши {prefix)siege."
 
 msgid "No account deleted."
-msgstr ""
+msgstr "Немає облікових записів для видалення. "
 
 msgid "No account set as primary."
-msgstr ""
+msgstr "Жоден обліковий запис не встановлено головним."
 
 msgid "No active games."
-msgstr ""
+msgstr "Немає активних ігор."
 
 msgid "No characters found on that account. Please confirm account and try again."
 msgstr "Жодного персонажа не знайдено. Будь ласка, перевірте обліковий запис й спробуйте знову."
 
 msgid "No choices received, request cancelled."
-msgstr ""
+msgstr "Жодного вибору не отримано, запит скасовано."
 
 msgid "No completed raids found for {name}"
 msgstr "Жодного завершеного рейду для користувача {name} не знайдено"
@@ -394,43 +396,43 @@ msgid "Player {user} (aka {nickname}) has no stats for season {season}."
 msgstr "Користувач {user} (aka {nickname}) не має статистики за період {season}."
 
 msgid "Playstation is not yet supported, sorry!"
-msgstr ""
+msgstr "Вибачте, але Playstation поки що не підтримується!"
 
 msgid "Please answer the following questions:"
 msgstr "Будь ласка, дайте відповідь на наступні питання:"
 
 msgid "Please click the following link and log in to Battle.net to allow the bot to lookup your WoW characters: {link}"
-msgstr ""
+msgstr "Будь ласка, клацніть на наступній ланці й залогінтеся у Battle.net, аби дозволити боту оглянути ваших персонажів у WoW: {link}"
 
 msgid "Please enter the platform you play on (PC, PSN, XBL):"
-msgstr ""
+msgstr "Будь ласка, введіть платформу, на якій ви граєте (PC, PSN, XBL):"
 
 msgid "Please enter your BattleTag (in the format name#0000):"
-msgstr ""
+msgstr "Будь ласка, введіть ваш BattleTag (у форматі ім’я#0000):"
 
 msgid "Please enter your Epic Account name:"
-msgstr ""
+msgstr "Будь ласка, введіть ім’я вашого облікового запису Epic:"
 
 msgid "Please enter your LoL Summoner name:"
-msgstr ""
+msgstr "Будь ласка, введіть ім’я вашого LoL Summoner:"
 
 msgid "Please enter your LoL region (one of {regions}):"
-msgstr ""
+msgstr "Будь ласка, введіть ваш регіон LoL (один з регіонів {regions}):"
 
 msgid "Please enter your PSN id:"
-msgstr ""
+msgstr "Будь ласка, введіть ваш PSN id:"
 
 msgid "Please enter your PUBG name:"
-msgstr ""
+msgstr "Будь ласка, введіть ваше ім’я у PUBG:"
 
 msgid "Please enter your XBL Gamertag:"
-msgstr ""
+msgstr "Будь ласка, введіть ваш XBL Gamertag:"
 
 msgid "Please enter your account name for {class_name}:"
 msgstr "Будь ласка, введіть ім’я вашого облікового запису для {class_name}:"
 
 msgid "Please enter your region (one of {regions}):"
-msgstr ""
+msgstr "Будь ласка, введіть ваш регіон (один з регіонів {regions}):"
 
 msgid "Please enter your {game} account name:"
 msgstr "Будь ласка, введіть ім’я облікового запису {game}:"
@@ -476,7 +478,7 @@ msgid "Removed prestige for {game}, {stat_name}"
 msgstr "Видалено Престиж для {game}, {stat_name}"
 
 msgid "Removed: {account}"
-msgstr ""
+msgstr "Видалено обліковий запис {account}"
 
 msgid "Request accepted"
 msgstr "Запит прийнято"
@@ -506,10 +508,10 @@ msgstr ""
 "{games}"
 
 msgid "Select all characters by entering **all** or enter their numbers in a list e.g: 1 3 5 6 7"
-msgstr ""
+msgstr "Оберіть усіх персонажів, ввівши **all** або напишіть їх номери у списку, наприклад: 1 3 5 6 7"
 
 msgid "Set as primary: {account}"
-msgstr ""
+msgstr "Встановлено головним обліковий запис {account}"
 
 msgid "Set language for {guild_name} to {language}"
 msgstr "Тепер мова бота для {guild_name} - {language}"
@@ -556,10 +558,10 @@ msgid "Sorry, I didn't get that. Please try again"
 msgstr "Вибачте, не второпав. Спробуйте ще раз"
 
 msgid "Sorry. This command is disabled and cannot be used."
-msgstr ""
+msgstr "Вибачте, ця команда вимкнена або не може бути використана."
 
 msgid "Start Time"
-msgstr ""
+msgstr "Час початку"
 
 msgid "Supported accounts: {accounts}"
 msgstr "Облікові записи, що підтримуються: {accounts}"
@@ -596,10 +598,10 @@ msgid "That match ID does not look valid, please try again."
 msgstr "Схоже, ID цього матчу некоректний, будь ласка, спробуйте знову."
 
 msgid "That region wasn't valid, please use one of {regions}."
-msgstr ""
+msgstr "Некоректний регіон, будь ласка, використайте один з цих: {regions}."
 
 msgid "That role doesn't exist and I don't have the permissions to create it."
-msgstr ""
+msgstr "Ця роль не існує й я не маю права її створити."
 
 msgid "That time isn't valid, try again."
 msgstr "Некоректний час, спробуйте знову."
@@ -623,7 +625,7 @@ msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Некоректна платформа, наявний вибір: {platforms}"
 
 msgid "The BattleTag {user} is not in the right format, please try again. I needs to be like name#0001"
-msgstr ""
+msgstr "BattleTag користувача {user} некоректний, будь ласка, спробуйте знову. Мені потрібно, аби формат був типу ім’я#0001"
 
 msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
 msgstr "Імена облікових записів {user} та {account} не співпадають й можуть не працювати, перевірте регістр"
@@ -641,13 +643,13 @@ msgid "The user {user} does not appear valid, please check your profile is not p
 msgstr "Не вдалося додати користувача {user}. Будь ласка, впевніться, що ваш профіль не приватний й спробуйте знову."
 
 msgid "The user {user} does not have a Destiny profile on {platform}."
-msgstr ""
+msgstr "Користувач {user} не має профілю Destiny на {platform}."
 
 msgid "The user {user} does not have a Paragon profile on {platform}."
-msgstr ""
+msgstr "Користувач {user} не має профілю Paragon на {platform}."
 
 msgid "The user {user} does not have a Wargaming.net account on {platform} in {region}."
-msgstr ""
+msgstr "Користувач {user} не має облікового запису Wargaming.net на {platform} у регіоні {region}."
 
 msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr "Користувач {user} не має профілю на {platform} у {game}"
@@ -656,7 +658,7 @@ msgid "There are multiple matches. Please clarify by replying with the number of
 msgstr "Є кілька збігів. Будь ласка, уточніть вибір, відповівши цифрою правильного варіанту."
 
 msgid "There was an issue looking up that account, please try again later"
-msgstr ""
+msgstr "Трапилася помилка під час огляду цього облікового запису, будь ласка, спробуйте пізніше."
 
 msgid ""
 "There was an issue processing that command, please try again.\n"
@@ -672,10 +674,10 @@ msgid "There was an issue retrieving your profile from Uplay. Please try again i
 msgstr "Виникла проблема з отриманням вашого профілю з Uplay. Будь ласка, спробуйте знову через кілька хвилин."
 
 msgid "This command cannot be used in private messages."
-msgstr ""
+msgstr "Ця команда не може бути використана в особистих повідомленнях."
 
 msgid "This command is currently disabled as Sony changed their API. Your stats will still work for other games."
-msgstr ""
+msgstr "Ця команда наразі вимкнена, оскільки Sony змінили їх API. Ваша статистика буде працювати для інших ігор."
 
 msgid "To attend send: {prefix}lfg join {key}"
 msgstr "Аби приєднатися, напишіть: {prefix}lfg join {key}"
@@ -710,7 +712,7 @@ msgid "Updating {csgo_players_count} steam users found on this server."
 msgstr "Знайдено користувачів steam на цьому сервері: {csgo_players_count}. Йде оновлення..."
 
 msgid "User doesn't appear to have data on opendota, try visiting {profile}"
-msgstr ""
+msgstr "Схоже, користувач не має даних на opendota, спробуйте відвідати {profile}"
 
 msgid "User {name} not found."
 msgstr "Користувача {name} не знайдено."
@@ -729,16 +731,16 @@ msgstr ""
 "Аби знайти її розташування, розмістіть Посилювач Сигналу й запишіть код, який він показує при наближенні до нього, у форматі HUKYA:XXXX:XXXX:XXXX:XXXX"
 
 msgid "What is your Hi-Rez username?"
-msgstr ""
+msgstr "Який у вас Hi-Rez псевдонім?"
 
 msgid "What is your Z8Games username?"
-msgstr ""
+msgstr "Який у вас Z8Games псевдонім?"
 
 msgid "What is your character's name?"
 msgstr "Яке ім’я у вашого персонажа?"
 
 msgid "What is your osu! username?"
-msgstr ""
+msgstr "Який у вас osu! псевдонім?"
 
 msgid ""
 "What is your steam account? Please reply below.\n"
@@ -761,7 +763,7 @@ msgid "What platform do you play {game} on? [{platforms}]"
 msgstr "Яку платформу використовуєте для гри у {game}? [{platforms}]"
 
 msgid "What region do you play WoW in? [EU, US, KR, TW]"
-msgstr ""
+msgstr "В якому регіоні ви граєте у WoW? [EU, US, KR, TW]"
 
 msgid "What server is your character on?"
 msgstr "На якому сервері знаходиться ваш персонаж?"
@@ -779,7 +781,7 @@ msgid "Which groups would you like to tag with this event? Select as many as you
 msgstr "Які групи ви бажаєте позначити учасниками цієї події? Оберіть скільки бажаєте, а потім оберіть галочку."
 
 msgid "Xbox is not yet supported, sorry!"
-msgstr ""
+msgstr "Вибачте, але Xbox поки що не підтримується!"
 
 msgid "You are already attending this event."
 msgstr "Ви вже учасник цієї події."
@@ -797,7 +799,7 @@ msgid "You don't have any accounts on your profile, add some!"
 msgstr "У вас немає облікових записів у профілі, додайте якісь!"
 
 msgid "You don't have {account} on your profile."
-msgstr ""
+msgstr "Ви не маєте облікового запису {account} у своєму профілі."
 
 msgid "You have already registered {account}"
 msgstr "Ви вже зареєстрували {account}"
@@ -812,7 +814,7 @@ msgid "You have successfully signed up for {key}."
 msgstr "Ви успішно зареєструвалися у події «{key}»"
 
 msgid "You haven't registered for any events."
-msgstr ""
+msgstr "Ви не зареєстровані на жодній події."
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
 msgstr "Вам потрібно додати обліковий запис {game}, напишіть {prefix}add {game_key}"
@@ -854,6 +856,8 @@ msgid ""
 "{author} ({guild}) wants to add the following accounts to your profile, do you accept? (Reply with yes or no)\n"
 "{accounts}"
 msgstr ""
+"{author} ({guild}) хоче додати наступні облікові записи до вашого профілю, ви згодні? (Напишіть yes або no)\n"
+"{accounts}"
 
 msgid "{channel} in {guild} registered to receive live match updates."
 msgstr "Тепер сервер {guild} буде наживо отримувати у {channel} оновлення матчів."
@@ -895,7 +899,7 @@ msgid "{name} does not appear to have any stats available."
 msgstr "{name}, схоже, не має жодної доступної статистики"
 
 msgid "{region} is not a valid region. Please choose one of [{regions}]"
-msgstr ""
+msgstr "{region} є некоректним регіоном. Будь ласка, оберіть один з регіонів [{regions}]"
 
 msgid "{steam_user}'s has no stats available for CSGO"
 msgstr "Користувач {steam_user} немає доступної статистики для CS:GO."
@@ -904,13 +908,13 @@ msgid "{steam_user}'s profile is private, no stats could be retrieved."
 msgstr "Не можу отримати статистику, бо профіль користувача {steam_user} приватний."
 
 msgid "{user} does not appear to be a valid Hi-Rez player."
-msgstr ""
+msgstr "Користувач {user}, схоже, не зареєстрований як гравець Hi-Rez."
 
 msgid "{user} does not appear to be a valid LoL Summoner in {region}."
-msgstr ""
+msgstr "Користувач {user}, схоже, не зареєстрований як LoL Summoner у регіоні {region}."
 
 msgid "{user} does not appear to be a valid XBL Gamertag."
-msgstr ""
+msgstr "Псевдонім {user}, схоже, є некоректним XBL Gamertag."
 
 msgid "{user} does not appear to be a valid Z8Games user."
 msgstr "Користувач {user}, схоже, незареєстрований у Z8Games."
