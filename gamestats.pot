@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.3\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2018-08-06 22:44+0100\n"
+"POT-Creation-Date: 2018-08-17 12:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,6 +21,12 @@ msgid "*Warning*: Different spelling of {user}"
 msgstr ""
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
+msgstr ""
+
+msgid "A PSN or Epic account is required to obtain Paragon stats"
+msgstr ""
+
+msgid "A PSN or XBL account is required to obtain Destiny stats"
 msgstr ""
 
 msgid "A {platforms} account is required to obtain {game} stats"
@@ -80,6 +86,11 @@ msgstr ""
 msgid "Could not find {user} on {server}, please try again"
 msgstr ""
 
+msgid ""
+"Currently setup Prestige roles for {guild}:\n"
+"{games_n_stats}"
+msgstr ""
+
 msgid "Default FC for this server registered as {name} on {server}"
 msgstr ""
 
@@ -90,6 +101,33 @@ msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr ""
 
 msgid "Distance to center"
+msgstr ""
+
+msgid "Do you play Paladins on PC, PSN or XBL?"
+msgstr ""
+
+msgid "Do you play Paragon on PSN or PC?"
+msgstr ""
+
+msgid "Do you play Smite on PC, PSN or XBL?"
+msgstr ""
+
+msgid "Do you play destiny on PC, PSN or XBL?"
+msgstr ""
+
+msgid "Do you play destiny on PSN or XBL?"
+msgstr ""
+
+msgid "Do you play on PC, PSN or XBL?"
+msgstr ""
+
+msgid "ERROR! Unable to DM {user} as they have them disabled. Cancelling account request."
+msgstr ""
+
+msgid "End Time"
+msgstr ""
+
+msgid "Enter your account name:"
 msgstr ""
 
 msgid "Event can't end before it starts, try again."
@@ -119,6 +157,9 @@ msgstr ""
 msgid "Files for {language_key} not found"
 msgstr ""
 
+msgid "Following characters found, if you are expecting a character and it's not here trying logging into it:"
+msgstr ""
+
 msgid ""
 "For this stat please reply with a list of number -> role - one on each line.\n"
 "For example:\n"
@@ -130,13 +171,22 @@ msgstr ""
 
 msgid ""
 "For this stat please reply with a list of roles - one on each line.\n"
-"You need one role for each of these: {roles}"
+"You need one role for each of these: {stat_names}"
+msgstr ""
+
+msgid "Group {role} not found. See {prefix}lfg groups."
+msgstr ""
+
+msgid "Groups"
 msgstr ""
 
 msgid "Hero {hero_name} not found."
 msgstr ""
 
 msgid "I attempted to DM you further questions to create your event but failed. Try sending me a DM first."
+msgstr ""
+
+msgid "I can't assign you {role} as it's higher than my role."
 msgstr ""
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
@@ -148,10 +198,43 @@ msgstr ""
 msgid "Languages reloaded"
 msgstr ""
 
+msgid "Link not clicked, request cancelled."
+msgstr ""
+
 msgid "Location"
 msgstr ""
 
+msgid "Looking up Destiny 2 account for {account} on {platform}.."
+msgstr ""
+
+msgid "Looking up Destiny account for {account} on {platform}.."
+msgstr ""
+
+msgid "Looking up Paragon account for {account} on {platform}.."
+msgstr ""
+
+msgid "Looking up Wargaming.net account for {user} on {platform} in {region}.."
+msgstr ""
+
 msgid "Looking up {game} account for {user} on {platform}."
+msgstr ""
+
+msgid "Looking up {user} in LoL region {region}..."
+msgstr ""
+
+msgid "Looking up {user} on Hi-Rez!..."
+msgstr ""
+
+msgid "Looking up {user} on PSN..."
+msgstr ""
+
+msgid "Looking up {user} on XBL..."
+msgstr ""
+
+msgid "Looking up {user} on Z8Games!..."
+msgstr ""
+
+msgid "Looking up {user} on osu!..."
 msgstr ""
 
 msgid "Looking up {user} on {game} on {platform}..."
@@ -161,6 +244,9 @@ msgid "Looking up {user} on {game}..."
 msgstr ""
 
 msgid "Name your event: (Enter x to cancel)"
+msgstr ""
+
+msgid "New event for {groups} - '{name}' with key {key}"
 msgstr ""
 
 msgid "No ARK server registered for this server"
@@ -196,7 +282,19 @@ msgstr ""
 msgid "No Siege players found on this server. Do {prefix}siege first."
 msgstr ""
 
+msgid "No account deleted."
+msgstr ""
+
+msgid "No account set as primary."
+msgstr ""
+
+msgid "No active games."
+msgstr ""
+
 msgid "No characters found on that account. Please confirm account and try again."
+msgstr ""
+
+msgid "No choices received, request cancelled."
 msgstr ""
 
 msgid "No completed raids found for {name}"
@@ -283,10 +381,43 @@ msgstr ""
 msgid "Player {user} (aka {nickname}) has no stats for season {season}."
 msgstr ""
 
+msgid "Playstation is not yet supported, sorry!"
+msgstr ""
+
 msgid "Please answer the following questions:"
 msgstr ""
 
+msgid "Please click the following link and log in to Battle.net to allow the bot to lookup your WoW characters: {link}"
+msgstr ""
+
+msgid "Please enter the platform you play on (PC, PSN, XBL):"
+msgstr ""
+
+msgid "Please enter your BattleTag (in the format name#0000):"
+msgstr ""
+
+msgid "Please enter your Epic Account name:"
+msgstr ""
+
+msgid "Please enter your LoL Summoner name:"
+msgstr ""
+
+msgid "Please enter your LoL region (one of {regions}):"
+msgstr ""
+
+msgid "Please enter your PSN id:"
+msgstr ""
+
+msgid "Please enter your PUBG name:"
+msgstr ""
+
+msgid "Please enter your XBL Gamertag:"
+msgstr ""
+
 msgid "Please enter your account name for {class_name}:"
+msgstr ""
+
+msgid "Please enter your region (one of {regions}):"
 msgstr ""
 
 msgid "Please enter your {game} account name:"
@@ -330,6 +461,9 @@ msgstr ""
 msgid "Removed prestige for {game}, {stat_name}"
 msgstr ""
 
+msgid "Removed: {account}"
+msgstr ""
+
 msgid "Request accepted"
 msgstr ""
 
@@ -352,6 +486,12 @@ msgid ""
 "Select a stat to base rank on by replying with one from the below list:\n"
 "\n"
 "{games}"
+msgstr ""
+
+msgid "Select all characters by entering **all** or enter their numbers in a list e.g: 1 3 5 6 7"
+msgstr ""
+
+msgid "Set as primary: {account}"
 msgstr ""
 
 msgid "Set language for {guild_name} to {language}"
@@ -388,6 +528,12 @@ msgstr ""
 msgid "Sorry, I didn't get that. Please try again"
 msgstr ""
 
+msgid "Sorry. This command is disabled and cannot be used."
+msgstr ""
+
+msgid "Start Time"
+msgstr ""
+
 msgid "Supported accounts: {accounts}"
 msgstr ""
 
@@ -420,6 +566,12 @@ msgstr ""
 msgid "That match ID does not look valid, please try again."
 msgstr ""
 
+msgid "That region wasn't valid, please use one of {regions}."
+msgstr ""
+
+msgid "That role doesn't exist and I don't have the permissions to create it."
+msgstr ""
+
 msgid "That time isn't valid, try again."
 msgstr ""
 
@@ -441,6 +593,9 @@ msgstr ""
 msgid "That's not a valid platform, the options are: {platforms}"
 msgstr ""
 
+msgid "The BattleTag {user} is not in the right format, please try again. I needs to be like name#0001"
+msgstr ""
+
 msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
 msgstr ""
 
@@ -456,10 +611,22 @@ msgstr ""
 msgid "The user {user} does not appear valid, please check your profile is not private and try again."
 msgstr ""
 
+msgid "The user {user} does not have a Destiny profile on {platform}."
+msgstr ""
+
+msgid "The user {user} does not have a Paragon profile on {platform}."
+msgstr ""
+
+msgid "The user {user} does not have a Wargaming.net account on {platform} in {region}."
+msgstr ""
+
 msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr ""
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
+msgstr ""
+
+msgid "There was an issue looking up that account, please try again later"
 msgstr ""
 
 msgid ""
@@ -471,6 +638,12 @@ msgid "There was an issue retrieving that players stats from the PUBG API. Pleas
 msgstr ""
 
 msgid "There was an issue retrieving your profile from Uplay. Please try again in a few minutes."
+msgstr ""
+
+msgid "This command cannot be used in private messages."
+msgstr ""
+
+msgid "This command is currently disabled as Sony changed their API. Your stats will still work for other games."
 msgstr ""
 
 msgid "To attend send: {prefix}lfg join {key}"
@@ -492,13 +665,16 @@ msgstr ""
 msgid "Tournament number {tournament_number} not found."
 msgstr ""
 
-msgid "Un-registering Ark server {}:{} for this server"
+msgid "Un-registering Ark server {ip}:{port} for this server"
 msgstr ""
 
 msgid "Unable to add emoji, duplicate name: {details}"
 msgstr ""
 
 msgid "Updating {csgo_players_count} steam users found on this server."
+msgstr ""
+
+msgid "User doesn't appear to have data on opendota, try visiting {profile}"
 msgstr ""
 
 msgid "User {name} not found."
@@ -515,7 +691,16 @@ msgid ""
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
 
+msgid "What is your Hi-Rez username?"
+msgstr ""
+
+msgid "What is your Z8Games username?"
+msgstr ""
+
 msgid "What is your character's name?"
+msgstr ""
+
+msgid "What is your osu! username?"
 msgstr ""
 
 msgid ""
@@ -531,7 +716,13 @@ msgstr ""
 msgid "What platform do you play {game} on? [{platforms}]"
 msgstr ""
 
+msgid "What region do you play WoW in? [EU, US, KR, TW]"
+msgstr ""
+
 msgid "What server is your character on?"
+msgstr ""
+
+msgid "What time will the event end? (Format: YYYY-MM-DD HH:MM)"
 msgstr ""
 
 msgid "What time will the event start? (Format: YYYY-MM-DD HH:MM or x to cancel)"
@@ -541,6 +732,9 @@ msgid "What timezone is the event in (e.g. UTC, America/New_York, Europe/London,
 msgstr ""
 
 msgid "Which groups would you like to tag with this event? Select as many as you want then select the tick."
+msgstr ""
+
+msgid "Xbox is not yet supported, sorry!"
 msgstr ""
 
 msgid "You are already attending this event."
@@ -558,6 +752,9 @@ msgstr ""
 msgid "You don't have any accounts on your profile, add some!"
 msgstr ""
 
+msgid "You don't have {account} on your profile."
+msgstr ""
+
 msgid "You have already registered {account}"
 msgstr ""
 
@@ -568,6 +765,9 @@ msgid "You have no groups to tag in your events. Add some with {prefix}lfg group
 msgstr ""
 
 msgid "You have successfully signed up for {key}."
+msgstr ""
+
+msgid "You haven't registered for any events."
 msgstr ""
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
@@ -604,6 +804,11 @@ msgid "f enabled in {guild_name}"
 msgstr ""
 
 msgid "f enabled on {guild_name}"
+msgstr ""
+
+msgid ""
+"{author} ({guild}) wants to add the following accounts to your profile, do you accept? (Reply with yes or no)\n"
+"{accounts}"
 msgstr ""
 
 msgid "{channel} in {guild} registered to receive live match updates."
@@ -645,16 +850,28 @@ msgstr ""
 msgid "{name} does not appear to have any stats available."
 msgstr ""
 
+msgid "{region} is not a valid region. Please choose one of [{regions}]"
+msgstr ""
+
 msgid "{steam_user}'s has no stats available for CSGO"
 msgstr ""
 
 msgid "{steam_user}'s profile is private, no stats could be retrieved."
 msgstr ""
 
-msgid "{user} does not does not appear to be a valid Z8Games user."
+msgid "{user} does not appear to be a valid Hi-Rez player."
 msgstr ""
 
-msgid "{user} does not does not appear to be a valid osu! user."
+msgid "{user} does not appear to be a valid LoL Summoner in {region}."
+msgstr ""
+
+msgid "{user} does not appear to be a valid XBL Gamertag."
+msgstr ""
+
+msgid "{user} does not appear to be a valid Z8Games user."
+msgstr ""
+
+msgid "{user} does not appear to be a valid osu! user."
 msgstr ""
 
 msgid "{user}'s Home Base"
