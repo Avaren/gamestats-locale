@@ -79,7 +79,7 @@ msgid "Completed reset of {game}, {stat_name}"
 msgstr ""
 
 msgid "Could not find {user} on {server}, please try again"
-msgstr ""
+msgstr "{user} kullanıcısı {server} üzerinde bulunamadı, lütfen daha sonra tekrar dene."
 
 msgid "Default FC for this server registered as {name} on {server}"
 msgstr ""
@@ -94,28 +94,28 @@ msgid "Distance to center"
 msgstr ""
 
 msgid "Event can't end before it starts, try again."
-msgstr ""
+msgstr "Etkinlik başlamadan önce bitemez, tekrar dene."
 
 msgid "Event can't start before now, try again."
 msgstr ""
 
 msgid "Event creation cancelled."
-msgstr ""
+msgstr "Etkinlik oluşturma iptal edildi."
 
 msgid "Event creation continuing via DM."
-msgstr ""
+msgstr "Etkinlik oluşturma DM üzerinden devam ediyor."
 
 msgid "Event name limited to 64 characters, try again."
-msgstr ""
+msgstr "Etkinlik ismi 65 karakterle sınırlıdır, tekrar dene."
 
 msgid "Event not cancelled."
-msgstr ""
+msgstr "Etkinlik iptal edilmedi."
 
 msgid "Event not found on this server."
-msgstr ""
+msgstr "Bu server üzerinde etkinlik bulunamadı."
 
 msgid "Event {event_name} cancelled"
-msgstr ""
+msgstr "{event_name} etkinliği iptal edildi."
 
 msgid "Files for {language_key} not found"
 msgstr "{language_key} dosyaları bulunamadı"
@@ -135,10 +135,10 @@ msgid ""
 msgstr ""
 
 msgid "Hero {hero_name} not found."
-msgstr ""
+msgstr "{hero_name} kahramanı bulunamadı."
 
 msgid "I attempted to DM you further questions to create your event but failed. Try sending me a DM first."
-msgstr ""
+msgstr "Etkinliğini  oluşturabilmem için sana DM üzerinden daha fazla soru sormayı denedim fakat başarısız oldu. Bana DM göndermeyi deneyebilirsin."
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
 msgstr "Sana Direkt Mesaj atmayı denedim {mention} fakat DM'leri kapatmışsın, lütfen bu komut için bana mesaj gönder."
@@ -150,10 +150,10 @@ msgid "Languages reloaded"
 msgstr "Diller tekrar yüklendi"
 
 msgid "Location"
-msgstr ""
+msgstr "Konum"
 
 msgid "Looking up {game} account for {user} on {platform}."
-msgstr ""
+msgstr "{game} oyununda {user} hesabı aranıyor."
 
 msgid "Looking up {user} on {game} on {platform}..."
 msgstr "{platform} üzerinden {game} oyununun {user} kullanıcısına bakılıyor..."
@@ -162,7 +162,7 @@ msgid "Looking up {user} on {game}..."
 msgstr "{game} oyununun {user} oyuncusuna bakılıyor..."
 
 msgid "Name your event: (Enter x to cancel)"
-msgstr ""
+msgstr "Etkinliğinin ismi: (x yazarak iptal et)"
 
 msgid "No ARK server registered for this server"
 msgstr ""
@@ -204,10 +204,10 @@ msgid "No completed raids found for {name}"
 msgstr ""
 
 msgid "No data for {name}"
-msgstr ""
+msgstr "{name} için veri yok"
 
 msgid "No events for this server."
-msgstr ""
+msgstr "Bu sunucu için etkinlik yok."
 
 msgid "No games currently being played."
 msgstr ""
@@ -216,7 +216,7 @@ msgid "No group categories defined for this server."
 msgstr ""
 
 msgid "No group found for {role}"
-msgstr ""
+msgstr "{role} için grup bulunamadı"
 
 msgid "No groups defined for this server."
 msgstr ""
