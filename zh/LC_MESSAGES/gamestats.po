@@ -1,37 +1,70 @@
 # Chinese translations for GameStats.
-# Copyright (C) 2017 GameStats
+# Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-# https://github.com/Avaren, 2017.
+# Viola#5458, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.1\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-12-16 01:07+0000\n"
+"POT-Creation-Date: 2018-08-06 22:44+0100\n"
 "PO-Revision-Date: 2017-08-12 12:56+0100\n"
-"Last-Translator: Viola#5458\n"
+"Last-Translator: !滥好人#8888\n"
 "Language: zh\n"
 "Language-Team: zh <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.6.0\n"
 
-msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr "**错误**：确保它具有“内嵌链接”权限。"
+msgid "*Warning*: Different spelling of {user}"
+msgstr "*警告*：{user}的拼写错误"
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
 msgstr "{guild}的《无人深空》宇宙地图<:nms:346638509114785808>"
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr "要获得{game}统计，需要一个{platforms}帐户。"
+msgstr "需要{platforms}帐户才能获得{game}统计信息"
+
+msgid "Added group category **{category_name}** to {role_count} roles"
+msgstr "将分组类别 **{category_name}** 添加到{role_count}身份"
+
+msgid "Added group category **{name}**: {description}"
+msgstr "添加了分组类别**{name}** ：{description}"
+
+msgid "Added group {role}"
+msgstr "添加了分组{role}"
+
+msgid "Added {account}"
+msgstr "已添加{account}"
+
+msgid "Adding ARK chat"
+msgstr "添加方舟聊天"
+
+msgid "Adding you to group {role}"
+msgstr "将您添加到{role}分组"
+
+msgid "Adding {account} for {name}"
+msgstr "为{name}添加{account}"
+
+msgid "Are you sure you want to cancel the event {event_name}? (yes or no)"
+msgstr "您确定要取消活动{event_name}吗？(yes or no)"
+
+msgid "Are you sure you want to delete your profile?"
+msgstr "您确定要删除自己的个人资料吗？"
 
 msgid "Available languages: [{languages}]"
-msgstr "可用的语言[{languages}]"
+msgstr "可用的语言：[{languages}]"
+
+msgid "Card {card_name} not found."
+msgstr "找不到{card_name}。"
+
+msgid "Character not found."
+msgstr "未找到角色"
 
 msgid "Check your DMs"
-msgstr "检查你的私信"
+msgstr "检查您的私信"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
@@ -42,17 +75,87 @@ msgstr ""
 "\n"
 "{groups}"
 
+msgid "Compiling stats of {number} players..."
+msgstr "编辑{number}的统计数据..."
+
+msgid "Completed reset of {game}, {stat_name}"
+msgstr "已完成{game}的重置，{stat_name}"
+
+msgid "Could not find {user} on {server}, please try again"
+msgstr "无法在{server}上找到{user}，请重试"
+
+msgid "Default FC for this server registered as {name} on {server}"
+msgstr ""
+
+msgid "Describe your event in more detail: (Optional, enter x to skip)"
+msgstr "更详细地描述活动：(可选，输入x跳过)"
+
 msgid "Distance between {user1} and {user2}: {dist}ly"
 msgstr "{user1}跟{user2}之间的距离：{dist}"
 
 msgid "Distance to center"
 msgstr "到中心的距离"
 
+msgid "Event can't end before it starts, try again."
+msgstr "活动不能在开始前结束，请重试。"
+
+msgid "Event can't start before now, try again."
+msgstr "活动在此之前无法启动，请重试。"
+
+msgid "Event creation cancelled."
+msgstr "活动创建已取消。"
+
+msgid "Event creation continuing via DM."
+msgstr "检查私信继续创建活动"
+
+msgid "Event name limited to 64 characters, try again."
+msgstr "活动名称限制为64个字符，请重试。"
+
+msgid "Event not cancelled."
+msgstr "活动未取消。"
+
+msgid "Event not found on this server."
+msgstr "在此服务器上找不到活动。"
+
+msgid "Event {event_name} cancelled"
+msgstr "活动{event_name}已取消"
+
 msgid "Files for {language_key} not found"
 msgstr "未找到{language_key}的文件。"
 
+msgid ""
+"For this stat please reply with a list of number -> role - one on each line.\n"
+"For example:\n"
+"\n"
+"1000 @Best Rank\n"
+"500 Nearly Best\n"
+"100 Newbie"
+msgstr ""
+"对于这个统计数据，请回复一个数字列表 ->身份 - 每行一个。\n"
+"例如：\n"
+"\n"
+"1000 1000小时大佬\n"
+"500 500小时\n"
+"100 新手"
+
+msgid ""
+"For this stat please reply with a list of roles - one on each line.\n"
+"You need one role for each of these: {roles}"
+msgstr ""
+"对于这个统计数据，请回复一个身份列表 - 每行一个。\n"
+"您需要为每个角色分配一个身份：{roles}"
+
+msgid "Hero {hero_name} not found."
+msgstr "未找到 Hero {hero_name}"
+
+msgid "I attempted to DM you further questions to create your event but failed. Try sending me a DM first."
+msgstr "给您发私信出错，您私信我吧"
+
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr "我试图私信你{mention}，但是你的私信失效了，请私信把那个命令发给我。"
+msgstr "我试图私信您{mention}，但是您的私信失效了，请私信把那个命令发给我。"
+
+msgid "I'm missing permissions to grant the role {role} to {name}. Please check that I have the Manage Roles permission and {role} is below me in the role list."
+msgstr "我缺少将{role}身份授予{name}的权限。 请检查我是否拥有“管理身份组”权限，并且身份列表中的{role}位于我下方。"
 
 msgid "Languages reloaded"
 msgstr "语言清单已更新"
@@ -60,48 +163,233 @@ msgstr "语言清单已更新"
 msgid "Location"
 msgstr "位置"
 
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr "在{platform}上查找{user}的{game}帐户。"
+
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr "在{platform}上查找{user}的{game}。。。"
+msgstr "在{platform}上查找{game}上的{user}…"
 
 msgid "Looking up {user} on {game}..."
 msgstr "正在{game}寻找{user}..."
 
+msgid "Name your event: (Enter x to cancel)"
+msgstr "命名活动：(输入x取消)"
+
+msgid "No ARK server registered for this server"
+msgstr "没有为此服务器注册方舟服务器"
+
+msgid "No ARK server registered for this server. Register with {prefix}ark register <ip> <port>"
+msgstr "没有为此服务器注册方舟服务器。注册{prefix} ark register <ip> <port>"
+
+msgid "No Battlerite profile found for {profile}."
+msgstr "未找到{profile}的Battlerite个人资料。"
+
+msgid "No CSGO players found on this server. Do {prefix}csgo first."
+msgstr "在此服务器上找不到CSGO玩家。先执行：{prefix}csgo"
+
+msgid "No Crucible history found for {name}"
+msgstr "找不到{name}的Crucible历史记录"
+
+msgid "No Destiny 2 characters found."
+msgstr "未找到命运2的角色。"
+
+msgid "No Destiny 2 clan found."
+msgstr "未找到命运2的clan（氏族还是部落？请去官方频道反馈翻译错误）。"
+
+msgid "No Destiny 2 players on {platform} found."
+msgstr "在{platform}上找不到命运2的玩家。"
+
+msgid "No Destiny 2 profile found on {platform}."
+msgstr "在{platform}上未找到命运2的配置文件。"
+
+msgid "No PUBG players found on this server. Do {prefix}pubg first."
+msgstr "在此服务器上找不到吃鸡玩家。先执行：{prefix}pubg"
+
+msgid "No Siege players found on this server. Do {prefix}siege first."
+msgstr "在此服务器上找不到R6玩家。先执行：{prefix}siege"
+
+msgid "No characters found on that account. Please confirm account and try again."
+msgstr "在那个帐户上未找到。请确认帐户然后重试。"
+
+msgid "No completed raids found for {name}"
+msgstr "未找到{name}的已完成突袭"
+
+msgid "No data for {name}"
+msgstr "没有{name}的数据"
+
+msgid "No events for this server."
+msgstr "此服务器没有活动。"
+
 msgid "No games currently being played."
-msgstr "目前没有正在玩的游戏。"
+msgstr "没有正在玩的游戏。"
+
+msgid "No group categories defined for this server."
+msgstr "没有为此服务器定义分组类别。"
+
+msgid "No group found for {role}"
+msgstr "找不到{role}分组"
+
+msgid "No groups defined for this server."
+msgstr "没有为此服务器设置分组。"
 
 msgid "No groups defined on {server}, use {command}"
-msgstr "未在{server}上定义组，请使用{command}"
+msgstr "未在{server}上定义分组，请使用{command}"
+
+msgid "No guilds registered for live Paragon matches"
+msgstr "没有公会注册Paragon现场比赛"
+
+msgid "No matches found. Submit some via {prefix}csgo match <share code>"
+msgstr "找不到匹配项。 通过{prefix} csgo match <share code>提交一些"
+
+msgid "No matches recorded."
+msgstr "没有匹配的记录。"
+
+msgid "No operator information found for {name} on {platform} {region}"
+msgstr "在{platform} {region}上找不到{name}的干员信息"
+
+msgid "No raid history found for {name}"
+msgstr "未找到{name}的记录"
+
+msgid "No ranked CSGO players found on this server. Do {prefix}csgo first."
+msgstr "没有在这个服务器上找到CSGO rank玩家。先执行：{prefix}csgo"
+
+msgid "No rare trophies found for {account}"
+msgstr "{account}未找到稀有奖杯"
+
+msgid "No recent matches could be found."
+msgstr "未找到近期的比赛。"
+
+msgid "No recent matches found for {account}"
+msgstr "未找到{account}近期的比赛"
+
+msgid "No recent trophies found for {account}"
+msgstr "未找到{account}近期的奖杯"
 
 msgid "No response from user."
 msgstr "此帐户没有回应"
 
+msgid "No season information found for {name} on {platform} {region}"
+msgstr "在{平台}{区域}上未找到{name}的赛季信息"
+
+msgid "No trophy cabinet found for {account}"
+msgstr "未找到{account}的奖杯柜"
+
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr "在此服务器上找不到{game}玩家。先做{prefix}{game_key}。"
+msgstr "在此服务器上找不到{game}玩家。先执行：{prefix}{game_key}"
 
 msgid "No {game} stats found for {user} on {platform}"
 msgstr "在{platform}上找不到{user}的{game}数据"
 
+msgid "Not tagging any groups in this event."
+msgstr "在此事件中不标记任何分组。"
+
+msgid "Only the event owner ({owner_name}) can cancel this event."
+msgstr "只有活动所有者({owner_name})可以取消此事件。"
+
+msgid "Platform invalid, valid platforms: {platforms}"
+msgstr "平台无效，有效的平台：{platforms}"
+
+msgid "Player {account} not found"
+msgstr "未找到玩家{account}"
+
+msgid "Player {user} (aka {nickname}) has no stats for season {season}."
+msgstr "玩家{user}(aka {nickname})没有{season}的赛季统计数据。"
+
+msgid "Please answer the following questions:"
+msgstr "请回答以下问题："
+
+msgid "Please enter your account name for {class_name}:"
+msgstr "请输入{class_name}的帐户名称："
+
 msgid "Please enter your {game} account name:"
-msgstr "请输入你的{game}帐号"
+msgstr "请输入您的{game}帐户名称："
 
 msgid "Portal code"
-msgstr "入口码"
+msgstr "代码"
+
+msgid "Prestige role reset cancelled."
+msgstr "Prestige身份重置已取消。"
+
+msgid "Prestige roles not setup for {guild}, game: {game}, stat: {stat}"
+msgstr "身份未设置为{guild}，游戏：{game}，stat：{stat}"
+
+msgid "Prestige setup cancelled."
+msgstr "设置已取消。"
+
+msgid "Prestige setup complete."
+msgstr "设置完成。"
+
+msgid "Profile NOT removed."
+msgstr "配置文件未删除。"
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
-"创建个人资料。若要添加帐户，请使用{prefix}添加<account>\n"
+"已创建配置文件。若要添加帐户，请使用{prefix}add <account>\n"
 "支持的帐户：{accounts}"
 
+msgid "Profile not found."
+msgstr "找不到配置文件。"
+
+msgid "Profile successfully deleted."
+msgstr "配置文件已成功删除。"
+
+msgid "Registering Ark server {ip}:{port} for this server"
+msgstr "为这个服务器注册方舟服务器 {ip}:{port}"
+
+msgid "Removed group {role}"
+msgstr "已删除身份分组 {role}"
+
+msgid "Removed prestige for {game}, {stat_name}"
+msgstr "删除了{game}，{stat_name}的声望"
+
+msgid "Request accepted"
+msgstr "请求已被接受"
+
+msgid "Request accepted. Adding to {name}"
+msgstr "请求已被接受。添加到{name}"
+
+msgid "Request declined"
+msgstr "请求被拒绝"
+
+msgid "Requesting permission from {name}"
+msgstr "请求{name}的许可"
+
+msgid "Resetting Prestige roles..."
+msgstr "重置身份声望……"
+
+msgid "Searching for FC {name} on {server}..."
+msgstr "在{server}上搜索FC {name} ..."
+
+msgid ""
+"Select a stat to base rank on by replying with one from the below list:\n"
+"\n"
+"{games}"
+msgstr ""
+"从下面的列表中选择一个属性作为基础等级：\n"
+"\n"
+"{games}"
+
 msgid "Set language for {guild_name} to {language}"
-msgstr "设定{guild_name}的语言到{language}"
+msgstr "将{guild_name}的语言设置为{language} \n"
+"中文翻译如果有错误，请到官方discord服务器/github 反馈"
 
 msgid "Shows your stats from {game}"
 msgstr "显示{game}的统计信息"
 
+msgid "Sorry I can't find {name} on {server}, are you sure that's correct?"
+msgstr "在{server}上找不到{name}，您确定这是正确的吗？"
+
 msgid "Sorry that account isn't on your profile."
-msgstr "很抱歉,你的个人资料上没有那个账户。"
+msgstr "该帐户不在您的个人资料中。"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
+msgstr ""
+"很抱歉，帐户{account}尚不支持。\n"
+"支持的帐户为{accounts}"
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -109,10 +397,24 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
-"对不起，暂不支持{account}帐户。\n"
+"暂不支持{account}帐户。\n"
 "支持的帐户是{accounts}\n"
 "\n"
 "例如，输入以下内容：**{prefix}add steam**"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {supported_accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+"帐户{account}尚不支持。\n"
+"支持的帐户为{supported_accounts}\n"
+"\n"
+"例如，输入以下内容：**{prefix}add steam**"
+
+msgid "Sorry, I didn't get that. Please try again"
+msgstr "对不起，我没理解。请重试。"
 
 msgid "Supported accounts: {accounts}"
 msgstr "支持的帐户：{accounts}"
@@ -124,88 +426,302 @@ msgstr ""
 "支持的游戏：\n"
 "{games}"
 
+msgid "Tagging the following groups in your event: {groups}"
+msgstr "在事活动中标记以下分组:"
+
+msgid "That emoji was not found. Use your own or pick from {prefix}lfg emojis"
+msgstr "那个emoji没找到。使用您自己的或从 {prefix}lfg emojis中选择"
+
+msgid "That event was not found on this server."
+msgstr "在此服务器上找不到该活动。"
+
+msgid "That group category is already defined for this server."
+msgstr "已为此服务器定义该分组类别。"
+
+msgid "That group is already defined for this server."
+msgstr "已被此服务器定义该分组类别。"
+
+msgid "That is not a valid stat type for {game}."
+msgstr "这不是{game}的有效统计类型。"
+
+msgid "That leaderboard was not found, please try again."
+msgstr "找不到该排行榜，请重试。"
+
+msgid "That match ID does not look valid, please try again."
+msgstr "匹配ID无效，请重试。"
+
+msgid "That time isn't valid, try again."
+msgstr "该时间无效，请重试。"
+
+msgid "That timezone isn't valid, try again."
+msgstr "该时区无效，请重试。"
+
+msgid "That user can no longer be found."
+msgstr "无法再找到该用户。"
+
 msgid "That user hasn't added an account for {game}"
-msgstr "这个帐户没有加入{game}"
+msgstr "该用户尚未为{game}添加帐户"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr "那不是一个有效的选择。你有{tries}更多的尝试。"
+msgstr "那不是一个有效的选择。您有{tries}更多的尝试。"
+
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr "这不是一个有效的答案，请回答 yes or no。"
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr "这不是个有效的平台,你的选择有{platforms}"
+msgstr "平台无效，可选有：{platforms}"
+
+msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
+msgstr "帐户名称不匹配，可能无法使用，请尝试检查大小写。{user}与{account}"
+
+msgid "The available platforms are {platforms}"
+msgstr "可用的平台是{platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr "位置代码的格式必须是HUKYA：XXXX：XXXX：XXXX：XXXX：XXXX 请检查你的代码，然后再试一次。"
+msgstr "位置代码的格式必须是HUKYA：XXXX：XXXX：XXXX：XXXX：XXXX 请检查您的代码，然后重试。"
+
+msgid "The roles format was incorrect, please try again. (Or cancel with x)"
+msgstr "身份格式不正确，请重试。（或者用x取消）"
+
+msgid "The user {user} does not appear valid, please check your profile is not private and try again."
+msgstr "用户{user}似乎无效，请检查您的个人资料不是私密的，然后重试。"
+
+msgid "The user {user} does not have a {game} profile on {platform}."
+msgstr "用户{user}在{platform}上没有{game}个人资料。"
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr "有多个匹配结果，请用正确选项的数量。"
+msgstr "有多个匹配结果，请回复正确选项的数量。"
+
+msgid ""
+"There was an issue processing that command, please try again.\n"
+"If the issue continues please seek help in the support server on the help menu."
+msgstr ""
+"处理该命令时出现问题，请重试。\n"
+"如果问题仍然存在，请在帮助菜单上的支持服务器中寻求帮助。"
+
+msgid "There was an issue retrieving that players stats from the PUBG API. Please try again in a few minutes."
+msgstr "PUBG API检索玩家统计数据时出错。请在几分钟后再试。"
+
+msgid "There was an issue retrieving your profile from Uplay. Please try again in a few minutes."
+msgstr "Uplay检索个人资料时出错。请在几分钟后再试。"
+
+msgid "To attend send: {prefix}lfg join {key}"
+msgstr "要参加请发送：{prefix}lfg join {key}"
+
+msgid ""
+"To set up rank roles do {prefix}prestige <game>\n"
+"\n"
+"Supported games:\n"
+"{games}"
+msgstr ""
+"要设置排名身份，请执行：{prefix}prestige <game>\n"
+"\n"
+"支持的游戏：\n"
+"{games}"
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr "当前在{server_count}服务器上玩的顶级{top_count}游戏"
+msgstr "当前在{server_count}个服务器上，游玩人数前{top_count}的游戏"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
-msgstr "当前在{guild_name}中玩的顶级{top_count}游戏"
+msgstr "当前在 {guild_name} 中游玩人数前{top_count}的游戏"
+
+msgid "Tournament number {tournament_number} not found."
+msgstr "找不到编号{Tource_Number}。"
+
+msgid "Un-registering Ark server {}:{} for this server"
+msgstr "取消注册此服务器的方舟服务器 {}:{}"
+
+msgid "Unable to add emoji, duplicate name: {details}"
+msgstr "无法添加emoji，重复名称：{details}"
+
+msgid "Updating {csgo_players_count} steam users found on this server."
+msgstr "更新此服务器上找到的{csgo_players_count}个Steam用户。"
+
+msgid "User {name} not found."
+msgstr "找不到用户{name}。"
+
+msgid "WARNING: This will attempt to remove Discord roles related to this Prestige role, are you sure you want to continue?"
+msgstr "警告：这将尝试删除与此Prestige身份相关的Discord身份，您确定要继续吗？"
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr "警告：你有多个{game}的帐户，你可能要删除一个带有{prefix}的帐户，删除{game_key}，或者用{prefix}主帐户{game_key}"
+msgstr "警告：您有多个{game}帐户，您可能想删除一个{prefix}delete {game_key}，或更改您的主帐户 {prefix}primary {game_key}"
 
 msgid ""
 "What is the location of your NMS home base?\n"
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
 "NMS主基地的位置是什么？\n"
-"若要查找其位置，请放置一个信号助推器，并记下它在你接近时显示的代码，格式为HUKYA：XXXX：XXXX：XXXX：XXXX：XXXX"
+"若要查找其位置，请放置一个信号助推器，并记下它在您接近时显示的代码，格式为HUKYA：XXXX：XXXX：XXXX：XXXX：XXXX"
+
+msgid "What is your character's name?"
+msgstr "您的角色叫什么名字?"
+
+msgid ""
+"What is your steam account? Please reply below.\n"
+"It can be in the form of:\n"
+"Vanity URL (<https://steamcommunity.com/id/name>)\n"
+"Vanity name (name from url above)\n"
+"Profile URL (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+msgstr ""
+"您的Steam帐户是什么？请在下面回复。\n"
+"可以是以下形式：\n"
+"主页网址 (<https://steamcommunity.com/id/name>)\n"
+"用户名 (来自上面的网址最后面的名称)\n"
+"账户网址 (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr "你在什么平台上玩{game}?[{platforms}]"
+msgstr "您在什么平台上玩{game}?[{platforms}]"
+
+msgid "What server is your character on?"
+msgstr "您的角色在哪个服务器上?"
+
+msgid "What time will the event start? (Format: YYYY-MM-DD HH:MM or x to cancel)"
+msgstr "活动什么时候开始？ （格式：YYYY-MM-DD HH:MM (例如 2018-12-22 15:52) 或x取消）"
+
+msgid "What timezone is the event in (e.g. UTC, America/New_York, Europe/London, Asia/Tokyo, Etc/GMT-7)? (x will use the default UTC)"
+msgstr "该活动的时区是什么（例如 e.g. UTC, America/New_York, Europe/London, Asia/Tokyo, Etc/GMT-7）？（回复x将使用默认的UTC时区）"
+
+msgid "Which groups would you like to tag with this event? Select as many as you want then select the tick."
+msgstr "您希望使用此活动标记哪些身份组？ 选择任意多个，然后选择勾选。"
+
+msgid "You are already attending this event."
+msgstr "您已参加此活动。"
+
+msgid "You can't add a profile to {name} because it's a bot"
+msgstr "您无法将个人资料添加到{name}，因为它是一个机器人"
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr "你没有权限更改{guild}的语言。"
+msgstr "您没有权限更改{guild}的语言。"
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr "你似乎没有在PC上玩《彩虹六号：围攻》。通过执行{prefix}来选择添加 PSN/XBL 平台上的《彩虹六号：围攻》"
+msgstr "您似乎没有在PC上玩R6s。通过执行：{prefix}add siege 来选择添加 PSN/XBL 平台上的R6s"
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr "你的个人资料里没有账号，请添加一些！"
+msgstr "您的配置文件中没有任何帐户，请添加一些帐户！"
 
 msgid "You have already registered {account}"
-msgstr "你已经注册了{account}"
+msgstr "您已注册{account}"
 
-msgid "You have not yet set up a profile, do {prefix}profile to get started."
-msgstr "你还没有设置一个配置文件，使用{prefix}配置文件来开始。"
+msgid "You have been removed from {key}."
+msgstr "您已从{key}中删除。"
+
+msgid "You have no groups to tag in your events. Add some with {prefix}lfg groups add"
+msgstr "您的活动中没有要标记的论坛。添加一些：{prefix}lfg groups add"
+
+msgid "You have successfully signed up for {key}."
+msgstr "您已成功注册{key}。"
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr "你需要一个{game}帐号,请输入{prefix}和{game_key}"
+msgstr "您需要为{game}添加帐户，执行：{prefix}add {game_key}"
+
+msgid "You need to add some games, DM me with {prefix}add <account>. See {prefix}accounts for supported accounts."
+msgstr "您需要添加一些游戏，私信我用：prefix}add <account>。 请参阅：{prefix}accounts 以获取支持的帐户。"
+
+msgid "You need {roles} roles, please try again. (Or cancel with x)"
+msgstr "您需要{roles}身份，请重试。（或者用x取消）"
+
+msgid "You took too long to respond, Prestige setup cancelled."
+msgstr "您花了太长时间才回应，Prestige设置被取消了。"
+
+msgid "You took too long to respond, event creation cancelled."
+msgstr "您花了很长时间才回复，取消了活动创建。"
+
+msgid "You took too long to respond, prestige setup cancelled."
+msgstr "您花了很长时间才回应，声望设置被取消了。"
+
+msgid "You were not attending this event."
+msgstr "您没有参加这个活动。"
+
+msgid "Your character is not part of any FC."
+msgstr "您的角色不属于任何FC。"
+
+msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
+msgstr "您的个人资料是私人的，可以在选项-社交下的Overwatch中修改此设置。"
+
+msgid "f disabled on {guild_name}"
+msgstr "f在{guild_name}上禁用"
+
+msgid "f enabled in {guild_name}"
+msgstr "f在{guild_name}中启用"
+
+msgid "f enabled on {guild_name}"
+msgstr "f在{guild_name}上启用"
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr "{channel}已注册{guild}来接收实时匹配更新。"
+msgstr "{guild}中的{channel}已注册接收实时比赛更新。"
 
 msgid "{game} Leaderboard for {guild}"
 msgstr "{guild}的{game}排行榜"
 
 msgid "{game} account not found for {user}"
-msgstr "在{game}找不到帐号{user}"
+msgstr "找不到{user}的{game}帐户"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr "在{platform}上找不到{user}的{game}帐户"
+msgstr "{platform}上找不到{user}的{game}帐户"
+
+msgid "{game} is not currently supported, check back soon."
+msgstr "目前不支持{game}，请稍后再回来查看。"
 
 msgid "{game} live games for {guild}"
 msgstr "{guild}的游戏实况{game}"
 
+msgid "{game} stats not found for {user} on {platform}"
+msgstr "{platform}上找不到{user}的{game}统计信息"
+
 msgid "{guild} unregistered from receiving live match updates."
-msgstr "{guild}未注册，无法接收实时比赛更新。"
+msgstr "{guild}未注册接收实时比赛更新。"
+
+msgid "{language_key} added to list of available languages, which are: [{languages}]"
+msgstr "{language_key}已添加到可用语言列表中，其中包括：[{languages}]"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr "{language_key}已从可用语言中删除，这些语言是：[{languages}]"
-
-msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr "已加入{language}到可用的语言清单,清单：[{languages}]"
+msgstr "{language_key}已从可用语言中删除，这些语言为：[{languages}]"
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr "{language}不是可用的语言: {languages}"
+msgstr "{language}不在可用语言列表中：{languages}"
+
+msgid "{name} declined"
+msgstr "{name}拒绝了"
+
+msgid "{name} does not appear to have any stats available."
+msgstr "{name}没有任何可用的统计信息。"
+
+msgid "{steam_user}'s has no stats available for CSGO"
+msgstr "{steam_user}没有CSGO的统计信息。
+
+msgid "{steam_user}'s profile is private, no stats could be retrieved."
+msgstr "{steam_user}配置文件是私有的，不能检索任何数据。"
+
+msgid "{user} does not does not appear to be a valid Z8Games user."
+msgstr "{user}不是有效的Z8Games用户。"
+
+msgid "{user} does not does not appear to be a valid osu! user."
+msgstr "{user}不是有效的OSU!用户。"
 
 msgid "{user}'s Home Base"
 msgstr "{user}的主页"
 
-#~ msgid "Please enter your account name for {game}:"
-#~ msgstr "请输入你{game}的帐户名称："
+msgid "{user}'s profile set to private. This setting can be modified in Overwatch under Options – Social."
+msgstr "{user}的配置文件设置为私有。此设置可以在“选项-社交”下的“守望先锋”中进行修改。"
 
+#~ msgid "Please enter your account name for {game}:"
+#~ msgstr "请输入您{game}的帐户名称："
+
+#~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+#~ msgstr "**错误**：确保它具有“内嵌链接”权限。"
+
+#~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
+#~ msgstr "你没有设置配置文件，使用 {prefix} 来配置文件。"
+
+#~ msgid "No CSGO players found on this server. Do {prefix}steam first."
+#~ msgstr "在此服务器上找不到CSGO玩家。先执行：{prefix}steam "
+
+#~ msgid "No ranked CSGO players found on this server. Do {prefix}steam first."
+#~ msgstr "在此服务器上找不到CSGO排名的玩家。先执行 {prefix}steam"
+
+#~ msgid "Sorry I can't find {name} on {server}, are you se that's correct?"
+#~ msgstr "在 {server} 上找不到 {name}"
