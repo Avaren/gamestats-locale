@@ -1,17 +1,17 @@
-# Finnish translations for GameStats.
+# Portuguese (Brazil) translations for GameStats.
 # Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-# AsdewQ#0552, 2017.
+# PR#0001, 2017.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GameStats 0.1\n"
+"Project-Id-Version: GameStats 0.2\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
 "POT-Creation-Date: 2018-08-06 22:44+0100\n"
-"PO-Revision-Date: 2017-08-17 02:54+0300\n"
-"Last-Translator: AsdewQ#0552\n"
-"Language: fi\n"
-"Language-Team: fi <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-09 03:54+0000\n"
+"Last-Translator: Pedro Ricardo | PR#0001\n"
+"Language: pt_BR\n"
+"Language-Team: pt <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -22,10 +22,10 @@ msgid "*Warning*: Different spelling of {user}"
 msgstr ""
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr ""
+msgstr "<:nms:346638509114785808>Nenhum Mapa do universo do céu do homem para {guild}"
 
 msgid "A {platforms} account is required to obtain {game} stats"
-msgstr "{platforms}:n käyttäjä on vaadittu saadaksesi {game}:n tilastot"
+msgstr "Uma conta {platforms} é necessária para obter estatísticas do {game}"
 
 msgid "Added group category **{category_name}** to {role_count} roles"
 msgstr ""
@@ -55,7 +55,7 @@ msgid "Are you sure you want to delete your profile?"
 msgstr ""
 
 msgid "Available languages: [{languages}]"
-msgstr "Saatavilla olevat kielet: [{languages}]"
+msgstr "Idiomas disponíveis: [{languages}]"
 
 msgid "Card {card_name} not found."
 msgstr ""
@@ -64,13 +64,16 @@ msgid "Character not found."
 msgstr ""
 
 msgid "Check your DMs"
-msgstr "Lue yksityisviestisi!"
+msgstr "Verifique seu DM"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
 "\n"
 "{groups}"
 msgstr ""
+"Clique nos ícones abaixo para participar ou sair desse grupo:\n"
+"\n"
+"{groups}"
 
 msgid "Compiling stats of {number} players..."
 msgstr ""
@@ -88,10 +91,10 @@ msgid "Describe your event in more detail: (Optional, enter x to skip)"
 msgstr ""
 
 msgid "Distance between {user1} and {user2}: {dist}ly"
-msgstr ""
+msgstr "Distância entre {user1} e {user2}: {dist} ly"
 
 msgid "Distance to center"
-msgstr ""
+msgstr "Distância ao centro"
 
 msgid "Event can't end before it starts, try again."
 msgstr ""
@@ -118,7 +121,7 @@ msgid "Event {event_name} cancelled"
 msgstr ""
 
 msgid "Files for {language_key} not found"
-msgstr "Tiedostoja {language_key}:lle ei löytynyt"
+msgstr "Os Arquivos para {language_key} não foram encontrado"
 
 msgid ""
 "For this stat please reply with a list of number -> role - one on each line.\n"
@@ -141,25 +144,25 @@ msgid "I attempted to DM you further questions to create your event but failed. 
 msgstr ""
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
-msgstr "Yritin lähettää sinulle yksityisviestin, mutta sinulla on yksityisviestit pois päältä, lähetä minulle tuo komento."
+msgstr "{mencionar} tentei enviar um DM pra você , mas você está com o DM desativado, por favor me mande esse comando."
 
 msgid "I'm missing permissions to grant the role {role} to {name}. Please check that I have the Manage Roles permission and {role} is below me in the role list."
 msgstr ""
 
 msgid "Languages reloaded"
-msgstr "Kielet ladattu"
+msgstr "Idiomas recarregados"
 
 msgid "Location"
-msgstr ""
+msgstr "Localização"
 
 msgid "Looking up {game} account for {user} on {platform}."
 msgstr ""
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr "Tarkistetaan {user} pelissä {game} {platform}:ssä..."
+msgstr "Olhando para {user} no {game} na {platform}..."
 
 msgid "Looking up {user} on {game}..."
-msgstr "Tarkistetaan {user} pelissä {game}..."
+msgstr "Olhando para {user} no {game}.."
 
 msgid "Name your event: (Enter x to cancel)"
 msgstr ""
@@ -210,7 +213,7 @@ msgid "No events for this server."
 msgstr ""
 
 msgid "No games currently being played."
-msgstr ""
+msgstr "Nenhum jogo em reprodução atualmente"
 
 msgid "No group categories defined for this server."
 msgstr ""
@@ -255,7 +258,7 @@ msgid "No recent trophies found for {account}"
 msgstr ""
 
 msgid "No response from user."
-msgstr "Ei vastausta käyttäjältä."
+msgstr "Não obtive nenhuma resposta do usuário"
 
 msgid "No season information found for {name} on {platform} {region}"
 msgstr ""
@@ -264,10 +267,10 @@ msgid "No trophy cabinet found for {account}"
 msgstr ""
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr "{game} pelaajia ei löytynyt tällä palvelimella. Tee {prefix}{game_key} ensin."
+msgstr "Nenhum jogador de {game} foi encontrado neste servidor. Use {prefix}{game_key}!"
 
 msgid "No {game} stats found for {user} on {platform}"
-msgstr ""
+msgstr "Nenhuma estatística do {game} foi encontrada para o {user} na {platform}"
 
 msgid "Not tagging any groups in this event."
 msgstr ""
@@ -291,10 +294,10 @@ msgid "Please enter your account name for {class_name}:"
 msgstr ""
 
 msgid "Please enter your {game} account name:"
-msgstr "Kerro sinun {game}:n käyttäjän nimi:"
+msgstr "Por favor insira o nome da conta do seu {game}:"
 
 msgid "Portal code"
-msgstr ""
+msgstr "Portal code"
 
 msgid "Prestige role reset cancelled."
 msgstr ""
@@ -315,8 +318,8 @@ msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
-"Profiili luotu. Lisää käyttäjiä ajamalla komento {prefix}add <käyttäjä>\n"
-"Tuetut käyttäjät: {accounts}"
+"Perfil criado com sucesso! Para adicionar contas, use {prefix}add <conta>\n"
+"Contas suportadas: {accounts}"
 
 msgid "Profile not found."
 msgstr ""
@@ -358,16 +361,16 @@ msgid ""
 msgstr ""
 
 msgid "Set language for {guild_name} to {language}"
-msgstr "Aseta kieli {language} palvelimelle {guild_name}"
+msgstr "Definir idioma de {guild_name} para {language}"
 
 msgid "Shows your stats from {game}"
-msgstr "Näytä tilastosi pelistä {game}"
+msgstr "Mostra suas estatísticas de {game}"
 
 msgid "Sorry I can't find {name} on {server}, are you sure that's correct?"
 msgstr ""
 
 msgid "Sorry that account isn't on your profile."
-msgstr "Tuota käyttäjää ei ole profiilissasi"
+msgstr "Desculpe, essa conta não está no seu perfil"
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -380,10 +383,10 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
-"Käyttäjää {account} ei vielä tueta.\n"
-"Tuetut käyttäjät ovat {accounts}\n"
+"Desculpe, a conta {account} ainda não é suportada.\n"
+"As contas suportadas são {account}\n"
 "\n"
-"Esimerkiksi aja komento **{prefix}add steam**"
+"Por exemplo, digite o seguinte: ** {prefix} adicionar vapor **"
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -396,13 +399,13 @@ msgid "Sorry, I didn't get that. Please try again"
 msgstr ""
 
 msgid "Supported accounts: {accounts}"
-msgstr "Tuetut käyttäjät: {accounts}"
+msgstr "Contas suportadas: {accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
-"Tuetut pelit:\n"
+"Jogos suportados:\n"
 "{games}"
 
 msgid "Tagging the following groups in your event: {groups}"
@@ -439,16 +442,16 @@ msgid "That user can no longer be found."
 msgstr ""
 
 msgid "That user hasn't added an account for {game}"
-msgstr "Tuo käyttäjä ei ole lisännyt käyttäjää pelille {game}"
+msgstr "Esse usuário não adicionou uma conta para {game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr "Tuo ei ole vaihtoehto. Sinulla on {tries} yritystä jäljellä."
+msgstr "Essa não foi uma escolha válida. Você tem mais {tries} tentativas."
 
 msgid "That wasn't a valid answer, please answer yes or no."
 msgstr ""
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr "Tuo ei ole tuettu alusta, vaihtoehdot ovat: {platforms}"
+msgstr "Essa não é uma plataforma válida, as opções são: {platforms}"
 
 msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
 msgstr ""
@@ -457,7 +460,7 @@ msgid "The available platforms are {platforms}"
 msgstr ""
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
-msgstr ""
+msgstr "O código de localização deve estar no formato HUKYA:XXXX:XXXX:XXXX:XXXX Verifique o seu código e tente novamente."
 
 msgid "The roles format was incorrect, please try again. (Or cancel with x)"
 msgstr ""
@@ -469,7 +472,7 @@ msgid "The user {user} does not have a {game} profile on {platform}."
 msgstr ""
 
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
-msgstr "Monia vaihtoehtoja löytyi. Tarkenna lähettämällä oikean numero"
+msgstr "Existem várias combinações. Por favor, esclareça respondendo com o número correto da escolha?"
 
 msgid ""
 "There was an issue processing that command, please try again.\n"
@@ -493,10 +496,10 @@ msgid ""
 msgstr ""
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr "Top {top_count} pelit joita tällä hetkellä pelataan {server_count}:ssa palvelimessa"
+msgstr "Os jogos Top {top_count} atualmente sendo jogados {server_count} em servidores"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
-msgstr ""
+msgstr "Os jogos Top {top_count} atualmente sendo jogados em {guild_name}"
 
 msgid "Tournament number {tournament_number} not found."
 msgstr ""
@@ -517,12 +520,14 @@ msgid "WARNING: This will attempt to remove Discord roles related to this Presti
 msgstr ""
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr "Varoitus: Sinulla on monia käyttäjiä peliin {game}, haluat ehkä poistaa yhden {prefix}delete {game_key}:llä tai vaihtaa pääkäyttäjäsi {prefix}primary {game_key}:llä"
+msgstr "Aviso: você tem várias contas para {game}, você pode querer excluir um com {prefix}delete {game_key} ou alterar sua conta principal com {prefix}primary {game_key}"
 
 msgid ""
 "What is the location of your NMS home base?\n"
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
+"Qual é a localização da base de NMS?\n"
+"Para encontrar a sua localização, coloque um Signal Booster e anote o código que mostra quando chegar perto, no formato HUKYA:XXXX:XXXX:XXXX:XXXX"
 
 msgid "What is your character's name?"
 msgstr ""
@@ -538,7 +543,7 @@ msgid ""
 msgstr ""
 
 msgid "What platform do you play {game} on? [{platforms}]"
-msgstr "Millä alustalla pelaat peliä {game}? [{platforms}]"
+msgstr "Em que plataforma você joga {game} em? [{platforms}]"
 
 msgid "What server is your character on?"
 msgstr ""
@@ -559,16 +564,16 @@ msgid "You can't add a profile to {name} because it's a bot"
 msgstr ""
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr "Sinulla ei ole oikeutta vaihtaa kieltä palvelimessa {guild}"
+msgstr "Você não tem permissão para alterar o idioma em {guild}"
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr "Sinä et näytä pelaavan Siegeä PC:llä. Valitse PSN/XBL ajamalla komento {prefix}add siege"
+msgstr "Você não parece jogar o Siege no PC. Selecione `PSN` ou `XBL` usando o comando {prefix}add siege"
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr "Sinulla ei ole käyttäjiä profiilissasi, lisää muutama!"
+msgstr "Você não tem nenhuma conta no seu perfil, adicione alguns!"
 
 msgid "You have already registered {account}"
-msgstr "Sinä olet jo rekisteröinyt käyttäjän {account}"
+msgstr "Você já registrou {account}"
 
 msgid "You have been removed from {key}."
 msgstr ""
@@ -580,7 +585,7 @@ msgid "You have successfully signed up for {key}."
 msgstr ""
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
-msgstr "Sinun pitää listätä käyttäjä peliin {game}, aja komento {prefix}add {game_key}"
+msgstr "Você precisa adicionar uma conta para o jogo {game}, usando o comando {prefix}add {game_key}"
 
 msgid "You need to add some games, DM me with {prefix}add <account>. See {prefix}accounts for supported accounts."
 msgstr ""
@@ -616,37 +621,37 @@ msgid "f enabled on {guild_name}"
 msgstr ""
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr ""
+msgstr "O canal {channel} no servidor {guild} foi registrado para recebe atualizações ao vivo."
 
 msgid "{game} Leaderboard for {guild}"
-msgstr "{game} Parhaat pelaajat palvelimesa {guild}"
+msgstr "{game} Leaderboard para {guild}"
 
 msgid "{game} account not found for {user}"
-msgstr "{game}:n käyttäjää ei löydetty käyttäjälle {user}"
+msgstr "{game} conta não encontrada para {user}"
 
 msgid "{game} account not found for {user} on {platform}"
-msgstr "{game}:n käyttäjää ei löydetty käyttäjältä {user} alustalla {platform}"
+msgstr "A conta no {game} do {user} não foi encontrada no {platform}"
 
 msgid "{game} is not currently supported, check back soon."
 msgstr ""
 
 msgid "{game} live games for {guild}"
-msgstr ""
+msgstr "{game} jogos ao vivo para {guild}"
 
 msgid "{game} stats not found for {user} on {platform}"
 msgstr ""
 
 msgid "{guild} unregistered from receiving live match updates."
-msgstr ""
+msgstr "{guild} não registrado de receber atualizações ao vivo"
 
 msgid "{language_key} added to list of available languages, which are: [{languages}]"
-msgstr "{language} lisätty saatavilla oleviin kieliin, jotka ovat: [{languages}]"
+msgstr "{language} adicionado à lista de idiomas disponíveis, que são: [{languages}]"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr "{language_key} poistettu saatavilla olevista kielistä, jotka ovat: [{languages}]"
+msgstr ""
 
 msgid "{language} not in list of available languages: {languages}"
-msgstr "{language} ei ole saatavilla olevissa kielissä: {languages}"
+msgstr "{language} não na lista de idiomas disponíveis: {languages}"
 
 msgid "{name} declined"
 msgstr ""
@@ -667,19 +672,19 @@ msgid "{user} does not does not appear to be a valid osu! user."
 msgstr ""
 
 msgid "{user}'s Home Base"
-msgstr ""
+msgstr "{user}'s Home Base"
 
 msgid "{user}'s profile set to private. This setting can be modified in Overwatch under Options – Social."
 msgstr ""
 
-#~ msgid "Please enter your account name for {game}:"
-#~ msgstr "Kerro sinun pelinimesi pelissä {game}:"
-
 #~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-#~ msgstr "**VIRHE**: Tämä botti tarvitsee oikeuden lähettää upotuksia (embedejä), varmistathan että  tällä botilla on oikeus 'Embed Links'"
+#~ msgstr "**Algo deu errado!**: O bot precisa da permissão de incorporação, certifique-se de liberar a permissão 'Incorporar Links'."
 
 #~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
-#~ msgstr "Sinulla ei vielä ole profiilia, aja komento {prefix}profile aloittaaksesi."
+#~ msgstr "Ainda não configurou um perfil, faça o {prefix}profile para começar."
+
+#~ msgid "{guild}{language_key} removed from available languages, which are: [{languages}]"
+#~ msgstr "{guild}{language_key} removido dos idiomas disponíveis, que são: [{languages}]"
 
 #~ msgid "No CSGO players found on this server. Do {prefix}steam first."
 #~ msgstr ""

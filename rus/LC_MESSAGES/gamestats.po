@@ -1,102 +1,383 @@
 # Russian (Russia) translations for GameStats.
-# Copyright (C) 2017 GameStats
+# Copyright (C) 2018 GameStats
 # This file is distributed under the same license as the GameStats project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# Avaren#9383, 2017.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: GameStats 0.2\n"
 "Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
-"POT-Creation-Date: 2017-12-16 01:07+0000\n"
+"POT-Creation-Date: 2018-08-06 22:44+0100\n"
 "PO-Revision-Date: 2017-12-16 01:18+0000\n"
-"Last-Translator: Avaren#9383\n"
+"Last-Translator: ViChyavIn#0299\n"
 "Language: ru_RU\n"
 "Language-Team: ru_RU <LL@li.org>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.1\n"
+"Generated-By: Babel 2.6.0\n"
 
-msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
-msgstr ""
+msgid "*Warning*: Different spelling of {user}"
+msgstr "*Внимание*: никнейм , который вы ввели ({user}) может не совпадать с тем, что используется в игре"
 
 msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
-msgstr ""
+msgstr "Карта Вселенной <:nms:346638509114785808>No Man's Sky для {guild}"
 
 msgid "A {platforms} account is required to obtain {game} stats"
+msgstr "Чтобы получить игровую статистику по {game}, вам нужно иметь аккаунт в {platforms}"
+
+msgid "Added group category **{category_name}** to {role_count} roles"
+msgstr ""
+
+msgid "Added group category **{name}**: {description}"
+msgstr ""
+
+msgid "Added group {role}"
+msgstr ""
+
+msgid "Added {account}"
+msgstr ""
+
+msgid "Adding ARK chat"
+msgstr ""
+
+msgid "Adding you to group {role}"
+msgstr ""
+
+msgid "Adding {account} for {name}"
+msgstr ""
+
+msgid "Are you sure you want to cancel the event {event_name}? (yes or no)"
+msgstr ""
+
+msgid "Are you sure you want to delete your profile?"
 msgstr ""
 
 msgid "Available languages: [{languages}]"
+msgstr "Доступные языки: [{languages}]"
+
+msgid "Card {card_name} not found."
+msgstr ""
+
+msgid "Character not found."
 msgstr ""
 
 msgid "Check your DMs"
-msgstr ""
+msgstr "Проверьте свои личные сообщения"
 
 msgid ""
 "Click the below icons to join/leave that group:\n"
 "\n"
 "{groups}"
 msgstr ""
+"Нажмите на иконку снизу, чтобы вступить или покинуть группу:\n"
+"\n"
+"{groups}"
 
-msgid "Distance between {user1} and {user2}: {dist}ly"
+msgid "Compiling stats of {number} players..."
 msgstr ""
 
+msgid "Completed reset of {game}, {stat_name}"
+msgstr ""
+
+msgid "Could not find {user} on {server}, please try again"
+msgstr ""
+
+msgid "Default FC for this server registered as {name} on {server}"
+msgstr ""
+
+msgid "Describe your event in more detail: (Optional, enter x to skip)"
+msgstr ""
+
+msgid "Distance between {user1} and {user2}: {dist}ly"
+msgstr "Расстояние между {user1} и {user2}: {dist}"
+
 msgid "Distance to center"
+msgstr "Расстояние до центра"
+
+msgid "Event can't end before it starts, try again."
+msgstr ""
+
+msgid "Event can't start before now, try again."
+msgstr ""
+
+msgid "Event creation cancelled."
+msgstr ""
+
+msgid "Event creation continuing via DM."
+msgstr ""
+
+msgid "Event name limited to 64 characters, try again."
+msgstr ""
+
+msgid "Event not cancelled."
+msgstr ""
+
+msgid "Event not found on this server."
+msgstr ""
+
+msgid "Event {event_name} cancelled"
 msgstr ""
 
 msgid "Files for {language_key} not found"
+msgstr "Файлы для {language_key} не найдены"
+
+msgid ""
+"For this stat please reply with a list of number -> role - one on each line.\n"
+"For example:\n"
+"\n"
+"1000 @Best Rank\n"
+"500 Nearly Best\n"
+"100 Newbie"
+msgstr ""
+
+msgid ""
+"For this stat please reply with a list of roles - one on each line.\n"
+"You need one role for each of these: {roles}"
+msgstr ""
+
+msgid "Hero {hero_name} not found."
+msgstr ""
+
+msgid "I attempted to DM you further questions to create your event but failed. Try sending me a DM first."
 msgstr ""
 
 msgid "I tried to DM you {mention} but you have DMs disabled, please DM me that command."
+msgstr "{mention}, я не могу отправить вам личное сообщение, так как вы запретили это делать в своих настройках. Пожалуйста, введите ту команду мне  личные сообщения."
+
+msgid "I'm missing permissions to grant the role {role} to {name}. Please check that I have the Manage Roles permission and {role} is below me in the role list."
 msgstr ""
 
 msgid "Languages reloaded"
-msgstr ""
+msgstr "Языки обновлены"
 
 msgid "Location"
-msgstr ""
+msgstr "Расположение"
+
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr "Ищу аккаунт {user} в {game} на {platform}..."
 
 msgid "Looking up {user} on {game} on {platform}..."
-msgstr ""
+msgstr "Ищу {user} в {game} на {platform}..."
 
 msgid "Looking up {user} on {game}..."
+msgstr "Ищу {user} в {game}..."
+
+msgid "Name your event: (Enter x to cancel)"
+msgstr ""
+
+msgid "No ARK server registered for this server"
+msgstr ""
+
+msgid "No ARK server registered for this server. Register with {prefix}ark register <ip> <port>"
+msgstr ""
+
+msgid "No Battlerite profile found for {profile}."
+msgstr ""
+
+msgid "No CSGO players found on this server. Do {prefix}csgo first."
+msgstr ""
+
+msgid "No Crucible history found for {name}"
+msgstr ""
+
+msgid "No Destiny 2 characters found."
+msgstr ""
+
+msgid "No Destiny 2 clan found."
+msgstr ""
+
+msgid "No Destiny 2 players on {platform} found."
+msgstr ""
+
+msgid "No Destiny 2 profile found on {platform}."
+msgstr ""
+
+msgid "No PUBG players found on this server. Do {prefix}pubg first."
+msgstr ""
+
+msgid "No Siege players found on this server. Do {prefix}siege first."
+msgstr ""
+
+msgid "No characters found on that account. Please confirm account and try again."
+msgstr ""
+
+msgid "No completed raids found for {name}"
+msgstr ""
+
+msgid "No data for {name}"
+msgstr ""
+
+msgid "No events for this server."
 msgstr ""
 
 msgid "No games currently being played."
+msgstr "Никакая игра пока не запущена."
+
+msgid "No group categories defined for this server."
+msgstr ""
+
+msgid "No group found for {role}"
+msgstr ""
+
+msgid "No groups defined for this server."
 msgstr ""
 
 msgid "No groups defined on {server}, use {command}"
+msgstr "На {server} не обнаружено ни одной группы; используйте {command}."
+
+msgid "No guilds registered for live Paragon matches"
+msgstr ""
+
+msgid "No matches found. Submit some via {prefix}csgo match <share code>"
+msgstr ""
+
+msgid "No matches recorded."
+msgstr ""
+
+msgid "No operator information found for {name} on {platform} {region}"
+msgstr ""
+
+msgid "No raid history found for {name}"
+msgstr ""
+
+msgid "No ranked CSGO players found on this server. Do {prefix}csgo first."
+msgstr ""
+
+msgid "No rare trophies found for {account}"
+msgstr ""
+
+msgid "No recent matches could be found."
+msgstr ""
+
+msgid "No recent matches found for {account}"
+msgstr ""
+
+msgid "No recent trophies found for {account}"
 msgstr ""
 
 msgid "No response from user."
+msgstr "Нет ответа от пользователя."
+
+msgid "No season information found for {name} on {platform} {region}"
+msgstr ""
+
+msgid "No trophy cabinet found for {account}"
 msgstr ""
 
 msgid "No {game} players found on this server. Do {prefix}{game_key} first."
-msgstr ""
+msgstr "Игроки {game} не найдены на сервере. Введите {prefix}{game_key}, чтобы начать."
 
 msgid "No {game} stats found for {user} on {platform}"
+msgstr "Игровоа статистика для {user} по {game} на {platform} не найдена"
+
+msgid "Not tagging any groups in this event."
+msgstr ""
+
+msgid "Only the event owner ({owner_name}) can cancel this event."
+msgstr ""
+
+msgid "Platform invalid, valid platforms: {platforms}"
+msgstr ""
+
+msgid "Player {account} not found"
+msgstr ""
+
+msgid "Player {user} (aka {nickname}) has no stats for season {season}."
+msgstr ""
+
+msgid "Please answer the following questions:"
+msgstr ""
+
+msgid "Please enter your account name for {class_name}:"
 msgstr ""
 
 msgid "Please enter your {game} account name:"
-msgstr ""
+msgstr "Пожалуйста, введите имя своего {game} аккаунта:"
 
 msgid "Portal code"
+msgstr "Код портала"
+
+msgid "Prestige role reset cancelled."
+msgstr ""
+
+msgid "Prestige roles not setup for {guild}, game: {game}, stat: {stat}"
+msgstr ""
+
+msgid "Prestige setup cancelled."
+msgstr ""
+
+msgid "Prestige setup complete."
+msgstr ""
+
+msgid "Profile NOT removed."
 msgstr ""
 
 msgid ""
 "Profile created. To add accounts use {prefix}add <account>\n"
 "Supported accounts: {accounts}"
 msgstr ""
+"Профиль создан успешно! Чтобы добавить аккаунт, введите {prefix}add <account>\n"
+"Поддерживаемые аккаунты: {accounts}"
 
-msgid "Set language for {guild_name} to {language}"
+msgid "Profile not found."
 msgstr ""
 
+msgid "Profile successfully deleted."
+msgstr ""
+
+msgid "Registering Ark server {ip}:{port} for this server"
+msgstr ""
+
+msgid "Removed group {role}"
+msgstr ""
+
+msgid "Removed prestige for {game}, {stat_name}"
+msgstr ""
+
+msgid "Request accepted"
+msgstr "Запрос принят"
+
+msgid "Request accepted. Adding to {name}"
+msgstr "Запрос принят. Идёт добавление к {name}..."
+
+msgid "Request declined"
+msgstr "Запрос отклонён."
+
+msgid "Requesting permission from {name}"
+msgstr "Запрос разрешения от {name}..."
+
+msgid "Resetting Prestige roles..."
+msgstr ""
+
+msgid "Searching for FC {name} on {server}..."
+msgstr ""
+
+msgid ""
+"Select a stat to base rank on by replying with one from the below list:\n"
+"\n"
+"{games}"
+msgstr ""
+
+msgid "Set language for {guild_name} to {language}"
+msgstr "Установить язык для {guild_name} на {language}"
+
 msgid "Shows your stats from {game}"
+msgstr "Показать статистику по {game}"
+
+msgid "Sorry I can't find {name} on {server}, are you sure that's correct?"
 msgstr ""
 
 msgid "Sorry that account isn't on your profile."
+msgstr "Извините, этот аккаунт не подключён к вашему профилю."
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
 msgstr ""
+"Извините, аккаунт {account} пока не поддерживается.\n"
+"Взгляните на список поддерживаемых: {accounts}"
 
 msgid ""
 "Sorry the account {account} is not supported yet.\n"
@@ -104,92 +385,311 @@ msgid ""
 "\n"
 "For example enter the following: **{prefix}add steam**"
 msgstr ""
+"Извините, аккаунт {account} пока не поддерживается.\n"
+"Взгляните на список поддерживаемых: {accounts}\n"
+"Или, например, введите следующее: **{prefix}add steam**"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {supported_accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+
+msgid "Sorry, I didn't get that. Please try again"
+msgstr ""
 
 msgid "Supported accounts: {accounts}"
-msgstr ""
+msgstr "Поддерживаемые аккаунты: {accounts}"
 
 msgid ""
 "Supported games:\n"
 "{games}"
 msgstr ""
+"Поддерживаемые игры:\n"
+"{games}"
+
+msgid "Tagging the following groups in your event: {groups}"
+msgstr ""
+
+msgid "That emoji was not found. Use your own or pick from {prefix}lfg emojis"
+msgstr ""
+
+msgid "That event was not found on this server."
+msgstr ""
+
+msgid "That group category is already defined for this server."
+msgstr ""
+
+msgid "That group is already defined for this server."
+msgstr ""
+
+msgid "That is not a valid stat type for {game}."
+msgstr ""
+
+msgid "That leaderboard was not found, please try again."
+msgstr ""
+
+msgid "That match ID does not look valid, please try again."
+msgstr ""
+
+msgid "That time isn't valid, try again."
+msgstr ""
+
+msgid "That timezone isn't valid, try again."
+msgstr ""
+
+msgid "That user can no longer be found."
+msgstr ""
 
 msgid "That user hasn't added an account for {game}"
-msgstr ""
+msgstr "Этот пользователь пока не добавил аккаунт для {game}"
 
 msgid "That was not a valid choice. You have {tries} more tries."
-msgstr ""
+msgstr "Неверный выбор! У вас осталось {tries} попыток."
+
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr "Неверный ответ! Пожалуйста, ответьте \"да\" или \"нет\"."
 
 msgid "That's not a valid platform, the options are: {platforms}"
-msgstr ""
+msgstr "Неверная платформа! Доступные платформы: {platforms}"
+
+msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
+msgstr "Имена введённых аккаунтов ({user} и {account}) не совпадают, что может привести к ошибке. Попробуйте проверить регистр букв"
+
+msgid "The available platforms are {platforms}"
+msgstr "Доступные платформы: {platforms}"
 
 msgid "The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please check your code and try again."
+msgstr "Код местонахождения должен быть записан в следующем формате: HUKYA:XXXX:XXXX:XXXX:XXXX. Пожалуйста, проверьте свой код и попробуйте снова."
+
+msgid "The roles format was incorrect, please try again. (Or cancel with x)"
 msgstr ""
 
+msgid "The user {user} does not appear valid, please check your profile is not private and try again."
+msgstr ""
+
+msgid "The user {user} does not have a {game} profile on {platform}."
+msgstr "У пользователя {user} нет в наличии {game} на {platform}."
+
 msgid "There are multiple matches. Please clarify by replying with the number of the correct choice?"
+msgstr "Обнаружено сразу несколько совпадений! Пожалуйста, уточните свой выбор, отправив правильный номер."
+
+msgid ""
+"There was an issue processing that command, please try again.\n"
+"If the issue continues please seek help in the support server on the help menu."
+msgstr ""
+
+msgid "There was an issue retrieving that players stats from the PUBG API. Please try again in a few minutes."
+msgstr ""
+
+msgid "There was an issue retrieving your profile from Uplay. Please try again in a few minutes."
+msgstr ""
+
+msgid "To attend send: {prefix}lfg join {key}"
+msgstr ""
+
+msgid ""
+"To set up rank roles do {prefix}prestige <game>\n"
+"\n"
+"Supported games:\n"
+"{games}"
 msgstr ""
 
 msgid "Top {top_count} games currently being played across {server_count} servers"
-msgstr ""
+msgstr "Топ-{top_count} игр сейчас играют на {server_count} серверах"
 
 msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr "Топ-{top_count} игр сейчас играют в {guild_name}"
+
+msgid "Tournament number {tournament_number} not found."
+msgstr ""
+
+msgid "Un-registering Ark server {}:{} for this server"
+msgstr ""
+
+msgid "Unable to add emoji, duplicate name: {details}"
+msgstr ""
+
+msgid "Updating {csgo_players_count} steam users found on this server."
+msgstr ""
+
+msgid "User {name} not found."
+msgstr ""
+
+msgid "WARNING: This will attempt to remove Discord roles related to this Prestige role, are you sure you want to continue?"
 msgstr ""
 
 msgid "Warning: You have multiple accounts for {game} you might want to delete one with {prefix}delete {game_key} or change your primary account with {prefix}primary {game_key}"
-msgstr ""
+msgstr "*Внимание*: кажется, у вас есть сразу несколько аккаунтов для {game}. Вы можете удалить аккаунт командой {prefix}delete {game_key} или сменить свой основной {prefix}primary {game_key}."
 
 msgid ""
 "What is the location of your NMS home base?\n"
 "To find its location, place a Signal Booster and note down the code it shows when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
 msgstr ""
+"Какого местопо��ожение вашей базы в No Man's Sky?\n"
+"Чтобы узнать своё местоположение, установите Усилитель Сигнала и запишите код, который он выдаёт при вашем приближении, в следующем формате: HUKYA:XXXX:XXXX:XXXX:XXXX."
+
+msgid "What is your character's name?"
+msgstr ""
+
+msgid ""
+"What is your steam account? Please reply below.\n"
+"It can be in the form of:\n"
+"Vanity URL (<https://steamcommunity.com/id/name>)\n"
+"Vanity name (name from url above)\n"
+"Profile URL (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+msgstr ""
 
 msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "На какой платформе вы играете в {game}? [{platforms}]"
+
+msgid "What server is your character on?"
+msgstr ""
+
+msgid "What time will the event start? (Format: YYYY-MM-DD HH:MM or x to cancel)"
+msgstr ""
+
+msgid "What timezone is the event in (e.g. UTC, America/New_York, Europe/London, Asia/Tokyo, Etc/GMT-7)? (x will use the default UTC)"
+msgstr ""
+
+msgid "Which groups would you like to tag with this event? Select as many as you want then select the tick."
+msgstr ""
+
+msgid "You are already attending this event."
+msgstr ""
+
+msgid "You can't add a profile to {name} because it's a bot"
 msgstr ""
 
 msgid "You do not have permission to change the language on {guild}."
-msgstr ""
+msgstr "У вас не разрешения менять язык в {guild}."
 
 msgid "You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add siege"
-msgstr ""
+msgstr "Кажется, вы не играете в Siege на ПК. Выберите PSN или XBL аккаунт командой {prefix}add siege."
 
 msgid "You don't have any accounts on your profile, add some!"
-msgstr ""
+msgstr "В вашем профиле нет аккаунтов. Так добавьте их!"
 
 msgid "You have already registered {account}"
+msgstr "Вы уже зарегистрировали {account}"
+
+msgid "You have been removed from {key}."
 msgstr ""
 
-msgid "You have not yet set up a profile, do {prefix}profile to get started."
+msgid "You have no groups to tag in your events. Add some with {prefix}lfg groups add"
+msgstr ""
+
+msgid "You have successfully signed up for {key}."
 msgstr ""
 
 msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr "Чтобы добавить аккаунт для {game}, введите {prefix}add {game_key}"
+
+msgid "You need to add some games, DM me with {prefix}add <account>. See {prefix}accounts for supported accounts."
+msgstr ""
+
+msgid "You need {roles} roles, please try again. (Or cancel with x)"
+msgstr ""
+
+msgid "You took too long to respond, Prestige setup cancelled."
+msgstr ""
+
+msgid "You took too long to respond, event creation cancelled."
+msgstr ""
+
+msgid "You took too long to respond, prestige setup cancelled."
+msgstr ""
+
+msgid "You were not attending this event."
+msgstr ""
+
+msgid "Your character is not part of any FC."
+msgstr ""
+
+msgid "Your profile is private. This setting can be modified in Overwatch under Options – Social."
+msgstr ""
+
+msgid "f disabled on {guild_name}"
+msgstr ""
+
+msgid "f enabled in {guild_name}"
+msgstr ""
+
+msgid "f enabled on {guild_name}"
 msgstr ""
 
 msgid "{channel} in {guild} registered to receive live match updates."
-msgstr ""
+msgstr "{channel} в {guild}."
 
 msgid "{game} Leaderboard for {guild}"
-msgstr ""
+msgstr "Таблица Лидеров по {game} для {guild}"
 
 msgid "{game} account not found for {user}"
-msgstr ""
+msgstr "Аккаунта {user} по {game} не обнаружено"
 
 msgid "{game} account not found for {user} on {platform}"
+msgstr "Аккаунт {user} для {game} не обнаружен на {platform}"
+
+msgid "{game} is not currently supported, check back soon."
 msgstr ""
 
 msgid "{game} live games for {guild}"
+msgstr "Игровые сеансы по {game} для {guild}"
+
+msgid "{game} stats not found for {user} on {platform}"
 msgstr ""
 
 msgid "{guild} unregistered from receiving live match updates."
-msgstr ""
+msgstr "Теперь {guild} не будет получать обновления о матчах."
+
+msgid "{language_key} added to list of available languages, which are: [{languages}]"
+msgstr "{language_key} добавлен в список доступных языков: [{languages}]"
 
 msgid "{language_key} removed from available languages, which are: [{languages}]"
-msgstr ""
-
-msgid "{language} added to list of available languages, which are: [{languages}]"
-msgstr ""
+msgstr "{language_key} удалён из списка доступных языков: [{languages}]"
 
 msgid "{language} not in list of available languages: {languages}"
+msgstr "{language} не найден в списке доступных языков. Взгляните на список доступных: {languages}"
+
+msgid "{name} declined"
+msgstr "{name} отменил запрос"
+
+msgid "{name} does not appear to have any stats available."
+msgstr ""
+
+msgid "{steam_user}'s has no stats available for CSGO"
+msgstr ""
+
+msgid "{steam_user}'s profile is private, no stats could be retrieved."
+msgstr ""
+
+msgid "{user} does not does not appear to be a valid Z8Games user."
+msgstr ""
+
+msgid "{user} does not does not appear to be a valid osu! user."
 msgstr ""
 
 msgid "{user}'s Home Base"
+msgstr "База {user}"
+
+msgid "{user}'s profile set to private. This setting can be modified in Overwatch under Options – Social."
 msgstr ""
+
+#~ msgid "**ERROR**: The bot requires the ability to embed, make sure it has the 'Embed Links' permission."
+#~ msgstr "*Внимание*: бот требует разрешения на отправку ссылок! Удостоверьтесь, что данное разрешение установлено."
+
+#~ msgid "You have not yet set up a profile, do {prefix}profile to get started."
+#~ msgstr "Вы ещё не установили профиль. Установите его с помощью команды {prefix}profile."
+
+#~ msgid "No CSGO players found on this server. Do {prefix}steam first."
+#~ msgstr ""
+
+#~ msgid "No ranked CSGO players found on this server. Do {prefix}steam first."
+#~ msgstr ""
+
+#~ msgid "Sorry I can't find {name} on {server}, are you se that's correct?"
+#~ msgstr ""
 
