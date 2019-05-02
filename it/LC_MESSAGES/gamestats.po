@@ -1,0 +1,1095 @@
+# Translations template for GameStats.
+# Copyright (C) 2019 GameStats
+# This file is distributed under the same license as the GameStats project.
+# Federico Grandi <fgrandi30@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GameStats 0.3\n"
+"Report-Msgid-Bugs-To: https://github.com/Avaren/gamestats-locale\n"
+"POT-Creation-Date: 2018-08-17 12:31+0100\n"
+"PO-Revision-Date: 2019-05-02 22:17+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: Federico Grandi <fgrandi30@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+msgid "*Warning*: Different spelling of {user}"
+msgstr "*Attenzione*: Diversa scrittura di {user}"
+
+msgid "<:nms:346638509114785808>No Man's Sky Universe Map for {guild}"
+msgstr ""
+"<:nms:346638509114785808>Mappa dell'universo di No Man's Sky per {guild}"
+
+msgid "A PSN or Epic account is required to obtain Paragon stats"
+msgstr ""
+"È necessario un account PSN o Epic per ottenere le statistiche di Paragon"
+
+msgid "A PSN or XBL account is required to obtain Destiny stats"
+msgstr ""
+"È necessario un account PSN o XBL per ottenere le statistiche di Destiny"
+
+msgid "A {platforms} account is required to obtain {game} stats"
+msgstr ""
+"È necessario un account {platforms} per ottenere le statistiche di {game}"
+
+msgid "Added group category **{category_name}** to {role_count} roles"
+msgstr "Aggiunta categoria del gruppo **{category_name}** a {role_count} ruoli"
+
+msgid "Added group category **{name}**: {description}"
+msgstr "Aggiunta categoria del gruppo **{name}**:{description}"
+
+msgid "Added group {role}"
+msgstr "Aggiunto gruppo {role}"
+
+msgid "Added {account}"
+msgstr "Aggiunto {account}"
+
+msgid "Adding ARK chat"
+msgstr "Aggiungendo chat ARK"
+
+msgid "Adding you to group {role}"
+msgstr "Aggiungendo te al gruppo {role}"
+
+msgid "Adding {account} for {name}"
+msgstr "Aggiungendo {account} per {name}"
+
+msgid "Are you sure you want to cancel the event {event_name}? (yes or no)"
+msgstr "Sei sicuro/a di voler cancellar l'evento {event_name}? (yes o no)"
+
+msgid "Are you sure you want to delete your profile?"
+msgstr "Sei sicuro/a di voler eliminare il tuo profilo?"
+
+msgid "Available languages: [{languages}]"
+msgstr "Linguaggi disponibili: [{languages}]"
+
+msgid "Card {card_name} not found."
+msgstr "Carta {card_name} non trovata."
+
+msgid "Character not found."
+msgstr "Personaggio non trovato."
+
+msgid "Check your DMs"
+msgstr "Controlla i tuoi messaggi diretti"
+
+msgid ""
+"Click the below icons to join/leave that group:\n"
+"\n"
+"{groups}"
+msgstr ""
+"Clicca le icone sottostanti per unirti a/lasciare quel gruppo:\n"
+"\n"
+"{groups}"
+
+msgid "Compiling stats of {number} players..."
+msgstr "Compilando le statistiche di {number} giocatori..."
+
+msgid "Completed reset of {game}, {stat_name}"
+msgstr "Completato il reset di {game}, {stat_name}"
+
+msgid "Could not find {user} on {server}, please try again"
+msgstr "Impossibile trovare {user} in {server}, per favore prova ancora"
+
+msgid ""
+"Currently setup Prestige roles for {guild}:\n"
+"{games_n_stats}"
+msgstr ""
+"Ruoli Prestige impostati al momento per {guild}:\n"
+"{games_n_stats}"
+
+msgid "Default FC for this server registered as {name} on {server}"
+msgstr "FC di default per questo server registrato come {name} su {server}"
+
+msgid "Describe your event in more detail: (Optional, enter x to skip)"
+msgstr ""
+"Descrivi il tuo evento in modo più dettagliato: (Opzionale, usa x per "
+"saltare)"
+
+msgid "Distance between {user1} and {user2}: {dist}ly"
+msgstr "Distanza tra {user1} e {user2}: {dist}"
+
+msgid "Distance to center"
+msgstr "Distanza dal centro"
+
+msgid "Do you play Paladins on PC, PSN or XBL?"
+msgstr "Giochi a Paladins su PC, PSN o XBL?"
+
+msgid "Do you play Paragon on PSN or PC?"
+msgstr "Giochi a Paragon su PSN o PC?"
+
+msgid "Do you play Smite on PC, PSN or XBL?"
+msgstr "Giochi a Smite su PC, PSN o XBL?"
+
+msgid "Do you play destiny on PC, PSN or XBL?"
+msgstr "Giochi a Destiny su PC, PSN o XBL?"
+
+msgid "Do you play destiny on PSN or XBL?"
+msgstr "Giochi a Destiny su PSN o XBL?"
+
+msgid "Do you play on PC, PSN or XBL?"
+msgstr "Giochi su PC, PSN o XBL?"
+
+msgid ""
+"ERROR! Unable to DM {user} as they have them disabled. Cancelling account "
+"request."
+msgstr ""
+"ERRORE! Impossibile mandare un messaggio diretto a {user} dato che li ha "
+"disabilitati. Richiesta di account annullata."
+
+msgid "End Time"
+msgstr "Tempo di fine"
+
+msgid "Enter your account name:"
+msgstr "Inserisci il nome del tuo account:"
+
+msgid "Event can't end before it starts, try again."
+msgstr "L'evento non può finire prima di iniziare, riprova."
+
+msgid "Event can't start before now, try again."
+msgstr "L'evento non può partire prima di adesso, riprova."
+
+msgid "Event creation cancelled."
+msgstr "Creazione dell'evento annullata."
+
+msgid "Event creation continuing via DM."
+msgstr "La creazione dell'evento continuerà nei messaggi diretti."
+
+msgid "Event name limited to 64 characters, try again."
+msgstr "Nome dell'evento limitato a 64 caratteri, riprova."
+
+msgid "Event not cancelled."
+msgstr "Event non annullato."
+
+msgid "Event not found on this server."
+msgstr "Evento non trovato su questo server."
+
+msgid "Event {event_name} cancelled"
+msgstr "Evento {event_name} annullato"
+
+msgid "Files for {language_key} not found"
+msgstr "File per {language_key} non trovati"
+
+msgid ""
+"Following characters found, if you are expecting a character and it's not "
+"here trying logging into it:"
+msgstr ""
+"Sono stati trovati i seguenti personaggi, se ti aspetti di vedere un "
+"personaggio che non è qua prova a farci accesso:"
+
+msgid ""
+"For this stat please reply with a list of number -> role - one on each "
+"line.\n"
+"For example:\n"
+"\n"
+"1000 @Best Rank\n"
+"500 Nearly Best\n"
+"100 Newbie"
+msgstr ""
+"Per questa statistica per favore rispondi con una lista di \"numero -> ruolo"
+"\", una per riga.\n"
+"Per esempio:\n"
+"\n"
+"1000 @Miglior Ruolo\n"
+"500 Quasi il Migliore\n"
+"100 Recluta"
+
+msgid ""
+"For this stat please reply with a list of roles - one on each line.\n"
+"You need one role for each of these: {stat_names}"
+msgstr ""
+"Per questa statistica per favore rispondi con una lista di ruoli, uno per "
+"riga.\n"
+"Ti serve un ruolo per ciascuno di questi: {stat_names}"
+
+msgid "Group {role} not found. See {prefix}lfg groups."
+msgstr "Gruppo {role} non trovato. Vedi {prefix}lfg groups."
+
+msgid "Groups"
+msgstr "Gruppi"
+
+msgid "Hero {hero_name} not found."
+msgstr "Eroe {hero_name} non trovato."
+
+msgid ""
+"I attempted to DM you further questions to create your event but failed. Try "
+"sending me a DM first."
+msgstr ""
+"Ho provato a mandarti un messaggio diretto con ulteriori domande per creare "
+"il tuo evento ma non ho potuto. Prova te a mandarmi un messaggio per primo/a."
+
+msgid "I can't assign you {role} as it's higher than my role."
+msgstr "Non posso assegnarti il ruolo {role} dato che è più alto del mio."
+
+msgid ""
+"I tried to DM you {mention} but you have DMs disabled, please DM me that "
+"command."
+msgstr ""
+"Ho provato a mandarti un messaggio diretto {mention} ma li hai disabilitati, "
+"prova a mandarmi un messaggio con quel comando."
+
+msgid ""
+"I'm missing permissions to grant the role {role} to {name}. Please check "
+"that I have the Manage Roles permission and {role} is below me in the role "
+"list."
+msgstr ""
+"Non ho i permessi per dare il ruolo {role} a {name}. Per favore controlla "
+"che io abbia il permesso per gestire i ruoli e che {role} sia sotto di me "
+"nella lista dei ruoli."
+
+msgid "Languages reloaded"
+msgstr "Lingue ricaricate"
+
+msgid "Link not clicked, request cancelled."
+msgstr "Link non cliccato, richiesta annullata."
+
+msgid "Location"
+msgstr "Posizione"
+
+msgid "Looking up Destiny 2 account for {account} on {platform}.."
+msgstr "Cercando account di Destiny 2 per {account} su {platform}..."
+
+msgid "Looking up Destiny account for {account} on {platform}.."
+msgstr "Cercando account di Destiny per {account} su {platform}..."
+
+msgid "Looking up Paragon account for {account} on {platform}.."
+msgstr "Cercando account di Paragon per {account} su {platform}..."
+
+msgid "Looking up Wargaming.net account for {user} on {platform} in {region}.."
+msgstr ""
+"Cercando account di Wargaming.net per {user} su {platform} in {regione}..."
+
+msgid "Looking up {game} account for {user} on {platform}."
+msgstr "Cercando account di {game} per {user} su {platform}."
+
+msgid "Looking up {user} in LoL region {region}..."
+msgstr "Cercando {user} nella regione {region} di LoL..."
+
+msgid "Looking up {user} on Hi-Rez!..."
+msgstr "Cercando {user} su Hi-Rez!..."
+
+msgid "Looking up {user} on PSN..."
+msgstr "Cercando {user} su PSN..."
+
+msgid "Looking up {user} on XBL..."
+msgstr "Cercando {user} su XBL..."
+
+msgid "Looking up {user} on Z8Games!..."
+msgstr "Cercando {user} su Z8Games!..."
+
+msgid "Looking up {user} on osu!..."
+msgstr "Cercando {user} su osu!..."
+
+msgid "Looking up {user} on {game} on {platform}..."
+msgstr "Cercando {user} su {game} su {platform}..."
+
+msgid "Looking up {user} on {game}..."
+msgstr "Cercando {user} su {game}..."
+
+msgid "Name your event: (Enter x to cancel)"
+msgstr "Dai un nome al tuo evento: (Usa x per annullare)"
+
+msgid "New event for {groups} - '{name}' with key {key}"
+msgstr "Nuovo evento per {groups} - '{name}' con key {key}"
+
+msgid "No ARK server registered for this server"
+msgstr "Nessun server ARK registrato per questo server"
+
+msgid ""
+"No ARK server registered for this server. Register with {prefix}ark register "
+"<ip> <port>"
+msgstr ""
+"Nessun server ARK registrato per questo server. Registrane uno con {prefix}"
+"ark register <ip> <porta>"
+
+msgid "No Battlerite profile found for {profile}."
+msgstr "Nessun profilo di Battlerite trovato per {profile}"
+
+msgid "No CSGO players found on this server. Do {prefix}csgo first."
+msgstr ""
+"Nessun giocatore di CSGO trovato su questo server. Prima usa {prefix}csgo."
+
+msgid "No Crucible history found for {name}"
+msgstr "Nessuna cronologia di Crucible trovata per {name}"
+
+msgid "No Destiny 2 characters found."
+msgstr "Nessun personaggio di Destiny 2 trovato."
+
+msgid "No Destiny 2 clan found."
+msgstr "Nessun clan di Destiny 2 trovato."
+
+msgid "No Destiny 2 players on {platform} found."
+msgstr "Nessun giocatore di Destiny 2 su {platform} trovato."
+
+msgid "No Destiny 2 profile found on {platform}."
+msgstr "Nessun profilo di Destiny 2 trovato su {platform}."
+
+msgid "No PUBG players found on this server. Do {prefix}pubg first."
+msgstr ""
+"Nessun giocatore di PUBG trovato su questo server. Prima usa {prefix}pubg."
+
+msgid "No Siege players found on this server. Do {prefix}siege first."
+msgstr ""
+"Nessun giocatore di Siege trovato su questo server. Prima usa {prefix}siege."
+
+msgid "No account deleted."
+msgstr "Nessun account eliminato."
+
+msgid "No account set as primary."
+msgstr "Nessun account impostato come principale."
+
+msgid "No active games."
+msgstr "Nessun gioco attivo."
+
+msgid ""
+"No characters found on that account. Please confirm account and try again."
+msgstr ""
+"Nessun personaggio trovato su quell'account. Per favore conferma l'account e "
+"riprova."
+
+msgid "No choices received, request cancelled."
+msgstr "Nessuna scelta ricevuta, richiesta annullata."
+
+msgid "No completed raids found for {name}"
+msgstr "Nessun raid completo trovato per {name}"
+
+msgid "No data for {name}"
+msgstr "Nessun dato su {name}"
+
+msgid "No events for this server."
+msgstr "Nessun evento per questo server."
+
+msgid "No games currently being played."
+msgstr "Nessun gioco giocato al momento."
+
+msgid "No group categories defined for this server."
+msgstr "Nessuna categoria di gruppo definita per questo server."
+
+msgid "No group found for {role}"
+msgstr "Nessun gruppo trovato per {role}"
+
+msgid "No groups defined for this server."
+msgstr "Nessun gruppo definito per questo server."
+
+msgid "No groups defined on {server}, use {command}"
+msgstr "Nessun gruppo definito su {server}, usa {command}"
+
+msgid "No guilds registered for live Paragon matches"
+msgstr "Nessun server registrato per incontri live di Paragon"
+
+msgid "No matches found. Submit some via {prefix}csgo match <share code>"
+msgstr ""
+"Nessun incontro trovato. Inseriscine uno tramite {prefix}csgo match <share "
+"code>"
+
+msgid "No matches recorded."
+msgstr "Nessun incontro registrato."
+
+msgid "No operator information found for {name} on {platform} {region}"
+msgstr ""
+"Nessuna informazione sull'operatore trovata per {name} su {platform} {region}"
+
+msgid "No raid history found for {name}"
+msgstr "Nessuna cronologia dei raid trovata per {name}"
+
+msgid "No ranked CSGO players found on this server. Do {prefix}csgo first."
+msgstr ""
+"Nessun giocatore di CSGO classificato trovato su questo server. Prima usa "
+"{prefix}csgo."
+
+msgid "No rare trophies found for {account}"
+msgstr "Nessun trofeo raro trovato per {account}"
+
+msgid "No recent matches could be found."
+msgstr "Non è stato trovato nessun incontro recente."
+
+msgid "No recent matches found for {account}"
+msgstr "Non è stato trovato nessun incontro per {account}"
+
+msgid "No recent trophies found for {account}"
+msgstr "Non è stato trovato nessun trofeo per {account}"
+
+msgid "No response from user."
+msgstr "Nessuna risposta dall'utente."
+
+msgid "No season information found for {name} on {platform} {region}"
+msgstr ""
+"Nessuna informazione della stagione trovata per {name} su {platform} {region}"
+
+msgid "No trophy cabinet found for {account}"
+msgstr "Nessuna teca dei trofei trovata per {account}"
+
+msgid "No {game} players found on this server. Do {prefix}{game_key} first."
+msgstr ""
+"Nessun giocatore di {game} trovato su questo server. Prima usa {prefix}"
+"{game_key}."
+
+msgid "No {game} stats found for {user} on {platform}"
+msgstr "Nessuna statistica di {game} trovata per {user} su {platform}"
+
+msgid "Not tagging any groups in this event."
+msgstr "Non taggando nessun gruppo per questo evento."
+
+msgid "Only the event owner ({owner_name}) can cancel this event."
+msgstr ""
+"Solo il proprietario dell'evento ({owner_name}) può annullare questo evento."
+
+msgid "Platform invalid, valid platforms: {platforms}"
+msgstr "Piattaforma non valida, piattaforme valide: {platforms}"
+
+msgid "Player {account} not found"
+msgstr "Giocatore {account} non trovato"
+
+msgid "Player {user} (aka {nickname}) has no stats for season {season}."
+msgstr ""
+"Giocatore {user} (aka {nickname}) non ha statistiche per la stagione "
+"{season}."
+
+msgid "Playstation is not yet supported, sorry!"
+msgstr "PlayStation non è ancora supportata, mi dispiace!"
+
+msgid "Please answer the following questions:"
+msgstr "Per favore rispondi alle seguenti domande:"
+
+msgid ""
+"Please click the following link and log in to Battle.net to allow the bot to "
+"lookup your WoW characters: {link}"
+msgstr ""
+"Per favore clicca il seguente link, accedi al tuo account Battle.net e "
+"permetti al bot di vedere i tuoi personaggi di WoW: {link}"
+
+msgid "Please enter the platform you play on (PC, PSN, XBL):"
+msgstr "Per favore inserisci la piattaforma su cui giochi (PC, PSN, XBL):"
+
+msgid "Please enter your BattleTag (in the format name#0000):"
+msgstr "Per favore inserisci il tuo BattleTag (usando il formato nome#0000):"
+
+msgid "Please enter your Epic Account name:"
+msgstr "Per favore inserisci il nome del tuo account Epic:"
+
+msgid "Please enter your LoL Summoner name:"
+msgstr "Per favore inserisci il nome del tuo Summoner di LoL:"
+
+msgid "Please enter your LoL region (one of {regions}):"
+msgstr "Per favore inserisci la tua regione di LoL (una tra {regions}):"
+
+msgid "Please enter your PSN id:"
+msgstr "Per favore inserisci il tuo id PSN:"
+
+msgid "Please enter your PUBG name:"
+msgstr "Per favore inserisci il tuo nome di PUBG:"
+
+msgid "Please enter your XBL Gamertag:"
+msgstr "Per favore inserisci il tuo Gamertag di XBL:"
+
+msgid "Please enter your account name for {class_name}:"
+msgstr "Per favore inserisci il nome dell'account per {class_name}:"
+
+msgid "Please enter your region (one of {regions}):"
+msgstr "Per favore inserisci la tua regione (una tra {regions}):"
+
+msgid "Please enter your {game} account name:"
+msgstr "Per favore inserisci il nome del tuo account {game}:"
+
+msgid "Portal code"
+msgstr "Codice portale"
+
+msgid "Prestige role reset cancelled."
+msgstr "Reset dei ruoli Prestige annullato."
+
+msgid "Prestige roles not setup for {guild}, game: {game}, stat: {stat}"
+msgstr "Ruoli Prestige non impostati per {guild}, gioco: {game}, stat: {stat}"
+
+msgid "Prestige setup cancelled."
+msgstr "Impostazione Prestige annullata."
+
+msgid "Prestige setup complete."
+msgstr "Impostazione Prestige completa."
+
+msgid "Profile NOT removed."
+msgstr "Profilo NON rimosso."
+
+msgid ""
+"Profile created. To add accounts use {prefix}add <account>\n"
+"Supported accounts: {accounts}"
+msgstr ""
+"Profilo creato. Per aggiungere account usa {prefix}add <account>\n"
+"Account supportati: {accounts}"
+
+msgid "Profile not found."
+msgstr "Profilo non trovato."
+
+msgid "Profile successfully deleted."
+msgstr "Profilo eliminato con successo."
+
+msgid "Registering Ark server {ip}:{port} for this server"
+msgstr "Registrando server Ark {ip}:{port} per questo server"
+
+msgid "Removed group {role}"
+msgstr "Rimosso gruppo {role}"
+
+msgid "Removed prestige for {game}, {stat_name}"
+msgstr "Rimosso prestige per {game}, {stat_game}"
+
+msgid "Removed: {account}"
+msgstr "Rimosso: {account}"
+
+msgid "Request accepted"
+msgstr "Richiesta accettata"
+
+msgid "Request accepted. Adding to {name}"
+msgstr "Richiesta accettata. Aggiungendo a {name}"
+
+msgid "Request declined"
+msgstr "Richiesta rifiutata"
+
+msgid "Requesting permission from {name}"
+msgstr "Richiedendo permesso da {name}"
+
+msgid "Resetting Prestige roles..."
+msgstr "Resettando ruoli Prestige..."
+
+msgid "Searching for FC {name} on {server}..."
+msgstr "Cercando FC {name} su {server}..."
+
+msgid ""
+"Select a stat to base rank on by replying with one from the below list:\n"
+"\n"
+"{games}"
+msgstr ""
+"Scegli una statistica su cui basare il rank rispondendo con uno della "
+"seguente lista:\n"
+"\n"
+"{games}"
+
+msgid ""
+"Select all characters by entering **all** or enter their numbers in a list e."
+"g: 1 3 5 6 7"
+msgstr ""
+"Scegli tutti i personaggi scrivendo **all** o scrivi i loro numeri in una "
+"lista ex: 1 3 5 7"
+
+msgid "Set as primary: {account}"
+msgstr "Impostato come principale: {account}"
+
+msgid "Set language for {guild_name} to {language}"
+msgstr "Impostato {language} come lingua per {guild_name}"
+
+msgid "Shows your stats from {game}"
+msgstr "Mostra le tue stat da {game}"
+
+msgid "Sorry I can't find {name} on {server}, are you sure that's correct?"
+msgstr "Non riesco a trovare {name} su {server}, sei sicuro che sia giusto?"
+
+msgid "Sorry that account isn't on your profile."
+msgstr "Quell'account non è sul tuo profilo."
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}"
+msgstr ""
+"L'account {account} non è ancora supportato.\n"
+"Gli account supportati sono {accounts}"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+"L'account {account} non è ancora supportato.\n"
+"Gli account supportati sono {accounts}\n"
+"\n"
+"Per esempio, usa: **{prefix} add steam**"
+
+msgid ""
+"Sorry the account {account} is not supported yet.\n"
+"The supported accounts are {supported_accounts}\n"
+"\n"
+"For example enter the following: **{prefix}add steam**"
+msgstr ""
+"L'account {account} non è ancora supportato.\n"
+"Gli account supportati sono {supported_accounts}\n"
+"\n"
+"Per esempio, usa: **{prefix} add steam**"
+
+msgid "Sorry, I didn't get that. Please try again"
+msgstr "Scusa, non ho capito. Per favore riprova"
+
+msgid "Sorry. This command is disabled and cannot be used."
+msgstr "Mi dispiace, questo comando è disabilitato e non può essere usato."
+
+msgid "Start Time"
+msgstr "Tempo di partenza"
+
+msgid "Supported accounts: {accounts}"
+msgstr "Account supportati: {accounts}"
+
+msgid ""
+"Supported games:\n"
+"{games}"
+msgstr ""
+"Giochi supportati:\n"
+"{games}"
+
+msgid "Tagging the following groups in your event: {groups}"
+msgstr "Taggando i seguenti gruppi nel tuo evento: {groups}"
+
+msgid "That emoji was not found. Use your own or pick from {prefix}lfg emojis"
+msgstr ""
+"Quell'emoji non è stata trovata. Usa una delle tue oppure scegline una da "
+"{prefix}lfg emojis"
+
+msgid "That event was not found on this server."
+msgstr "Quell'evento non è stato trovato su questo server."
+
+msgid "That group category is already defined for this server."
+msgstr "Questa categoria di gruppo è già stata definita per questo server."
+
+msgid "That group is already defined for this server."
+msgstr "Questo gruppo è già stato definito per questo server."
+
+msgid "That is not a valid stat type for {game}."
+msgstr "Quello non è un tipo di stat valido per {game}."
+
+msgid "That leaderboard was not found, please try again."
+msgstr "Quella classifica non è stata trovata, per favore riprova."
+
+msgid "That match ID does not look valid, please try again."
+msgstr "Quel ID dell'incontro non sembra essere valido, per favore riprova."
+
+msgid "That region wasn't valid, please use one of {regions}."
+msgstr "Quella regione non è valida, per favore usa una tra {regions}."
+
+msgid "That role doesn't exist and I don't have the permissions to create it."
+msgstr "Quel ruolo non esiste e non ho i permessi per crearlo."
+
+msgid "That time isn't valid, try again."
+msgstr "Quel tempo non è valido, per favore riprova."
+
+msgid "That timezone isn't valid, try again."
+msgstr "Quella fascia oraria non è valida, per favore riprova."
+
+msgid "That user can no longer be found."
+msgstr "Quell'utente non può più essere trovato."
+
+msgid "That user hasn't added an account for {game}"
+msgstr "Quell'utente non ha aggiunto nessun account per {game}"
+
+msgid "That was not a valid choice. You have {tries} more tries."
+msgstr "Quella non era una scelta valida. Hai ancora {tries} tentativi."
+
+msgid "That wasn't a valid answer, please answer yes or no."
+msgstr "Quella non era una risposta valida, per favore rispondi yes o no."
+
+msgid "That's not a valid platform, the options are: {platforms}"
+msgstr "Quella non è una piattaforma valida, le opzioni sono: {platforms}"
+
+msgid ""
+"The BattleTag {user} is not in the right format, please try again. I needs "
+"to be like name#0001"
+msgstr ""
+"Il BattleTag {user} non è nel formato corretto, per favore riprova. Deve "
+"essere come nome#0000"
+
+msgid ""
+"The account names don't match and may not work, try checking capitalisation. "
+"{user} vs. {account}"
+msgstr ""
+"I nomi degli account non coincidono e potrebbe non funzionare, prova a "
+"controllare le lettere maiuscole/minuscole. {user} vs {account}"
+
+msgid "The available platforms are {platforms}"
+msgstr "Le piattaforme disponibili sono {platforms}"
+
+msgid ""
+"The location code must be in the format HUKYA:XXXX:XXXX:XXXX:XXXX Please "
+"check your code and try again."
+msgstr ""
+"Il codice della posizione dev'essere nel formato HUKYA:XXXX:XXXX:XXXX:XXXX "
+"Per favore controlla il tuo codice e riprova."
+
+msgid "The roles format was incorrect, please try again. (Or cancel with x)"
+msgstr ""
+"Il formato dei ruoli non era corretto, per favore riprova. (O annulla con x)"
+
+msgid ""
+"The user {user} does not appear valid, please check your profile is not "
+"private and try again."
+msgstr ""
+"L'utente {user} non sembra valido, per favore controlla che il tuo profilo "
+"non sia privato e riprova."
+
+msgid "The user {user} does not have a Destiny profile on {platform}."
+msgstr "L'utente {user} non ha un profilo di Destiny su {platform}."
+
+msgid "The user {user} does not have a Paragon profile on {platform}."
+msgstr "L'utente {user} non ha un profilo di Paragon su {platform}."
+
+msgid ""
+"The user {user} does not have a Wargaming.net account on {platform} in "
+"{region}."
+msgstr ""
+"L'utente {user} non ha un profilo di Wargaming.net su {platform} in {region}."
+
+msgid "The user {user} does not have a {game} profile on {platform}."
+msgstr "L'utente {user} non ha un profilo di {game} su {platform}."
+
+msgid ""
+"There are multiple matches. Please clarify by replying with the number of "
+"the correct choice?"
+msgstr ""
+"Ci sono più incontri. Per favore specifica quale rispondendo con il numero "
+"della scelta corretta."
+
+msgid "There was an issue looking up that account, please try again later"
+msgstr ""
+"C'è stato un problema nel cercare quell'account, per favore riprova più tardi"
+
+msgid ""
+"There was an issue processing that command, please try again.\n"
+"If the issue continues please seek help in the support server on the help "
+"menu."
+msgstr ""
+"C'è stato un problema nel processare quel comando, per favore riprova più "
+"tardi.\n"
+"Se il problema persiste per favore cerca aiuto sul server di supporto dal "
+"menù di aiuto."
+
+msgid ""
+"There was an issue retrieving that players stats from the PUBG API. Please "
+"try again in a few minutes."
+msgstr ""
+"C'è stato un problema nel recuperare le statistiche di quel giocatore "
+"dall'API di PUBG. Per favore riprova tra qualche minuto."
+
+msgid ""
+"There was an issue retrieving your profile from Uplay. Please try again in a "
+"few minutes."
+msgstr ""
+"C'è stato un problema nel recuperare il tuo profilo da Uplay. Per favore "
+"riprova tra qualche minuto."
+
+msgid "This command cannot be used in private messages."
+msgstr "Questo comando non può essere usato in un messaggio privato."
+
+msgid ""
+"This command is currently disabled as Sony changed their API. Your stats "
+"will still work for other games."
+msgstr ""
+"Questo comando è temporaneamente disabilitato dato che Sony ha cambiato il "
+"suo API. Le tue statistiche continueranno a funzionare per gli altri giochi."
+
+msgid "To attend send: {prefix}lfg join {key}"
+msgstr "Per partecipare manda: {prefix}lfg join {key}"
+
+msgid ""
+"To set up rank roles do {prefix}prestige <game>\n"
+"\n"
+"Supported games:\n"
+"{games}"
+msgstr ""
+"Per impostare i ruoli per i rank usa {prefix}prestige <gioco>\n"
+"\n"
+"Giochi supportati:\n"
+"{games}"
+
+msgid ""
+"Top {top_count} games currently being played across {server_count} servers"
+msgstr ""
+"{top_count} migliori giochi che stanno venendo giocati in {server_count} "
+"server"
+
+msgid "Top {top_count} games currently being played in {guild_name}"
+msgstr "{top_count} migliori giochi che stanno venendo giocati in {guild_name}"
+
+msgid "Tournament number {tournament_number} not found."
+msgstr "Il torneo numero {tournament_number} non è stato trovato."
+
+msgid "Un-registering Ark server {ip}:{port} for this server"
+msgstr "Disiscrivendo il server Ark {ip}:{port} per questo server"
+
+msgid "Unable to add emoji, duplicate name: {details}"
+msgstr "Impossibile aggiungere l'emoji, nome doppio: {details}"
+
+msgid "Updating {csgo_players_count} steam users found on this server."
+msgstr ""
+"Aggiornando {csgo_players_count} utenti steam trovati su questo server."
+
+msgid "User doesn't appear to have data on opendota, try visiting {profile}"
+msgstr ""
+"L'utente non sembra avere nessun dato su opendota, prova ad andare su "
+"{profile}"
+
+msgid "User {name} not found."
+msgstr "L'utente {user} non è stato trovato."
+
+msgid ""
+"WARNING: This will attempt to remove Discord roles related to this Prestige "
+"role, are you sure you want to continue?"
+msgstr ""
+"ATTENZIONE: Questo proverà a rimuovere i ruoli di Discord relativi a questo "
+"ruolo Prestige, sei sicuro/a di voler continuare?"
+
+msgid ""
+"Warning: You have multiple accounts for {game} you might want to delete one "
+"with {prefix}delete {game_key} or change your primary account with {prefix}"
+"primary {game_key}"
+msgstr ""
+"Attenzione: Hai più account per {game} potresti voler eliminarne uno con "
+"{prefix}delete {game_key} o cambiare il tuo account principale con {prefix}"
+"primary {game_key}"
+
+msgid ""
+"What is the location of your NMS home base?\n"
+"To find its location, place a Signal Booster and note down the code it shows "
+"when you get close, in the format HUKYA:XXXX:XXXX:XXXX:XXXX"
+msgstr ""
+"Qual è la posizione della tua base NMS?\n"
+"Per trovare la sua posizione, piazza un Signal Booster a annota il codice "
+"che mostra quando ti avvicini, nel formato HUKYA:XXXX:XXXX:XXXX:XXXX"
+
+msgid "What is your Hi-Rez username?"
+msgstr "Qual è il tuo username Hi-Rez?"
+
+msgid "What is your Z8Games username?"
+msgstr "Qual è il tuo username Z8Games?"
+
+msgid "What is your character's name?"
+msgstr "Qual è il nome del tuo personaggio?"
+
+msgid "What is your osu! username?"
+msgstr "Qual è il tuo username di osu!?"
+
+msgid ""
+"What is your steam account? Please reply below.\n"
+"It can be in the form of:\n"
+"Vanity URL (<https://steamcommunity.com/id/name>)\n"
+"Vanity name (name from url above)\n"
+"Profile URL (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+msgstr ""
+"Qual è il tuo account steam? Per favore rispondi qua sotto.\n"
+"Può essere nella forma di:\n"
+"Vanity URL (<https://steamcommunity.com/id/name>)\n"
+"Vanity name (nome dall'URL sopra)\n"
+"Profile URL (<https://steamcommunity.com/profiles/123456789012345>)\n"
+"Steam Community ID (123456789012345)\n"
+"Steam ID (STEAM_0:0:0123456)"
+
+msgid "What platform do you play {game} on? [{platforms}]"
+msgstr "Su quali piattaforme giochi {game}? [{platforms}]"
+
+msgid "What region do you play WoW in? [EU, US, KR, TW]"
+msgstr "In quale regione giochi WoW? [EU, US, KR, TW]"
+
+msgid "What server is your character on?"
+msgstr "Su quale server è il tuo personaggio?"
+
+msgid "What time will the event end? (Format: YYYY-MM-DD HH:MM)"
+msgstr "Quando finirà l'evento? (Formato: YYYY-MM-DD HH:MM)"
+
+msgid ""
+"What time will the event start? (Format: YYYY-MM-DD HH:MM or x to cancel)"
+msgstr "Quando inizierà l'evento? (formato YYYY-MM-DD HH:MM o x per annullare)"
+
+msgid ""
+"What timezone is the event in (e.g. UTC, America/New_York, Europe/London, "
+"Asia/Tokyo, Etc/GMT-7)? (x will use the default UTC)"
+msgstr ""
+"In quale fascia oraria è l'evento? (ex: UTC, America/New_York, Europe/"
+"London, Asia/Tokyo, Etc/GMT-7) (usa x per impostare UTC)"
+
+msgid ""
+"Which groups would you like to tag with this event? Select as many as you "
+"want then select the tick."
+msgstr ""
+"Quali gruppi vorresti taggare con questo evento? Scegline quanti ne vuoi, "
+"poi seleziona la spunta."
+
+msgid "Xbox is not yet supported, sorry!"
+msgstr "Xbox non è ancora supportata, mi dispiace!"
+
+msgid "You are already attending this event."
+msgstr "Stai già partecipando a questo evento."
+
+msgid "You can't add a profile to {name} because it's a bot"
+msgstr "Non puoi aggiungere un profilo a {name} perché è un bot"
+
+msgid "You do not have permission to change the language on {guild}."
+msgstr "Non hai il permesso di cambiare lingua su {guild}."
+
+msgid ""
+"You don't appear to play Siege on PC. Select PSN/XBL by doing {prefix}add "
+"siege"
+msgstr ""
+"Non sembri giocare Siege su PC. Seleziona PSN/XBL quando usi {prefix}add "
+"siege"
+
+msgid "You don't have any accounts on your profile, add some!"
+msgstr "Non hai nessun account sul tuo profilo, aggiungine uno!"
+
+msgid "You don't have {account} on your profile."
+msgstr "Non hai {account} sul tuo profilo."
+
+msgid "You have already registered {account}"
+msgstr "Hai già registrato {account}"
+
+msgid "You have been removed from {key}."
+msgstr "Sei stato rimosso da {key}."
+
+msgid ""
+"You have no groups to tag in your events. Add some with {prefix}lfg groups "
+"add"
+msgstr ""
+"Non hai gruppi da taggare nei tuoi eventi. Aggiungine uno con {prefix}lfg "
+"groups add"
+
+msgid "You have successfully signed up for {key}."
+msgstr "Ti sei registrato con successo per {key}."
+
+msgid "You haven't registered for any events."
+msgstr "Non sei registrato per nessun evento."
+
+msgid "You need to add an account for {game}, do {prefix}add {game_key}"
+msgstr "Devi aggiungere un account per {game}, usa {prefix}add {game_key}"
+
+msgid ""
+"You need to add some games, DM me with {prefix}add <account>. See {prefix}"
+"accounts for supported accounts."
+msgstr ""
+"Hai bisogno di qualche gioco, mandami un messaggio diretto con {prefix}add "
+"<account>. Vedi {prefix} accounts per gli account supportati."
+
+msgid "You need {roles} roles, please try again. (Or cancel with x)"
+msgstr "Ti servono {roles} ruoli, per favore riprova. (O annulla con x)"
+
+msgid "You took too long to respond, Prestige setup cancelled."
+msgstr "Ci hai messo troppo per rispondere, impostazione Prestige annullata."
+
+msgid "You took too long to respond, event creation cancelled."
+msgstr "Ci hai messo troppo per rispondere, creazione dell'evento annullata."
+
+msgid "You took too long to respond, prestige setup cancelled."
+msgstr "Ci hai messo troppo per rispondere, impostazione prestige annullata."
+
+msgid "You were not attending this event."
+msgstr "Non stai partecipando a questo evento."
+
+msgid "Your character is not part of any FC."
+msgstr "Il tuo personaggio non è parte di nessun FC."
+
+msgid ""
+"Your profile is private. This setting can be modified in Overwatch under "
+"Options – Social."
+msgstr ""
+"Il tuo profilo è privato. Questa impostazione può essere modificata da "
+"Overwatch sotto Opzioni – Social."
+
+msgid "f disabled on {guild_name}"
+msgstr "f disabilitato su {guild_name}"
+
+msgid "f enabled in {guild_name}"
+msgstr "f abilitato in {guild_name}"
+
+msgid "f enabled on {guild_name}"
+msgstr "f abilitato su {guild_name}"
+
+msgid ""
+"{author} ({guild}) wants to add the following accounts to your profile, do "
+"you accept? (Reply with yes or no)\n"
+"{accounts}"
+msgstr ""
+"{author} ({guild}) vuole aggiungere i seguenti account al tuo profilo, vuoi "
+"accettare? (Rispondi con yes o no)\n"
+"{accounts}"
+
+msgid "{channel} in {guild} registered to receive live match updates."
+msgstr ""
+"{channel} in {guild} registrato per ricevere aggiornamenti sugli incontri in "
+"diretta."
+
+msgid "{game} Leaderboard for {guild}"
+msgstr "Classifica di {game} per {guild}"
+
+msgid "{game} account not found for {user}"
+msgstr "Account di {game} non trovato per {user}"
+
+msgid "{game} account not found for {user} on {platform}"
+msgstr "Account di {game} non trovato per {user} su {platform}"
+
+msgid "{game} is not currently supported, check back soon."
+msgstr "{game} non è supportato per ora, controlla presto."
+
+msgid "{game} live games for {guild}"
+msgstr "Partite di {game} in diretta per {guild}"
+
+msgid "{game} stats not found for {user} on {platform}"
+msgstr "Statistiche di {game} non trovate per {user} su {platform}"
+
+msgid "{guild} unregistered from receiving live match updates."
+msgstr ""
+"{guild} disiscritta dal riceve aggiornamenti sugli incontri in diretta."
+
+msgid ""
+"{language_key} added to list of available languages, which are: [{languages}]"
+msgstr ""
+"{language_key} aggiunta alla lista di linguaggi disponibili, che sono: "
+"[{languages}]"
+
+msgid ""
+"{language_key} removed from available languages, which are: [{languages}]"
+msgstr ""
+"{language_key} rimossa alla lista di linguaggi disponibili, che sono: "
+"[{languages}]"
+
+msgid "{language} not in list of available languages: {languages}"
+msgstr "{language} non è nella lista di linguaggi disponibili: {languages}"
+
+msgid "{name} declined"
+msgstr "{name} rifiutato"
+
+msgid "{name} does not appear to have any stats available."
+msgstr "{name} non sembra avere nessuna statistica disponibile."
+
+msgid "{region} is not a valid region. Please choose one of [{regions}]"
+msgstr ""
+"{region} non è una regione valida. Per favore scegli una tra [{regions}]"
+
+msgid "{steam_user}'s has no stats available for CSGO"
+msgstr "{steam_user} non ha statistiche disponibili per CSGO"
+
+msgid "{steam_user}'s profile is private, no stats could be retrieved."
+msgstr ""
+"Il profilo di {steam_user} è privato, non è stato possibile recuperare "
+"nessuna statistica."
+
+msgid "{user} does not appear to be a valid Hi-Rez player."
+msgstr "{user} non sembra avere un giocatore Hi-Rez valido."
+
+msgid "{user} does not appear to be a valid LoL Summoner in {region}."
+msgstr "{user} non sembra avere un Summoner di LoL valido in {region}."
+
+msgid "{user} does not appear to be a valid XBL Gamertag."
+msgstr "{user} non sembra avere un Gamertag XBL valido."
+
+msgid "{user} does not appear to be a valid Z8Games user."
+msgstr "{user} non sembra avere un utente Z8Games valido."
+
+msgid "{user} does not appear to be a valid osu! user."
+msgstr "{user} non sembra avere un utente osu! valido."
+
+msgid "{user}'s Home Base"
+msgstr "Base di {user}"
+
+msgid ""
+"{user}'s profile set to private. This setting can be modified in Overwatch "
+"under Options – Social."
+msgstr ""
+"Il profilo di {user} è privato. Questa impostazione può essere cambiata in "
+"Overwatch sotto Opzioni – Social."
